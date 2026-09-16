@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Pacius Holy Road",
-  "encounterList": [
-
-  ],
+  "displayName": "Camino Sagrado de Pacius",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 70,
   "note": "",
@@ -25270,9 +25268,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25280,9 +25276,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25345,7 +25339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stop gathering information and rejoin the others?"
+                "¿Dejar de recopilar información y reunirse con los\ndemás?"
               ]
             },
             {
@@ -25353,7 +25347,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -25367,15 +25361,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 211,
@@ -25418,9 +25410,7 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 122,
@@ -25443,9 +25433,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -25479,7 +25467,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Three days later..."
+                "Tres días después..."
               ]
             },
             {
@@ -25497,9 +25485,7 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -25511,9 +25497,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 201,
@@ -25544,9 +25528,7 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -25558,9 +25540,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 129,
@@ -25656,9 +25636,7 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -25683,22 +25661,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's nighttime! Let's head to the back of the temple and get inside!"
+                "¡Es de noche! ¡Vamos a la parte trasera del templo\ny entremos!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -25742,23 +25718,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25766,9 +25736,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25977,9 +25945,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25987,9 +25953,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26062,9 +26026,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26072,9 +26034,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26126,9 +26086,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26136,9 +26094,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26190,9 +26146,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26200,9 +26154,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26268,16 +26220,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 223,
@@ -26303,9 +26251,7 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 122,
@@ -26332,9 +26278,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26342,9 +26286,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26396,9 +26338,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26406,9 +26346,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26471,21 +26409,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Look at all those lovely fish swimming around. They'd make a real "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "good dinner sliced up raw or in a stew."
+                "Mira todos esos hermosos peces nadando por ahí.\nSerían una cena deliciosa, cortados crudos o en\nguiso."
               ]
             },
             {
@@ -26502,29 +26433,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unfortunately, these fish are protected by the laws of Pacius. Ugh..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I want to fish them up so badly, but they're under God's protection."
+                "Lamentablemente, estos peces están protegidos por\nlas leyes de Pacio. Uf... ¡Qué ganas tengo de\npescarlos, pero están bajo la protección de Dios!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26532,9 +26454,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26586,9 +26506,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -26642,9 +26560,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26696,9 +26612,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -26839,9 +26753,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26893,9 +26805,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -26949,9 +26859,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27003,9 +26911,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27059,9 +26965,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27113,9 +27017,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27169,9 +27071,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27223,9 +27123,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27279,9 +27177,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27333,9 +27229,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27389,9 +27283,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27443,9 +27335,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27499,9 +27389,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27553,9 +27441,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27609,9 +27495,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27663,9 +27547,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -27719,9 +27601,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27773,9 +27653,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27783,9 +27661,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27848,29 +27724,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pacius Liquor Merchant:"
+                "Comerciante de licores Pacius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I sell sacramental wines for offering at the temple. You can't buy "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "these anywhere outside of Pacius."
+                "Vendo vinos sacramentales para ofrendar en el\ntemplo. No se pueden comprar fuera de Pacius."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27878,9 +27745,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27943,29 +27808,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hurry up, mom! We can buy wine over there! I've been really "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "looking forward to this!"
+                "¡Date prisa, mamá! ¡Podemos comprar vino allá!\n¡Tenía muchísimas ganas de venir!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27973,9 +27829,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28027,9 +27881,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28037,9 +27889,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28091,9 +27941,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28101,9 +27949,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28155,9 +28001,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28165,9 +28009,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28230,21 +28072,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pacius Dry Goods Merchant:"
+                "Comerciante de productos secos Pacius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Our silks are farmed from silkworms that have been raised on"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sacred mulberry leaves."
+                "Nuestras sedas provienen de gusanos de seda\ncriados con hojas de morera sagrada."
               ]
             },
             {
@@ -28261,29 +28096,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pacius Dry Goods Merchant:"
+                "Comerciante de productos secos Pacius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you'd like to buy some, head to the nearest clothing stall. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There are countless ones lined up along the main street."
+                "Si quieres comprar algo, ve al puesto de ropa más\ncercano. Hay muchísimos a lo largo de la calle\nprincipal."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28291,9 +28117,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28396,9 +28220,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28406,9 +28228,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28471,21 +28291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Flower-Selling Sister:"
+                "Hermana vendedora de flores:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These flowers have been grown in the holy land of Pacius. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The radiance of their petals will draw God's eye to you."
+                "Estas flores se cultivan en la tierra santa de\nPacio. El resplandor de sus pétalos atraerá la\nmirada de Dios hacia ti."
               ]
             },
             {
@@ -28502,29 +28315,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Flower-Selling Sister:"
+                "Hermana vendedora de flores:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're a mere ten thousand iru each. Allow me to pin it to your "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "breast... Pardon? You don't want one?"
+                "Son solo diez mil iru cada uno. Permíteme\nprendertelo en el pecho... ¿Perdón? ¿No quieres\nuno?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28532,9 +28336,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28597,21 +28399,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Flower-Selling Sister:"
+                "Hermana vendedora de flores:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those who visit the holy land of Pacius should be sure to buy a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "holy flower to take home and display by their front door."
+                "Aquellos que visiten la tierra santa de Pacio\ndeberían asegurarse de comprar una flor sagrada\npara llevar a casa y exhibirla en la puerta de\nentrada."
               ]
             },
             {
@@ -28628,29 +28423,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Flower-Selling Sister:"
+                "Hermana vendedora de flores:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's both a common custom and good sense. I can sell you a set with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a vase for just twenty thousand iru... Pardon? You don't want one?"
+                "Es una costumbre común y de sentido común. Puedo\nvenderte un juego con jarrón por solo veinte mil\niru... ¿Perdón? ¿No quieres uno?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28658,9 +28444,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28712,9 +28496,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28722,9 +28504,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28776,9 +28556,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28786,9 +28564,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28840,9 +28616,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28850,9 +28624,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28904,9 +28676,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28914,9 +28684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28968,9 +28736,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28978,9 +28744,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29032,9 +28796,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29042,9 +28804,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29096,9 +28856,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29106,9 +28864,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29160,9 +28916,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29170,9 +28924,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29224,9 +28976,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29234,9 +28984,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29288,9 +29036,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29298,9 +29044,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29352,9 +29096,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29362,9 +29104,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29416,9 +29156,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29426,9 +29164,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29498,29 +29234,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They say you're not supposed to walk in the middle of the road!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Why not!? Why not!? Kyahahahaha!"
+                "¡Dicen que no se debe caminar por el medio de la\ncalle! ¿Por qué no? ¿Por qué no? ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29547,9 +29274,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29610,29 +29335,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They say you're not supposed to walk in the middle of the road!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Why not!? Why not!? Kyahahahaha!"
+                "¡Dicen que no se debe caminar por el medio de la\ncalle! ¿Por qué no? ¿Por qué no? ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29659,9 +29375,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29713,9 +29427,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29723,9 +29435,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29777,9 +29487,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29787,9 +29495,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29841,9 +29547,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29851,9 +29555,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29905,9 +29607,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29915,9 +29615,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29969,9 +29667,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29979,9 +29675,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30051,29 +29745,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are no adults in the middle of the road, so let's run down it! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'll race you! Kyahahahaha!"
+                "No hay adultos en medio de la carretera, ¡así que\ncorramos! ¡Te echo una carrera! ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30100,9 +29785,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30163,29 +29846,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are no adults in the middle of the road, so let's run down it! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'll race you! Kyahahahaha!"
+                "No hay adultos en medio de la carretera, ¡así que\ncorramos! ¡Te echo una carrera! ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30212,9 +29886,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30284,29 +29956,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They say only the Sages are allowed to walk in the middle of the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "road! I don't care! Kyahahahaha!"
+                "¡Dicen que solo los Sabios pueden andar por el\ncamino! ¡Me da igual! ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30333,9 +29996,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30396,29 +30057,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Little Brat:"
+                "Pequeño mocoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They say only the Sages are allowed to walk in the middle of the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "road! I don't care! Kyahahahaha!"
+                "¡Dicen que solo los Sabios pueden andar por el\ncamino! ¡Me da igual! ¡Jajajajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30445,9 +30097,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30499,9 +30149,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30509,9 +30157,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30563,9 +30209,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30573,9 +30217,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30627,9 +30269,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30637,9 +30277,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30691,9 +30329,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30701,9 +30337,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30766,21 +30400,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the holy land of Pacius, the purest country in the world."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We are specially blessed by God."
+                "Esta es la tierra santa de Pacio, el país más puro\ndel mundo. Dios nos ha bendecido especialmente."
               ]
             },
             {
@@ -30797,29 +30424,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please don't walk along the center of the Holy Road. It's reserved "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "solely for the Sages who spread God's word."
+                "Por favor, no camines por el centro del Camino\nSagrado. Está reservado únicamente para los Sabios\nque difunden la palabra de Dios."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30827,9 +30445,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30872,9 +30488,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30882,9 +30496,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30947,21 +30559,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm really looking forward to seeing the Sage. His form, appearing "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "from the temple, is nothing less than the avatar of God."
+                "Tengo muchas ganas de ver al Sabio. Su forma, al\nsurgir del templo, es nada menos que el avatar de\nDios."
               ]
             },
             {
@@ -30978,29 +30583,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I must strengthen my virtue so I may one day serve at the temple. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That is my dream."
+                "Debo fortalecer mi virtud para poder algún día\nservir en el templo. Ese es mi sueño."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31008,9 +30604,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31086,9 +30680,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31096,9 +30688,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31161,14 +30751,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once a month, the Sage descends to speak God's word to us."
+                "Una vez al mes, el Sabio desciende para hablarnos\nla palabra de Dios."
               ]
             },
             {
@@ -31185,29 +30775,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Many people gather and carve the Sage's words into their hearts."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It will be the most fulfilling moment of your life."
+                "Mucha gente se reúne y graba las palabras del\nSabio en sus corazones. Será el momento más\ngratificante de su vida."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31215,9 +30796,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31280,21 +30859,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The temple lies up ahead. It's the house of God, where His incarnation, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the Sage, resides."
+                "El templo se encuentra más adelante. Es la casa de\nDios, donde reside su encarnación, el Sabio."
               ]
             },
             {
@@ -31311,21 +30883,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Visits aren't forbidden, but most have too much respect and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "humility to dare set foot inside."
+                "Las visitas no están prohibidas, pero la mayoría\ntiene demasiado respeto y humildad para atreverse\na poner un pie dentro."
               ]
             },
             {
@@ -31342,29 +30907,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you understand? Do you think the common man could dare to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "set foot in the house of God?"
+                "¿Entiendes? ¿Crees que un hombre común se\natrevería a entrar en la casa de Dios?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31372,9 +30928,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31465,9 +31019,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31475,9 +31027,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31568,9 +31118,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31578,9 +31126,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31643,22 +31189,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Arabian Man:"
+                "Hombre árabe:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for someone, I can help you find them."
+                "Si estás buscando a alguien, puedo ayudarte a\nencontrarlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31666,9 +31210,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31722,22 +31264,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Arabian Man:"
+                "Hombre árabe:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for someone, I can help you find them."
+                "Si estás buscando a alguien, puedo ayudarte a\nencontrarlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31745,9 +31285,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31810,22 +31348,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just how many souvenir shops are there? They go on and on..."
+                "¿Cuántas tiendas de souvenirs hay? ¡Siguen sin\nparar!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31833,9 +31369,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31926,9 +31460,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31936,9 +31468,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32001,29 +31531,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Madam:"
+                "Señora:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once a month, the Sage descends to walk the Holy Road. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'll have to make sure to get a commemorative photo."
+                "Una vez al mes, el Sabio desciende a recorrer el\nCamino Sagrado. Tendré que asegurarme de sacarme\nuna foto conmemorativa."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32031,9 +31552,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32124,9 +31643,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32134,9 +31651,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32188,9 +31703,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32198,9 +31711,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32243,9 +31754,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32253,9 +31762,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32347,9 +31854,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -32424,23 +31929,17 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -32461,23 +31960,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 129,
@@ -32536,16 +32029,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32553,9 +32042,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32598,9 +32085,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32608,9 +32093,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32662,9 +32145,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32672,9 +32153,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32726,9 +32205,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32736,9 +32213,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32790,9 +32265,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32800,9 +32273,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32854,9 +32325,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32864,9 +32333,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32918,9 +32385,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32928,9 +32393,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32993,21 +32456,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Pant* *Pant*... I'm buying souvenirs for my family and coworkers, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but Pacius has so many specialty products!"
+                "*Jadeo* *Jadeo*... Estoy comprando recuerdos para\nmi familia y compañeros de trabajo, ¡pero Pacius\ntiene tantos productos especiales!"
               ]
             },
             {
@@ -33024,29 +32480,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Pant* *Pant*... What should I get next? Meat buns, ice cream,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "key holders..."
+                "*Jadeo* *Jadeo*... ¿Qué debería comprar ahora?\nBollos de carne, helado, llaveros..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33054,9 +32501,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33110,21 +32555,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Pant* *Pant*... I'm buying souvenirs for my family and coworkers, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but Pacius has so many specialty products!"
+                "*Jadeo* *Jadeo*... Estoy comprando recuerdos para\nmi familia y compañeros de trabajo, ¡pero Pacius\ntiene tantos productos especiales!"
               ]
             },
             {
@@ -33141,29 +32579,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Pant* *Pant*... What should I get next? Meat buns, ice cream,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "key holders..."
+                "*Jadeo* *Jadeo*... ¿Qué debería comprar ahora?\nBollos de carne, helado, llaveros..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33171,9 +32600,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33236,29 +32663,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This street full of souvenir shops is so long... I wonder how many "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "days it'll take to visit them all."
+                "Esta calle llena de tiendas de souvenirs es tan\nlarga... Me pregunto cuántos días me llevará\nvisitarlas todas."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33266,9 +32684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33320,9 +32736,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33330,9 +32744,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33384,9 +32796,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33394,9 +32804,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33448,9 +32856,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33458,9 +32864,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33512,9 +32916,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33522,9 +32924,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33576,9 +32976,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33586,9 +32984,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33640,9 +33036,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33650,9 +33044,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33704,9 +33096,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33714,9 +33104,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33768,9 +33156,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33778,9 +33164,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33832,9 +33216,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33842,9 +33224,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33896,9 +33276,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33906,9 +33284,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33960,9 +33336,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33970,9 +33344,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34024,9 +33396,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34034,9 +33404,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34088,9 +33456,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34098,9 +33464,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34152,9 +33516,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34162,9 +33524,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34216,9 +33576,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34226,9 +33584,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34280,9 +33636,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34290,9 +33644,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34344,9 +33696,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34354,9 +33704,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34408,9 +33756,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34418,9 +33764,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34472,9 +33816,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34482,9 +33824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34536,9 +33876,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34546,9 +33884,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34600,9 +33936,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34610,9 +33944,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34664,9 +33996,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34674,9 +34004,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34728,9 +34056,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34738,9 +34064,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34792,9 +34116,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34802,9 +34124,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34856,9 +34176,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34866,9 +34184,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34920,9 +34236,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34930,9 +34244,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34984,9 +34296,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34994,9 +34304,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35048,9 +34356,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35058,9 +34364,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35112,9 +34416,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35122,9 +34424,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35176,9 +34476,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35186,9 +34484,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35240,9 +34536,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35250,9 +34544,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35304,9 +34596,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35314,9 +34604,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35368,9 +34656,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35378,9 +34664,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35432,9 +34716,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35442,9 +34724,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35496,9 +34776,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35506,9 +34784,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35560,9 +34836,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35570,9 +34844,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35624,9 +34896,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35634,9 +34904,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35688,9 +34956,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35698,9 +34964,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35752,9 +35016,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35762,9 +35024,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35816,9 +35076,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35826,9 +35084,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35880,9 +35136,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35890,9 +35144,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35944,9 +35196,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35954,9 +35204,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36008,9 +35256,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36018,9 +35264,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36072,9 +35316,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36082,9 +35324,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36136,9 +35376,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36146,9 +35384,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36200,9 +35436,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36210,9 +35444,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36264,9 +35496,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36274,9 +35504,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36328,9 +35556,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36338,9 +35564,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36392,9 +35616,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36402,9 +35624,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36456,9 +35676,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36466,9 +35684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36520,9 +35736,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36530,9 +35744,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36584,9 +35796,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36594,9 +35804,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36648,9 +35856,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36658,9 +35864,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36712,9 +35916,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36722,9 +35924,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36776,9 +35976,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36786,9 +35984,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36840,9 +36036,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36850,9 +36044,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36904,9 +36096,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36914,9 +36104,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36968,9 +36156,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36978,9 +36164,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37032,9 +36216,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37042,9 +36224,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37096,9 +36276,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37106,9 +36284,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37160,9 +36336,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37170,9 +36344,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37224,9 +36396,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37234,9 +36404,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37288,9 +36456,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37298,9 +36464,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37352,9 +36516,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37362,9 +36524,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37416,9 +36576,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37426,9 +36584,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37480,9 +36636,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37490,9 +36644,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37544,9 +36696,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37554,9 +36704,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37608,9 +36756,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37618,9 +36764,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37672,9 +36816,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37682,9 +36824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37736,9 +36876,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37746,9 +36884,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37800,9 +36936,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37810,9 +36944,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37864,9 +36996,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37874,9 +37004,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37928,9 +37056,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37938,9 +37064,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37992,9 +37116,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38002,9 +37124,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38056,9 +37176,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38066,9 +37184,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38120,9 +37236,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38130,9 +37244,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38184,9 +37296,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38194,9 +37304,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38248,9 +37356,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38258,9 +37364,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38312,9 +37416,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38322,9 +37424,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38376,9 +37476,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38386,9 +37484,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38440,9 +37536,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -38450,9 +37544,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38796,9 +37888,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38806,9 +37896,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38851,9 +37939,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38861,9 +37947,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38915,9 +37999,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -38925,9 +38007,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38979,9 +38059,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -38989,9 +38067,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39043,9 +38119,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -39053,9 +38127,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39107,9 +38179,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -39117,9 +38187,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39171,9 +38239,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -39181,9 +38247,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39246,22 +38310,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just how many souvenir shops are there? They go on and on..."
+                "¿Cuántas tiendas de souvenirs hay? ¡Siguen sin\nparar!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39269,9 +38331,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39338,9 +38398,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39348,9 +38406,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39393,9 +38449,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39403,9 +38457,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39448,9 +38500,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39458,9 +38508,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39523,29 +38571,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's so packed... Do I really want to dive into this massive crowd of "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sightseers and fight over souvenirs?"
+                "Está tan lleno... ¿Realmente quiero sumergirme en\nesta multitud masiva de turistas y pelearme por\nlos recuerdos?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39553,9 +38592,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39618,29 +38655,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's been a while since my last visit! I need to buy lots and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "lots of souvenirs!"
+                "¡Hace tiempo que no voy! ¡Tengo que comprar un\nmontón de recuerdos!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39648,9 +38676,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39713,29 +38739,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The main store of a chain of specialty sweet shops is right here in "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Pacius! I'm not going home until I've eaten my fill!"
+                "¡La tienda principal de una cadena de dulces\nespecializados está aquí mismo en Pacius! ¡No me\nvoy a casa hasta que me haya saciado!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39743,9 +38760,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39799,29 +38814,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The main store of a chain of specialty sweet shops is right here in "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Pacius! I'm not going home until I've eaten my fill!"
+                "¡La tienda principal de una cadena de dulces\nespecializados está aquí mismo en Pacius! ¡No me\nvoy a casa hasta que me haya saciado!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39829,9 +38835,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39894,29 +38898,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm getting my hands on a highly acclaimed Pacius croquette even "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "if it kills me!"
+                "Voy a conseguir una croqueta de Pacius muy\naclamada ¡aunque me cueste la vida!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -39924,9 +38919,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -39980,29 +38973,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tourist:"
+                "Turístico:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm getting my hands on a highly acclaimed Pacius croquette even "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "if it kills me!"
+                "Voy a conseguir una croqueta de Pacius muy\naclamada ¡aunque me mate!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40010,9 +38994,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -40071,9 +39053,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40081,9 +39061,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -40465,9 +39443,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40475,9 +39451,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -40520,9 +39494,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40530,9 +39502,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -40914,9 +39884,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40924,9 +39892,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -40969,9 +39935,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -40979,9 +39943,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41033,9 +39995,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41043,9 +40003,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41088,9 +40046,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41098,9 +40054,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41176,9 +40130,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41186,9 +40138,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41231,9 +40181,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41241,9 +40189,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41286,9 +40232,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41296,9 +40240,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41350,9 +40292,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 4,
@@ -41360,9 +40300,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41453,7 +40391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Need a high-speed lift to another country?"
+                "¿Necesitas un viaje de alta velocidad a otro país?"
               ]
             },
             {
@@ -41470,7 +40408,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Move to the world map?"
+                "¿Moverse al mapa del mundo?"
               ]
             },
             {
@@ -41478,7 +40416,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -41492,15 +40430,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 242,
@@ -41531,9 +40467,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -41546,23 +40480,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41570,9 +40498,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41652,9 +40578,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41684,9 +40608,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41729,9 +40651,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41739,9 +40659,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41793,9 +40711,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41803,9 +40719,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41848,9 +40762,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41858,9 +40770,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41912,9 +40822,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41922,9 +40830,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -41967,9 +40873,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -41977,9 +40881,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42031,9 +40933,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42041,9 +40941,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42086,9 +40984,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42096,9 +40992,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42150,9 +41044,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42160,9 +41052,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42205,9 +41095,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42215,9 +41103,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42269,9 +41155,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42279,9 +41163,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42324,9 +41206,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42334,9 +41214,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42388,9 +41266,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42398,9 +41274,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42443,9 +41317,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42453,9 +41325,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42507,9 +41377,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42517,9 +41385,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42562,9 +41428,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42572,9 +41436,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42626,9 +41488,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42636,9 +41496,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42681,9 +41539,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42691,9 +41547,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42745,9 +41599,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42755,9 +41607,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42800,9 +41650,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42810,9 +41658,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42864,9 +41710,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42874,9 +41718,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42919,9 +41761,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42929,9 +41769,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -42983,9 +41821,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -42993,9 +41829,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43038,9 +41872,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43048,9 +41880,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43102,9 +41932,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43112,9 +41940,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43157,9 +41983,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43167,9 +41991,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43221,9 +42043,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43231,9 +42051,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43276,9 +42094,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43286,9 +42102,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43340,9 +42154,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43350,9 +42162,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43395,9 +42205,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43405,9 +42213,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43459,9 +42265,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43469,9 +42273,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43514,9 +42316,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43524,9 +42324,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43578,9 +42376,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43588,9 +42384,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43633,9 +42427,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43643,9 +42435,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43697,9 +42487,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43707,9 +42495,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43752,9 +42538,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43762,9 +42546,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43816,9 +42598,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43826,9 +42606,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43871,9 +42649,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43881,9 +42657,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43935,9 +42709,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -43945,9 +42717,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -43990,9 +42760,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44000,9 +42768,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44052,9 +42818,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -44066,9 +42830,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -44100,16 +42862,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44117,9 +42875,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44162,9 +42918,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44172,9 +42926,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44226,9 +42978,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44236,9 +42986,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44281,9 +43029,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44291,9 +43037,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44345,9 +43089,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44355,9 +43097,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44400,9 +43140,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44410,9 +43148,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44464,9 +43200,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44474,9 +43208,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44519,9 +43251,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44529,9 +43259,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44583,9 +43311,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44593,9 +43319,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44638,9 +43362,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44648,9 +43370,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44702,9 +43422,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44712,9 +43430,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44757,9 +43473,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44767,9 +43481,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44821,9 +43533,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44831,9 +43541,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44876,9 +43584,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44886,9 +43592,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44940,9 +43644,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -44950,9 +43652,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -44995,9 +43695,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45005,9 +43703,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45059,9 +43755,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45069,9 +43763,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45114,9 +43806,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45124,9 +43814,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45178,9 +43866,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45188,9 +43874,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45233,9 +43917,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45243,9 +43925,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45297,9 +43977,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45307,9 +43985,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45352,9 +44028,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45362,9 +44036,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45416,9 +44088,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45426,9 +44096,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45471,9 +44139,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45481,9 +44147,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45535,9 +44199,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45545,9 +44207,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45590,9 +44250,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45600,9 +44258,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45654,9 +44310,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45664,9 +44318,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45709,9 +44361,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45719,9 +44369,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45773,9 +44421,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45783,9 +44429,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45828,9 +44472,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45838,9 +44480,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45892,9 +44532,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45902,9 +44540,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -45947,9 +44583,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -45957,9 +44591,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46011,9 +44643,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46021,9 +44651,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46066,9 +44694,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46076,9 +44702,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46130,9 +44754,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46140,9 +44762,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46185,9 +44805,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46195,9 +44813,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46249,9 +44865,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46259,9 +44873,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46304,9 +44916,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46314,9 +44924,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46368,9 +44976,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46378,9 +44984,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46423,9 +45027,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46433,9 +45035,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46487,9 +45087,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46497,9 +45095,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46542,9 +45138,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46552,9 +45146,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46606,9 +45198,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46616,9 +45206,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46661,9 +45249,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46671,9 +45257,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46725,9 +45309,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46735,9 +45317,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46780,9 +45360,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46790,9 +45368,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46844,9 +45420,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46854,9 +45428,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46899,9 +45471,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46909,9 +45479,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -46963,9 +45531,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -46973,9 +45539,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47018,9 +45582,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47028,9 +45590,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47121,9 +45681,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47131,9 +45689,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47196,21 +45752,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Discerning Sister:"
+                "Hermana perspicaz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My little sister runs this inn. If there are any problematic customers, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I take care of them for her."
+                "Mi hermana pequeña dirige esta posada. Si hay\nalgún cliente problemático, yo me encargo de\natenderlo."
               ]
             },
             {
@@ -47227,29 +45776,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Discerning Sister:"
+                "Hermana perspicaz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm sure you're a good person who won't be causing her "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "any issues... Right? "
+                "Estoy seguro de que eres una buena persona que no\nle causará ningún problema... ¿Verdad?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47257,9 +45797,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47313,14 +45851,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Discerning Sister:"
+                "Hermana perspicaz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's been a thief at the inn. It was you, wasn't it?"
+                "Había un ladrón en la posada. Eras tú, ¿verdad?"
               ]
             },
             {
@@ -47337,29 +45875,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Discerning Sister:"
+                "Hermana perspicaz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm glad that's all you took, but if you take anything else, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you'll be leaving Pacius on a stretcher. Understand?"
+                "Me alegro de que solo te hayas llevado eso, pero\nsi te llevas algo más, dejarás a Pacius en una\ncamilla. ¿Entiendes?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47367,9 +45896,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47432,22 +45959,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a sign that says:"
+                "Hay un cartel que dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Incredible deals! One portrait, just one hundred thousand iru!\""
+                "\" ¡Ofertas increíbles! ¡Un retrato, solo cien mil\niru! \""
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47455,9 +45980,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47511,22 +46034,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a sign that says:"
+                "Hay un cartel que dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"Currently doing portraits for practice, free of charge.\""
+                "\"Actualmente estoy haciendo retratos para\npracticar, de forma gratuita.\""
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47534,9 +46055,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47599,29 +46118,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're here as a tourist, you have to get yourself a portrait done! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I put my heart and soul into every piece!"
+                "Si estás aquí de turista, ¡tienes que hacerte un\nretrato! ¡Me entrego a cada pieza!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -47629,9 +46139,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -47706,21 +46214,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Miss, you're gorgeous! Why not get a portrait of your beautiful face "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "surrounded by Pacius's stunning scenery!"
+                "¡Señorita, está guapísima! ¿Por qué no le sacamos\nun retrato de su hermoso rostro rodeado del\nimpresionante paisaje de Pacius?"
               ]
             },
             {
@@ -47737,14 +46238,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lily Killer:"
+                "Asesino de lirios:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hmm? Me?"
+                "¿Hmm? ¿Yo?"
               ]
             },
             {
@@ -47761,21 +46262,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're here as a tourist, you have to get yourself a portrait done! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Limited-time offer, just one hundred thousand iru!"
+                "Si estás aquí de turista, ¡tienes que hacerte un\nretrato! ¡Oferta por tiempo limitado, solo cien\nmil iru!"
               ]
             },
             {
@@ -47792,7 +46286,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Buy a portrait for one hundred thousand iru?"
+                "¿Comprar un retrato por cien mil iru?"
               ]
             },
             {
@@ -47800,7 +46294,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -47814,7 +46308,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -47829,9 +46323,7 @@
             {
               "code": 221,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -47879,9 +46371,7 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -47931,18 +46421,16 @@
               "parameters": [
                 {
                   "name": "A_town23",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 126,
@@ -47957,16 +46445,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -47982,43 +46466,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Oh, you don't have enough money. Why not get a job at one of the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "souvenir shops? I can put in a good word for you."
+                "Ay, no tienes suficiente dinero. ¿Por qué no\nbuscas trabajo en una tienda de recuerdos? Puedo\nrecomendarte."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -48042,43 +46513,30 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Strange... I really thought I'd sold you on the idea. Guess I'll have "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "to work on my hustle a bit more."
+                "Qué raro... De verdad pensé que te había\nconvencido. Supongo que tendré que esforzarme un\npoco más."
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48086,9 +46544,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48142,29 +46598,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Painter:"
+                "Pintor:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I want to reexamine my art. It's been a while since I last did"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "some proper practice."
+                "Quiero reexaminar mi arte. Hace tiempo que no\npractico bien."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48172,9 +46619,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48217,9 +46662,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48227,9 +46670,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48281,9 +46722,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48291,9 +46730,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48345,9 +46782,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48355,9 +46790,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48409,9 +46842,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48419,9 +46850,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48473,9 +46902,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48483,9 +46910,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48537,9 +46962,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48547,9 +46970,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48601,9 +47022,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48611,9 +47030,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48665,9 +47082,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48675,9 +47090,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48729,9 +47142,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48739,9 +47150,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48793,9 +47202,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48803,9 +47210,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -48857,9 +47262,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -48867,9 +47270,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

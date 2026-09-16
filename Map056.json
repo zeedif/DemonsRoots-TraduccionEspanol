@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Solitary Confinement",
-  "encounterList": [
-
-  ],
+  "displayName": "confinamiento solitario",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 16,
   "note": "<Darkness:240>",
@@ -1901,9 +1899,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1911,9 +1907,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1956,9 +1950,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1966,9 +1958,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2341,9 +2331,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2351,9 +2339,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2396,9 +2382,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2406,9 +2390,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2458,9 +2440,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2468,9 +2448,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2546,9 +2524,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2556,9 +2532,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2610,9 +2584,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2620,9 +2592,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2674,9 +2644,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2684,9 +2652,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2749,22 +2715,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Overseer:"
+                "Capataz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The serial killer Lily Killer... What a strange woman."
+                "La asesina en serie Lily Killer... Qué mujer más\nextraña."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2772,9 +2736,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2837,22 +2799,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Overseer:"
+                "Capataz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Am I... going to be here forever?"
+                "¿Estaré aquí para siempre?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2860,9 +2820,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2925,29 +2883,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Overseer:"
+                "Capataz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Will I spend the rest of my life in this tedious place, tasked with "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "watching over her?"
+                "¿Pasaré el resto de mi vida en este tedioso lugar,\ncon la tarea de cuidarla?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2955,9 +2904,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3039,9 +2986,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3049,9 +2994,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3105,15 +3048,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's a lot of onions."
+                "Esas son muchas cebollas."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3121,9 +3062,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3205,9 +3144,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3215,9 +3152,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3271,15 +3206,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's a lot of onions."
+                "Esas son muchas cebollas."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3287,9 +3220,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

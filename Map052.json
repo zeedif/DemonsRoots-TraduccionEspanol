@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Fairy Costume",
-  "encounterList": [
-
-  ],
+  "displayName": "Disfraz de hada",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 17,
   "note": "",
@@ -2121,21 +2119,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! Let's pick out some pick you out some wonderful out...! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Out! Ou-ou-ou-ou-...!"
+                "¡Bienvenidos! ¡Vamos a elegir algunas cosas\nmaravillosas! ¡Fuera! ¡Ou-ou-ou-ou-...!"
               ]
             },
             {
@@ -2152,14 +2143,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Beep* *Beep*... *Whirr* *Whirr*... Oh, I just heard a notification."
+                "*Bip* *Bip*... *Zumbido* *Zumbido*... Oh, acabo de\nescuchar una notificación."
               ]
             },
             {
@@ -2182,9 +2173,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2192,9 +2181,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2283,9 +2270,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2293,9 +2278,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2358,21 +2341,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! Let's pick out some pick you out some wonderful out...! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Out! Ou-ou-ou-ou-...!"
+                "¡Bienvenidos! ¡Vamos a elegir algunas cosas\nmaravillosas! ¡Fuera! ¡Ou-ou-ou-ou-...!"
               ]
             },
             {
@@ -2389,14 +2365,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Beep* *Beep*... *Whirr* *Whirr*... Oh, I just heard a notification."
+                "*Bip* *Bip*... *Zumbido* *Zumbido*... Oh, acabo de\nescuchar una notificación."
               ]
             },
             {
@@ -2419,9 +2395,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2429,9 +2403,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2485,21 +2457,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! Let's pick out some pick you out some wonderful out...! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Out! Ou-ou-ou-ou-...!"
+                "¡Bienvenidos! ¡Vamos a elegir algunas cosas\nmaravillosas! ¡Fuera! ¡Ou-ou-ou-ou-...!"
               ]
             },
             {
@@ -2516,14 +2481,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Beep* *Beep*... *Whirr* *Whirr*... Oh, I just heard a notification."
+                "*Bip* *Bip*... *Zumbido* *Zumbido*... Oh, acabo de\nescuchar una notificación."
               ]
             },
             {
@@ -2540,15 +2505,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<Pull the gacha thirty times! Then you can buy costumes!>"
+                "<Pull the gacha thirty times! Then you can buy\ncostumes!>"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2556,9 +2519,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2647,9 +2608,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2657,9 +2616,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2722,21 +2679,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! Let's pick out some pick you out some wonderful out...! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Out! Ou-ou-ou-ou-...!"
+                "¡Bienvenidos! ¡Vamos a elegir algunas cosas\nmaravillosas! ¡Fuera! ¡Ou-ou-ou-ou-...!"
               ]
             },
             {
@@ -2753,14 +2703,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Beep* *Beep*... *Whirr* *Whirr*... Oh, I just heard a notification."
+                "*Bip* *Bip*... *Zumbido* *Zumbido*... Oh, acabo de\nescuchar una notificación."
               ]
             },
             {
@@ -2783,9 +2733,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2793,9 +2741,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2849,21 +2795,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! Let's pick out some pick you out some wonderful out...! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Out! Ou-ou-ou-ou-...!"
+                "¡Bienvenidos! ¡Vamos a elegir algunas cosas\nmaravillosas! ¡Fuera! ¡Ou-ou-ou-ou-...!"
               ]
             },
             {
@@ -2880,14 +2819,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Beep* *Beep*... *Whirr* *Whirr*... Oh, I just heard a notification."
+                "*Bip* *Bip*... *Zumbido* *Zumbido*... Oh, acabo de\nescuchar una notificación."
               ]
             },
             {
@@ -2904,15 +2843,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "<Watch all of the Bad End H-scenes! Then you can buy costumes!>"
+                "<Watch all of the Bad End H-scenes! Then you can\nbuy costumes!>"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2920,9 +2857,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3011,9 +2946,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3021,9 +2954,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3086,22 +3017,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3109,9 +3038,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3174,22 +3101,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3197,9 +3122,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3262,22 +3185,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3285,9 +3206,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3350,22 +3269,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3373,9 +3290,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3438,22 +3353,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3461,9 +3374,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3526,22 +3437,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3549,9 +3458,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3634,9 +3541,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3644,9 +3549,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3709,29 +3612,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome to Fairy Costume, where you can get wrapped in the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "outfit of your dreams!♪"
+                "¡Bienvenido a Fairy Costume, donde podrás\nenvolverte en el atuendo de tus sueños!♪"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3739,9 +3633,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3795,21 +3687,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome to Fairy Costume, where you can get wrapped in the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "outfit of your dreams!♪"
+                "¡Bienvenido a Fairy Costume, donde podrás\nenvolverte en el atuendo de tus sueños!♪"
               ]
             },
             {
@@ -3826,14 +3711,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you have any questions?"
+                "¿Tienes alguna pregunta?"
               ]
             },
             {
@@ -3841,8 +3726,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "How to change outfits",
-                  "How to get new outfits"
+                  "Cómo cambiar de ropa",
+                  "Cómo conseguir nuevos atuendos"
                 ],
                 -2,
                 0,
@@ -3855,7 +3740,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "How to change outfits"
+                "Cómo cambiar de ropa"
               ]
             },
             {
@@ -3872,21 +3757,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Your purchased outfits will be placed under Key Items! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "You can change clothes by selecting Use!"
+                "¡Tus conjuntos comprados se guardarán en Artículos\nClave! Puedes cambiar de ropa seleccionando\n\"Usar\"."
               ]
             },
             {
@@ -3903,21 +3781,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When you leave, you'll have to hand them in! Until then, go crazy! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Wear them wherever you like!"
+                "¡Al salir, tendrás que entregarlos! Hasta\nentonces, ¡a disfrutar! ¡Llévalos donde quieras!"
               ]
             },
             {
@@ -3934,36 +3805,27 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Costumes will change the Menu screen, Battle screen, and walking "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "sprites! They won't affect conversation events, though!"
+                "¡Los disfraces cambiarán la pantalla del Menú, la\npantalla de Batalla y los sprites al caminar!\n¡Pero no afectarán los eventos de conversación!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "How to get new outfits"
+                "Cómo conseguir nuevos atuendos"
               ]
             },
             {
@@ -3980,21 +3842,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The DoReMi Fuckingdom exclusive costume is unlocked after playing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "the gacha thirty times!"
+                "¡El disfraz exclusivo de DoReMi Fuckingdom se\ndesbloquea después de jugar el gacha treinta\nveces!"
               ]
             },
             {
@@ -4011,29 +3866,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Bad End costumes are unlocked by pulling the red ball twenty "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "times! What's the red ball? I don't know! How exciting!"
+                "¡Los disfraces de Final Malo se desbloquean\ntirando de la bola roja veinte veces! ¿Qué es la\nbola roja? ¡No lo sé! ¡Qué emocionante!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 403,
@@ -4046,23 +3892,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4070,9 +3910,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4243,16 +4081,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -4268,14 +4102,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Do you have any questions?"
+                "¿Tienes alguna pregunta?"
               ]
             },
             {
@@ -4283,10 +4117,10 @@
               "indent": 1,
               "parameters": [
                 [
-                  "How many do I have?",
-                  "Give me a hint",
-                  "Another hint",
-                  "Here (70,000 fuckcoins)"
+                  "¿Cuantos tengo?",
+                  "Dame una pista",
+                  "Otra pista",
+                  "Aquí (70.000 fuckcoins)"
                 ],
                 -2,
                 0,
@@ -4299,7 +4133,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "How many do I have?"
+                "¿Cuantos tengo?"
               ]
             },
             {
@@ -4316,14 +4150,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "So far you've collected... \\V[72] dragon dicks!"
+                "Hasta ahora has recolectado... ¡\\V[72] penes de\ndragón!"
               ]
             },
             {
@@ -4340,36 +4174,27 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Remember, you need seven! Check as many places around the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "world as you can!"
+                "Recuerda, ¡necesitas siete! ¡Revisa todos los\nlugares del mundo que puedas!"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 1,
               "parameters": [
                 1,
-                "Give me a hint"
+                "Dame una pista"
               ]
             },
             {
@@ -4386,21 +4211,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Let's see... The land of dragons should be a safe bet. I'm pretty sure "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "there's one in Tolkia."
+                "Veamos... La tierra de los dragones debería ser\nuna apuesta segura. Estoy bastante seguro de que\nhay uno en Tolkien."
               ]
             },
             {
@@ -4417,36 +4235,27 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I heard there are merchants who got their hands on one somewhere"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "in Bohelos and Plana. I wonder if they've sold them yet."
+                "He oído que hay comerciantes que consiguieron uno\nen Bohelos y Plana. Me pregunto si ya lo habrán\nvendido."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 1,
               "parameters": [
                 2,
-                "Another hint"
+                "Otra pista"
               ]
             },
             {
@@ -4463,21 +4272,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I'm pretty sure there are dragon collectors in Mark 6 and Kumin. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "I figure a collector will probably have one."
+                "Estoy bastante seguro de que hay coleccionistas de\ndragones en Mark 6 y Kumin. Supongo que algún\ncoleccionista probablemente tendrá uno."
               ]
             },
             {
@@ -4494,36 +4296,27 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I bet a there's a collector who's been made into a slave. The place "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "with the most slaves would be... Orphe, maybe?"
+                "Apuesto a que hay un coleccionista convertido en\nesclavo. El lugar con más esclavos sería...\n¿Orfeo, quizás?"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 1,
               "parameters": [
                 3,
-                "Here (70,000 fuckcoins)"
+                "Aquí (70.000 fuckcoins)"
               ]
             },
             {
@@ -4540,21 +4333,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Ugh! Enough joking around! You'd have to have more than a few "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "screws loose to collect seventy thousand fuckcoins!"
+                "¡Uf! ¡Basta de bromas! ¡Tendrías que tener más de\nun tornillo suelto para conseguir setenta mil\nmonedas de mierda!"
               ]
             },
             {
@@ -4571,21 +4357,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "...Y-You ARE joking, right? "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "(Current fuckoins: \\INUM[50])"
+                "...E-Estás bromeando, ¿verdad? (Joder actual:\n\\INUM[50])"
               ]
             },
             {
@@ -4593,8 +4372,8 @@
               "indent": 2,
               "parameters": [
                 [
-                  "Take them!",
-                  "Yeah, I'm just kidding"
+                  "¡Tomatelos!",
+                  "Sí, solo estoy bromeando."
                 ],
                 1,
                 0,
@@ -4607,7 +4386,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "Take them!"
+                "¡Tomatelos!"
               ]
             },
             {
@@ -4627,9 +4406,9 @@
               "parameters": [
                 {
                   "name": "Shop1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -4787,16 +4566,12 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -4812,72 +4587,53 @@
               "code": 401,
               "indent": 4,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 4,
               "parameters": [
-                "See!? I knew you didn't have that many! You don't have to try to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 4,
-              "parameters": [
-                "fake it with me!"
+                "¿Ves? ¡Sabía que no tenías tantos! ¡No tienes que\nfingir conmigo!"
               ]
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 2,
               "parameters": [
                 1,
-                "Yeah, I'm just kidding"
+                "Sí, solo estoy bromeando."
               ]
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 403,
@@ -4890,37 +4646,27 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4928,9 +4674,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4984,29 +4728,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's no need for drugs here! Feel free to walk around naked! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Just let it all hang out in the breeze!♪"
+                "¡Aquí no hay necesidad de drogas! ¡Siéntete libre\nde andar desnudo! ¡Déjalo fluir con la brisa!♪"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5014,9 +4749,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5070,21 +4803,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome to Fairy Costume, where you can get wrapped in the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "outfit of your dreams!♪"
+                "¡Bienvenido a Fairy Costume, donde podrás\nenvolverte en el atuendo de tus sueños!♪"
               ]
             },
             {
@@ -5101,14 +4827,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you have any questions?"
+                "¿Tienes alguna pregunta?"
               ]
             },
             {
@@ -5116,8 +4842,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "How to change outfits",
-                  "How to get new outfits"
+                  "Cómo cambiar de ropa",
+                  "Cómo conseguir nuevos atuendos"
                 ],
                 -2,
                 0,
@@ -5130,7 +4856,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "How to change outfits"
+                "Cómo cambiar de ropa"
               ]
             },
             {
@@ -5147,21 +4873,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Your purchased outfits will be placed under Key Items! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "You can change clothes by selecting Use!"
+                "¡Tus conjuntos comprados se guardarán en Artículos\nClave! Puedes cambiar de ropa seleccionando\n\"Usar\"."
               ]
             },
             {
@@ -5178,21 +4897,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When you leave, you'll have to hand them in! Until then, go crazy! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Wear them wherever you like!"
+                "¡Al salir, tendrás que entregarlos! Hasta\nentonces, ¡a disfrutar! ¡Llévalos donde quieras!"
               ]
             },
             {
@@ -5209,36 +4921,27 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Costumes will change the Menu screen, Battle screen, and walking "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "sprites! They won't affect conversation events, though!"
+                "¡Los disfraces cambiarán la pantalla del Menú, la\npantalla de Batalla y los sprites al caminar!\n¡Pero no afectarán los eventos de conversación!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "How to get new outfits"
+                "Cómo conseguir nuevos atuendos"
               ]
             },
             {
@@ -5255,21 +4958,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The DoReMi Fuckingdom exclusive costume is unlocked after playing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "the gacha thirty times!"
+                "¡El disfraz exclusivo de DoReMi Fuckingdom se\ndesbloquea después de jugar el gacha treinta\nveces!"
               ]
             },
             {
@@ -5286,29 +4982,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Bad End costumes are unlocked by pulling the red ball twenty "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "times! What's the red ball? I don't know! How exciting!"
+                "¡Los disfraces de Final Malo se desbloquean\ntirando de la bola roja veinte veces! ¿Qué es la\nbola roja? ¡No lo sé! ¡Qué emocionante!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 403,
@@ -5321,23 +5008,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5345,9 +5026,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5399,9 +5078,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5409,9 +5086,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5454,9 +5129,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5464,9 +5137,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5538,9 +5209,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5548,9 +5217,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5593,9 +5260,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5603,9 +5268,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5657,9 +5320,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5667,9 +5328,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5712,9 +5371,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5722,9 +5379,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5831,9 +5486,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5841,9 +5494,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5886,9 +5537,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5896,9 +5545,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5950,9 +5597,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5960,9 +5605,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6005,9 +5648,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6015,9 +5656,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6124,9 +5763,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6134,9 +5771,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6179,9 +5814,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6189,9 +5822,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6243,9 +5874,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6253,9 +5882,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6298,9 +5925,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6308,9 +5933,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6417,9 +6040,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6427,9 +6048,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6472,9 +6091,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6482,9 +6099,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6536,9 +6151,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6546,9 +6159,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6591,9 +6202,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6601,9 +6210,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6697,9 +6304,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6707,9 +6312,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6752,9 +6355,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6762,9 +6363,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Outer Gate",
-  "encounterList": [
-
-  ],
+  "displayName": "Puerta exterior",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 25,
   "note": "",
@@ -3227,9 +3225,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3237,9 +3233,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3319,7 +3313,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a warm, glowing light. Fully restore the party?"
+                "Hay una luz cálida y brillante. ¿Reiniciarás la\nfiesta por completo?"
               ]
             },
             {
@@ -3327,9 +3321,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No",
-                  "Save"
+                  "Guardar"
                 ],
                 1,
                 0,
@@ -3342,7 +3336,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -3393,15 +3387,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The party's HP and MP has been fully restored!"
+                "¡Los HP y MP del grupo han sido restaurados por\ncompleto!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -3414,38 +3406,30 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Save"
+                "Ahorrar"
               ]
             },
             {
               "code": 352,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -3459,9 +3443,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3513,9 +3495,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3567,9 +3547,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3577,9 +3555,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3622,9 +3598,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3632,9 +3606,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3715,23 +3687,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3739,9 +3705,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3784,9 +3748,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3794,9 +3756,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3848,9 +3808,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3858,9 +3816,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3903,9 +3859,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3913,9 +3867,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3976,7 +3928,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Move to the world map?"
+                "¿Moverse al mapa del mundo?"
               ]
             },
             {
@@ -3984,7 +3936,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -3998,15 +3950,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 242,
@@ -4037,9 +3987,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -4083,23 +4031,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4107,9 +4049,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4161,9 +4101,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4171,9 +4109,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4216,9 +4152,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4226,9 +4160,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4302,9 +4234,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4312,9 +4242,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4366,9 +4294,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4376,9 +4302,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4485,16 +4409,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4502,9 +4422,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

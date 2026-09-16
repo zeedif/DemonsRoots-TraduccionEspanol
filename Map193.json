@@ -16,26 +16,20 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Cargo Loading Dock",
+  "displayName": "Muelle de carga",
   "encounterList": [
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 131,
       "weight": 5
     },
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 135,
       "weight": 5
     },
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 136,
       "weight": 5
     }
@@ -9090,9 +9084,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9100,9 +9092,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9145,9 +9135,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9155,9 +9143,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9209,9 +9195,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9219,9 +9203,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9264,9 +9246,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9274,9 +9254,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9328,9 +9306,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9338,9 +9314,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9392,9 +9366,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9402,9 +9374,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9456,9 +9426,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9466,9 +9434,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9520,9 +9486,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9530,9 +9494,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9575,9 +9537,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9585,9 +9545,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9639,9 +9597,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9649,9 +9605,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9703,9 +9657,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9713,9 +9665,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9767,9 +9717,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9777,9 +9725,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9833,21 +9779,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bohelos Cleric:"
+                "Clérigo Bohelos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "While offering my usual prayers in the forest, I was kidnapped by "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "some perverts in bodysuits."
+                "Mientras ofrecía mis oraciones habituales en el\nbosque, fui secuestrado por unos pervertidos\nvestidos con trajes."
               ]
             },
             {
@@ -9864,22 +9803,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bohelos Cleric:"
+                "Clérigo Bohelos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I was saved! I'm sure Saint Bohelos heard my pleas!"
+                "¡Pero me salvé! ¡Estoy seguro de que San Bohelos\nescuchó mis súplicas!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9887,9 +9824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9941,9 +9876,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9951,9 +9884,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10005,9 +9936,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10015,9 +9944,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10069,9 +9996,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10079,9 +10004,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10133,9 +10056,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10143,9 +10064,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10197,9 +10116,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10207,9 +10124,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10263,14 +10178,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Girl:"
+                "Chica:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you so much! I was foraging in the forest when they took me!"
+                "¡Muchas gracias! Estaba buscando comida en el\nbosque cuando me atraparon."
               ]
             },
             {
@@ -10287,29 +10202,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Girl:"
+                "Chica:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The lady in the helmet helped me get away, but they still caught me. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I was really scared."
+                "La señora del casco me ayudó a escapar, pero aun\nasí me atraparon. Tenía mucho miedo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10317,9 +10223,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10362,9 +10266,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10372,9 +10274,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10426,9 +10326,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10436,9 +10334,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10481,9 +10377,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10491,9 +10385,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10536,9 +10428,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -10603,9 +10493,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -10626,16 +10514,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -10647,16 +10531,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -10776,9 +10656,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10786,9 +10664,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10831,9 +10707,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10841,9 +10715,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10895,9 +10767,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10905,9 +10775,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10950,9 +10818,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10960,9 +10826,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11005,9 +10869,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -11044,9 +10906,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 108,
@@ -11295,9 +11155,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 129,
@@ -11456,9 +11314,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -11491,23 +11347,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11515,9 +11365,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11560,9 +11408,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11570,9 +11416,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11624,9 +11468,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11634,9 +11476,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11688,9 +11528,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11698,9 +11536,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11752,9 +11588,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11762,9 +11596,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11807,9 +11639,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11817,9 +11647,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11871,9 +11699,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11881,9 +11707,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11935,9 +11759,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11945,9 +11767,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11990,9 +11810,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12000,9 +11818,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12054,9 +11870,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12064,9 +11878,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12109,9 +11921,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12119,9 +11929,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12164,9 +11972,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12174,9 +11980,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12228,9 +12032,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12238,9 +12040,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12292,9 +12092,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12302,9 +12100,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12347,9 +12143,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12357,9 +12151,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12411,9 +12203,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12421,9 +12211,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12475,9 +12263,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12485,9 +12271,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12548,14 +12332,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Phew! That was seriously scary! Man, I thought I'd be sold"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "off or something!"
+                "¡Uf! ¡Eso sí que dio miedo! ¡Creí que me venderían\no algo así!"
               ]
             },
             {
@@ -12579,14 +12356,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My wing hurts right here... Maybe I should start thinking about"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "retirement? Things just aren't going my way."
+                "Me duele el ala aquí... ¿Debería empezar a pensar\nen la jubilación? Las cosas no me están saliendo\nbien."
               ]
             },
             {
@@ -12610,15 +12380,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I really owe you, Deathpolca! I'd do anything for you, no lie!"
+                "¡Te debo una, Deathpolca! ¡Haría lo que fuera por\nti, en serio!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12626,9 +12394,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12671,9 +12437,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12681,9 +12445,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12735,9 +12497,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12745,9 +12505,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12799,9 +12557,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12809,9 +12565,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12865,21 +12619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tolkia Citizen:"
+                "Ciudadano de Tolkia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Pant*... Dealing with the slave trade's such hard work. I'm glad to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have you here."
+                "*Jadeo*... Lidiar con la trata de esclavos es un\ntrabajo duro. Me alegra tenerte aquí."
               ]
             },
             {
@@ -12896,29 +12643,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tolkia Citizen:"
+                "Ciudadano de Tolkia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, as long as Steel's around, the same thing will just keep "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "happening. Isn't there anything we can do?"
+                "Aun así, mientras Steel siga vivo, seguirá pasando\nlo mismo. ¿No hay nada que podamos hacer?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12926,9 +12664,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12971,9 +12707,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12981,9 +12715,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13035,9 +12767,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13045,9 +12775,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13123,9 +12851,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13133,9 +12859,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13218,9 +12942,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -13247,23 +12969,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -13614,23 +13330,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -13688,9 +13398,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13757,9 +13465,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -13786,23 +13492,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -14153,23 +13853,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -14177,9 +13871,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14229,16 +13921,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14246,9 +13934,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14298,16 +13984,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14315,9 +13997,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14506,9 +14186,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14516,9 +14194,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14561,9 +14237,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14571,9 +14245,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14656,9 +14328,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -14685,23 +14355,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -15052,23 +14716,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -15161,9 +14819,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15230,9 +14886,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -15259,23 +14913,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -15626,23 +15274,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -15650,9 +15292,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15702,16 +15342,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15719,9 +15355,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15771,16 +15405,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15788,9 +15418,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15873,9 +15501,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -15902,23 +15528,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -16269,23 +15889,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -16470,9 +16084,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16539,9 +16151,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -16568,23 +16178,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -16935,23 +16539,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -16959,9 +16557,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17011,16 +16607,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17028,9 +16620,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17080,16 +16670,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17097,9 +16683,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17175,9 +16759,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -17185,9 +16767,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17263,9 +16843,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -17273,9 +16851,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17351,9 +16927,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -17361,9 +16935,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17439,9 +17011,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -17449,9 +17019,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17640,9 +17208,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17650,9 +17216,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17695,9 +17259,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17705,9 +17267,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17896,9 +17456,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17906,9 +17464,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17951,9 +17507,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17961,9 +17515,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18152,9 +17704,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18162,9 +17712,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18207,9 +17755,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18217,9 +17763,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18408,9 +17952,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18418,9 +17960,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18463,9 +18003,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18473,9 +18011,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18664,9 +18200,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18674,9 +18208,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18719,9 +18251,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18729,9 +18259,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18920,9 +18448,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18930,9 +18456,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18975,9 +18499,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18985,9 +18507,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19039,9 +18559,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19049,9 +18567,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19105,14 +18621,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Sniffle*... Thank you so much! I was just about to be sold off!"
+                "*Sniffle*... ¡Muchas gracias! ¡Estaba a punto de\nvenderme!"
               ]
             },
             {
@@ -19129,14 +18645,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you going to fight Steel? Take this. It should help."
+                "¿Vas a pelear con Steel? Toma esto. Te ayudará."
               ]
             },
             {
@@ -19186,9 +18702,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19196,9 +18710,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19252,22 +18764,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Sniffle*... Thank you so much! I was just about to be sold off!"
+                "*Sniffle*... ¡Muchas gracias! ¡Estaba a punto de\nvenderme!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19275,9 +18785,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19320,9 +18828,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19330,9 +18836,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19384,9 +18888,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19394,9 +18896,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19460,16 +18960,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19477,9 +18973,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19543,16 +19037,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19560,9 +19050,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19638,9 +19126,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 2,
@@ -19648,9 +19134,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19702,9 +19186,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19712,9 +19194,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19777,22 +19257,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aubade:"
+                "Alborada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I miss my hometown. I wonder if I'll ever be able to go back..."
+                "Extraño mi ciudad natal. Me pregunto si algún día\npodré volver..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19800,9 +19278,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19845,9 +19321,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19855,9 +19329,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19941,21 +19413,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aubade:"
+                "Alborada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I saw those robots loading up on bullets! If we take them down,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "we can take their ammo and use it ourselves!"
+                "¡Vi a esos robots cargando balas! ¡Si los\nderribamos, podemos tomar su munición y usarla\nnosotros mismos!"
               ]
             },
             {
@@ -19972,21 +19437,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aubade:"
+                "Alborada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Different robots will drop different bullets, and some don't drop any "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "at all. Make sure to pay attention to which is which."
+                "Cada robot soltará balas diferentes, y algunos no\nsueltan ninguna. Presta atención a cuál es cuál."
               ]
             },
             {
@@ -20003,22 +19461,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aubade:"
+                "Alborada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you ever run out of bullets, robot-hunting's the way to go!"
+                "¡Si alguna vez te quedas sin balas, la mejor\nopción es cazar robots!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20026,9 +19482,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20071,9 +19525,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20081,9 +19533,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20146,22 +19596,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aubade:"
+                "Alborada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mom, where are you...?"
+                "Mamá, ¿dónde estás...?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20169,9 +19617,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20360,9 +19806,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20370,9 +19814,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20415,9 +19857,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20425,9 +19865,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20616,9 +20054,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20626,9 +20062,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20671,9 +20105,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20681,9 +20113,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20872,9 +20302,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20882,9 +20310,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20927,9 +20353,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -20937,9 +20361,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21128,9 +20550,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21138,9 +20558,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21183,9 +20601,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21193,9 +20609,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21384,9 +20798,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21394,9 +20806,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21439,9 +20849,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21449,9 +20857,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21640,9 +21046,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21650,9 +21054,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21695,9 +21097,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21705,9 +21105,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21896,9 +21294,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21906,9 +21302,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21951,9 +21345,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21961,9 +21353,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22054,7 +21444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, you made it here! We've memorized the surrounding terrain!"
+                "¡Ah, lo lograste! ¡Nos hemos aprendido de memoria\nel terreno!"
               ]
             },
             {
@@ -22078,7 +21468,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now we'll be able to take you straight here from the world map!"
+                "¡Ahora podremos llevarte directamente aquí desde\nel mapa mundial!"
               ]
             },
             {
@@ -22093,9 +21483,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22103,9 +21491,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22187,7 +21573,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Need a high-speed lift to another country?"
+                "¿Necesitas un viaje de alta velocidad a otro país?"
               ]
             },
             {
@@ -22204,7 +21590,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Move to the world map?"
+                "¿Moverse al mapa del mundo?"
               ]
             },
             {
@@ -22212,7 +21598,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -22226,15 +21612,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 242,
@@ -22265,9 +21649,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -22280,23 +21662,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22304,9 +21680,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22349,9 +21723,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22359,9 +21731,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22449,9 +21819,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22459,9 +21827,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22532,9 +21898,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22542,9 +21906,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22596,9 +21958,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22606,9 +21966,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22651,9 +22009,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22661,9 +22017,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22715,9 +22069,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22725,9 +22077,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22770,9 +22120,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22780,9 +22128,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22834,9 +22180,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22844,9 +22188,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22889,9 +22231,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22899,9 +22239,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22953,9 +22291,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22963,9 +22299,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23008,9 +22342,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23018,9 +22350,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23072,9 +22402,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23082,9 +22410,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23127,9 +22453,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23137,9 +22461,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23191,9 +22513,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23201,9 +22521,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23246,9 +22564,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23256,9 +22572,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23310,9 +22624,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23320,9 +22632,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23365,9 +22675,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23375,9 +22683,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23429,9 +22735,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23439,9 +22743,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23484,9 +22786,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23494,9 +22794,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23548,9 +22846,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23558,9 +22854,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23603,9 +22897,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23613,9 +22905,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23667,9 +22957,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23677,9 +22965,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23722,9 +23008,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23732,9 +23016,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23786,9 +23068,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23796,9 +23076,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23841,9 +23119,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23851,9 +23127,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23905,9 +23179,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23915,9 +23187,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23960,9 +23230,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23970,9 +23238,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24024,9 +23290,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24034,9 +23298,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24079,9 +23341,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24089,9 +23349,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24143,9 +23401,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24153,9 +23409,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24198,9 +23452,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24208,9 +23460,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24262,9 +23512,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24272,9 +23520,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24317,9 +23563,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24327,9 +23571,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24381,9 +23623,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24391,9 +23631,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24436,9 +23674,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24446,9 +23682,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24500,9 +23734,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24510,9 +23742,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24555,9 +23785,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24565,9 +23793,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24619,9 +23845,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24629,9 +23853,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24674,9 +23896,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24684,9 +23904,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24738,9 +23956,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24748,9 +23964,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24793,9 +24007,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24803,9 +24015,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24857,9 +24067,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24867,9 +24075,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24921,9 +24127,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24931,9 +24135,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24985,9 +24187,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24995,9 +24195,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

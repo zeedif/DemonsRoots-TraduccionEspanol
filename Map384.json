@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Secret Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Habitación secreta",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1420,9 +1418,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1430,9 +1426,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1484,9 +1478,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1494,9 +1486,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1539,9 +1529,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1549,9 +1537,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1667,72 +1653,52 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1740,9 +1706,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1794,9 +1758,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1804,9 +1766,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1881,14 +1841,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ryona Gentleman:"
+                "Ryona Caballero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hmm! I've found a woman who suits water torture very well!"
+                "¡Mmm! ¡Encontré a una mujer que se adapta de\nmaravilla a la tortura del agua!"
               ]
             },
             {
@@ -1905,21 +1865,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ryona Gentleman:"
+                "Ryona Caballero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Would you mind accommodating my kinks? I'll compensate you with "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "two Spirit Stones."
+                "¿Te importaría adaptarte a mis preferencias? Te\ncompensaré con dos Piedras Espirituales."
               ]
             },
             {
@@ -1936,7 +1889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Diana catches the Ryona Gentleman's eye. Accept his request?"
+                "Diana capta la atención del caballero Ryona.\n¿Aceptar su petición?"
               ]
             },
             {
@@ -1944,7 +1897,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -1958,7 +1911,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -1993,9 +1946,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 126,
@@ -2026,16 +1977,12 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -2059,36 +2006,30 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ryona Gentleman:"
+                "Ryona Caballero:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "B-But water torture's so romantic..."
+                "P-Pero la tortura del agua es tan romántica..."
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2096,9 +2037,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2141,9 +2080,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2151,9 +2088,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2357,9 +2292,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2367,9 +2300,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2412,9 +2343,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2422,9 +2351,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,33 +16,25 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Town of the End",
+  "displayName": "Pueblo del Fin",
   "encounterList": [
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 144,
       "weight": 5
     },
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 146,
       "weight": 5
     },
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 152,
       "weight": 5
     },
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 153,
       "weight": 5
     }
@@ -16897,9 +16889,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16907,9 +16897,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16961,9 +16949,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16971,9 +16957,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17052,14 +17036,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Sniffle*... *Sob*..."
+                "*Solfateo*... *Sollozo*..."
               ]
             },
             {
@@ -17074,9 +17058,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17084,9 +17066,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17156,14 +17136,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Snore* *Snore*..."
+                "*Ronquido* *Ronquido*..."
               ]
             },
             {
@@ -17178,9 +17158,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17188,9 +17166,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17296,9 +17272,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17306,9 +17280,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17371,14 +17343,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Um... Do you need some water?"
+                "Umm... ¿Necesitas un poco de agua?"
               ]
             },
             {
@@ -17393,9 +17365,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17403,9 +17373,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17468,14 +17436,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Normal coins and broken coins... Whoa..."
+                "Monedas normales y monedas rotas... Vaya..."
               ]
             },
             {
@@ -17490,9 +17458,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17500,9 +17466,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17565,14 +17529,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't really get it, but you're going somewhere dangerous, right?"
+                "Realmente no lo entiendo, pero vas a algún lugar\npeligroso, ¿verdad?"
               ]
             },
             {
@@ -17589,14 +17553,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please be careful."
+                "Por favor tenga cuidado."
               ]
             },
             {
@@ -17611,9 +17575,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17621,9 +17583,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17666,9 +17626,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17676,9 +17634,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17741,21 +17697,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've been speaking to the same people every day lately. It's good,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "because they used to always get taken away. It made me sad."
+                "Últimamente hablo con la misma gente todos los\ndías. Es bueno, porque antes siempre se los\nllevaban. Me entristecía."
               ]
             },
             {
@@ -17772,14 +17721,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is all your doing, right? Thank you so much."
+                "Todo esto es obra tuya, ¿verdad? Muchas gracias."
               ]
             },
             {
@@ -17794,9 +17743,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17804,9 +17751,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17869,21 +17814,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pipsqueak:"
+                "Cero a la izquierda:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Everyone looks so sad... Is it because they've lost someone"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "important to them?"
+                "Todos parecen tan tristes... ¿Será porque han\nperdido a alguien importante para ellos?"
               ]
             },
             {
@@ -17898,9 +17836,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17908,9 +17844,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17986,9 +17920,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17996,9 +17928,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18074,9 +18004,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18084,9 +18012,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18162,9 +18088,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18172,9 +18096,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18250,9 +18172,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18260,9 +18180,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18338,9 +18256,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18348,9 +18264,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18426,9 +18340,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18436,9 +18348,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18528,9 +18438,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -18557,23 +18465,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -18924,23 +18826,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -19104,9 +19000,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19180,9 +19074,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -19209,23 +19101,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -19576,23 +19462,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -19600,9 +19480,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19652,16 +19530,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19669,9 +19543,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19721,16 +19593,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -19738,9 +19606,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -19830,9 +19696,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -19859,23 +19723,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -20226,23 +20084,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -20445,9 +20297,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20521,9 +20371,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -20550,23 +20398,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -20917,23 +20759,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -20941,9 +20777,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -20993,16 +20827,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21010,9 +20840,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21062,16 +20890,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -21079,9 +20903,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21171,9 +20993,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -21200,23 +21020,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -21567,23 +21381,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -21778,9 +21586,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -21854,9 +21660,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -21883,23 +21687,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -22250,23 +22048,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -22274,9 +22066,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22326,16 +22116,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22343,9 +22129,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22395,16 +22179,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -22412,9 +22192,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -22504,9 +22282,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -22533,23 +22309,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -22900,23 +22670,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -23006,9 +22770,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23082,9 +22844,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -23111,23 +22871,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -23478,23 +23232,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -23502,9 +23250,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23554,16 +23300,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23571,9 +23313,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23623,16 +23363,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -23640,9 +23376,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -23732,9 +23466,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -23761,23 +23493,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -24128,23 +23854,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -24223,9 +23943,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24299,9 +24017,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -24328,23 +24044,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -24695,23 +24405,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -24719,9 +24423,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24771,16 +24473,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24788,9 +24486,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24840,16 +24536,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24857,9 +24549,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24911,9 +24601,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24921,9 +24609,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -24966,9 +24652,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -24976,9 +24660,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25030,9 +24712,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25040,9 +24720,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25092,9 +24770,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25102,9 +24778,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25156,9 +24830,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25166,9 +24838,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25218,9 +24888,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25228,9 +24896,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25302,14 +24968,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is my last meal. Let me enjoy it."
+                "Esta es mi última comida. Déjame disfrutarla."
               ]
             },
             {
@@ -25324,9 +24990,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25334,9 +24998,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25399,21 +25061,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm still alive and able to eat. I can't believe how happy "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "that makes me."
+                "Todavía estoy vivo y puedo comer. No puedo creer\nlo feliz que me hace."
               ]
             },
             {
@@ -25428,9 +25083,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25438,9 +25091,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25512,21 +25163,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I fell from high up while doing construction work. I'll never "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "walk again."
+                "Me caí de una gran altura mientras trabajaba en la\nconstrucción. Nunca volveré a caminar."
               ]
             },
             {
@@ -25541,9 +25185,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25551,9 +25193,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25625,21 +25265,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've been forced to haul rocks for years now. My back's in terrible"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "shape because of it."
+                "Llevo años acarreando piedras. Tengo la espalda\nfatal por ello."
               ]
             },
             {
@@ -25654,9 +25287,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25664,9 +25295,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25738,21 +25367,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be praised for how nimble my fingers were, but after"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "working day and night for so long, I can barely move them."
+                "Solían elogiarme por lo ágiles que eran mis dedos,\npero después de trabajar día y noche durante tanto\ntiempo, apenas puedo moverlos."
               ]
             },
             {
@@ -25767,9 +25389,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25777,9 +25397,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25851,14 +25469,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't believe this bitter fruit's going to be the last thing I ever eat..."
+                "No puedo creer que esta fruta amarga será lo\núltimo que coma en mi vida..."
               ]
             },
             {
@@ -25873,9 +25491,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25883,9 +25499,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -25948,21 +25562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't know what's going on, but we're not being sacrificed anymore. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I think the ruler of the country's changed."
+                "No sé qué está pasando, pero ya no nos sacrifican.\nCreo que el gobernante del país ha cambiado."
               ]
             },
             {
@@ -25977,9 +25584,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -25987,9 +25592,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26061,21 +25664,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I devoted myself to my master my whole life, but once I got old,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "he threw me away."
+                "Me dediqué a mi amo toda mi vida, pero cuando\nenvejecí, él me abandonó."
               ]
             },
             {
@@ -26090,9 +25686,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26100,9 +25694,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26174,21 +25766,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, I can't find my master's clothing. I need to wash them as soon"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "as possible. Oh dear..."
+                "Ay, no encuentro la ropa de mi amo. Necesito\nlavarla cuanto antes. ¡Ay, Dios mío!"
               ]
             },
             {
@@ -26203,9 +25788,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26213,9 +25796,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26287,14 +25868,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was born with weak legs. Eventually I was sent to Orphe."
+                "Nací con piernas débiles. Finalmente me enviaron a\nOrphe."
               ]
             },
             {
@@ -26309,9 +25890,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26319,9 +25898,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26384,21 +25961,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Orphe's government has changed. It's not much, but now people "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "with physical disabilities can earn some semblance of a salary."
+                "El gobierno de Orphe ha cambiado. No es mucho,\npero ahora las personas con discapacidades físicas\npueden ganar algo parecido a un salario."
               ]
             },
             {
@@ -26415,14 +25985,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "God, thank you for this miracle!"
+                "Dios, ¡gracias por este milagro!"
               ]
             },
             {
@@ -26437,9 +26007,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26447,9 +26015,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26512,29 +26078,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The watchtower and quarry were torn apart by the Ultra Beast's"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "rampage. No entry allowed."
+                "La torre de vigilancia y la cantera quedaron\ndestrozadas por la furia del Ultraente. No se\npermite la entrada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26542,9 +26099,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26587,9 +26142,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26597,9 +26150,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26651,9 +26202,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -26683,9 +26232,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 108,
@@ -26722,9 +26269,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -26816,16 +26361,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26833,9 +26374,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26878,9 +26417,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26888,9 +26425,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -26951,9 +26486,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -26961,9 +26494,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27006,9 +26537,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27016,9 +26545,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27079,9 +26606,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27089,9 +26614,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27134,9 +26657,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27144,9 +26665,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27207,9 +26726,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27217,9 +26734,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27262,9 +26777,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27272,9 +26785,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27335,9 +26846,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27345,9 +26854,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27390,9 +26897,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27400,9 +26905,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27463,9 +26966,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27473,9 +26974,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27518,9 +27017,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27528,9 +27025,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27591,9 +27086,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27601,9 +27094,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27646,9 +27137,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27656,9 +27145,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27719,9 +27206,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27729,9 +27214,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27774,9 +27257,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27784,9 +27265,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27903,16 +27382,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27920,9 +27395,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -27974,9 +27447,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -27984,9 +27455,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28175,9 +27644,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28185,9 +27652,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28230,9 +27695,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28240,9 +27703,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28431,9 +27892,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28441,9 +27900,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28486,9 +27943,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28496,9 +27951,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28561,15 +28014,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just a weed."
+                "Es solo una mala hierba."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28577,9 +28028,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28684,7 +28133,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained Weed (\\V[38]/3)!"
+                "¡Conseguiste hierba (\\V[38]/3)!"
               ]
             },
             {
@@ -28698,9 +28147,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28708,9 +28155,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28753,9 +28198,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28763,9 +28206,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28828,15 +28269,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just a weed."
+                "Es solo una mala hierba."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28844,9 +28283,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -28951,7 +28388,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained Weed (\\V[38]/3)!"
+                "¡Conseguiste hierba (\\V[38]/3)!"
               ]
             },
             {
@@ -28965,9 +28402,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -28975,9 +28410,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29020,9 +28453,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29030,9 +28461,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29095,15 +28524,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just a weed."
+                "Es solo una mala hierba."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29111,9 +28538,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29218,7 +28643,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Obtained Weed (\\V[38]/3)!"
+                "¡Conseguiste hierba (\\V[38]/3)!"
               ]
             },
             {
@@ -29232,9 +28657,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29242,9 +28665,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29287,9 +28708,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29297,9 +28716,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29351,9 +28768,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29361,9 +28776,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29406,9 +28819,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29416,9 +28827,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29492,23 +28901,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29516,9 +28919,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29561,9 +28962,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -29571,9 +28970,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -29663,9 +29060,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -29692,23 +29087,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -30059,23 +29448,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -30140,9 +29523,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30216,9 +29597,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -30245,23 +29624,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -30612,23 +29985,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -30636,9 +30003,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30688,16 +30053,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30705,9 +30066,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30757,16 +30116,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -30774,9 +30129,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -30866,9 +30219,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -30895,23 +30246,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -31262,23 +30607,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -31386,9 +30725,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31462,9 +30799,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -31491,23 +30826,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -31858,23 +31187,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -31882,9 +31205,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -31934,16 +31255,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -31951,9 +31268,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32003,16 +31318,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32020,9 +31331,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32111,9 +31420,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -32148,16 +31455,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32165,9 +31468,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32235,9 +31536,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32245,9 +31544,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32311,9 +31608,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -32335,9 +31630,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32345,9 +31638,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32502,9 +31793,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -32516,9 +31805,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 201,
@@ -32625,16 +31912,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32642,9 +31925,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32687,9 +31968,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32697,9 +31976,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32742,9 +32019,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32752,9 +32027,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32826,21 +32099,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Soon she'll be sacrificed as well. The only way to save her is to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "change Orphe itself."
+                "Pronto ella también será sacrificada. La única\nforma de salvarla es cambiar al propio Orphe."
               ]
             },
             {
@@ -32857,21 +32123,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I know it'll be incredibly difficult, but you're the only ones who "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "can do it! Please!"
+                "Sé que será increíblemente difícil, ¡pero solo\nustedes pueden lograrlo! ¡Por favor!"
               ]
             },
             {
@@ -32886,9 +32145,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32896,9 +32153,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -32941,9 +32196,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -32951,9 +32204,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33016,14 +32267,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was so worried about you all. I'm glad you came through okay."
+                "Estaba muy preocupado por todos ustedes. Me alegro\nde que hayan salido bien parados."
               ]
             },
             {
@@ -33040,21 +32291,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Orphe has become part of the demons' territory, and the sacrificing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of slaves has been outlawed. I can't thank you enough."
+                "Orfe se ha convertido en territorio de los\ndemonios, y el sacrificio de esclavos ha sido\nprohibido. No puedo agradecerte lo suficiente."
               ]
             },
             {
@@ -33071,21 +32315,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "However, as long as the Empire stands, it's not over. I know I'm "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "asking a lot, but please... Win."
+                "Sin embargo, mientras el Imperio siga en pie, no\nhabrá terminado. Sé que pido mucho, pero por\nfavor... ¡Gana!"
               ]
             },
             {
@@ -33100,9 +32337,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33110,9 +32345,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33175,14 +32408,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wish I could tell you how Deathpolca's doing right now. I'm sorry."
+                "Ojalá pudiera contarte cómo está Deathpolca ahora\nmismo. Lo siento."
               ]
             },
             {
@@ -33199,21 +32432,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "She's being held within the Imperial Palace. The only ones who can "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "go near it are those specially chosen by the Emperor."
+                "Está retenida en el Palacio Imperial. Solo\naquellos elegidos por el Emperador pueden\nacercarse."
               ]
             },
             {
@@ -33230,14 +32456,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Daddy Big Nose:"
+                "Papá Nariz Grande:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll tell you if I find anything out, but don't get your hopes up."
+                "Te diré si descubro algo, pero no te hagas\nilusiones."
               ]
             },
             {
@@ -33252,9 +32478,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33262,9 +32486,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33436,9 +32658,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33446,9 +32666,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33491,9 +32709,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33501,9 +32717,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33692,9 +32906,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33702,9 +32914,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33747,9 +32957,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33757,9 +32965,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -33948,9 +33154,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -33958,9 +33162,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34003,9 +33205,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34013,9 +33213,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34067,9 +33265,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -34239,9 +33435,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34293,9 +33487,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -34437,9 +33629,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34509,22 +33699,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What? I'm working. Don't bother me."
+                "¿Qué? Estoy trabajando. No me molestes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34532,9 +33720,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34604,22 +33790,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...What?"
+                "...¿Qué?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34627,9 +33811,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34699,22 +33881,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What? I'm working. Don't bother me."
+                "¿Qué? Estoy trabajando. No me molestes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34722,9 +33902,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34794,22 +33972,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What? I'm working. Don't bother me."
+                "¿Qué? Estoy trabajando. No me molestes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -34817,9 +33993,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -34878,9 +34052,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -34965,9 +34137,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -35162,16 +34332,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35179,9 +34345,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35224,9 +34388,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35234,9 +34396,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35288,9 +34448,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35298,9 +34456,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35352,9 +34508,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35362,9 +34516,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35416,9 +34568,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35426,9 +34576,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35480,9 +34628,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35490,9 +34636,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35544,9 +34688,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35554,9 +34696,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35728,9 +34868,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35738,9 +34876,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35783,9 +34919,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35793,9 +34927,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35878,9 +35010,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35888,9 +35018,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -35933,9 +35061,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -35943,9 +35069,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36017,21 +35141,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be a dragon collector. I would display their parts all"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "over my house."
+                "Solía ​​coleccionar dragones. Exponía sus partes\npor toda la casa."
               ]
             },
             {
@@ -36048,21 +35165,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's all gone now, and soon I will be too. Sorry, but I'd like to be "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "alone right now."
+                "Todo eso ya pasó, y pronto yo también lo haré. Lo\nsiento, pero me gustaría estar solo ahora mismo."
               ]
             },
             {
@@ -36077,9 +35187,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36087,9 +35195,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36173,21 +35279,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't believe it! I was going to be sacrificed! A few more days and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'd have been crushed by an Ultra Beast!"
+                "¡No puedo creerlo! ¡Me iban a sacrificar! ¡Unos\ndías más y me habría aplastado un Ultraente!"
               ]
             },
             {
@@ -36204,21 +35303,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luckily enough, the demons took over Orphe, and I managed to get "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "away! The demons saved my life! ...Huh?"
+                "Por suerte, los demonios se apoderaron de Orphe,\n¡y logré escapar! ¡Me salvaron la vida! ...¿Eh?"
               ]
             },
             {
@@ -36235,21 +35327,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're the ones who liberated Orphe? Come to think of it, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Daddy Big Nose mentioned something like that..."
+                "¿Ustedes fueron quienes liberaron a Orphe? Ahora\nque lo pienso, Papá Nariz Grande mencionó algo\nasí..."
               ]
             },
             {
@@ -36266,21 +35351,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then I can't thank you enough! Please, take this! It was the pride "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of my collection!"
+                "¡Entonces no puedo agradecerte lo suficiente! ¡Por\nfavor, llévatelo! ¡Era el orgullo de mi colección!"
               ]
             },
             {
@@ -36289,9 +35367,9 @@
               "parameters": [
                 {
                   "name": "Item1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -36325,9 +35403,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36335,9 +35411,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36400,14 +35474,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What? You got a problem? That thing's super rare, you know."
+                "¿Qué? ¿Tienes algún problema? Esa cosa es súper\nrara, ¿sabes?"
               ]
             },
             {
@@ -36422,9 +35496,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36432,9 +35504,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36497,21 +35567,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "All of the slaves here have some kind of disability. Having to deal "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "with that, and then being made into a sacrifice..."
+                "Todos los esclavos aquí tienen algún tipo de\ndiscapacidad. Tener que lidiar con eso y luego ser\nsacrificados..."
               ]
             },
             {
@@ -36528,29 +35591,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why do humans treat the weaker among them like trash? You're"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "supposed to support people when they need help, right?"
+                "¿Por qué los humanos tratan a los más débiles como\nbasura? Se supone que hay que apoyar a la gente\ncuando necesita ayuda, ¿no?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36558,9 +35612,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36623,21 +35675,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a crapload of iron ore buried underneath the ground here. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "They were using Ultra Beasts and humans to dig it all out."
+                "Hay un montón de mineral de hierro enterrado aquí.\nUsaron Ultraentes y humanos para extraerlo."
               ]
             },
             {
@@ -36654,29 +35699,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We could use the humans to... Ah, no, I'm under strict orders from "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Lord Todeira. I won't do anything."
+                "Podríamos usar a los humanos para... Ah, no, estoy\nbajo órdenes estrictas de Lord Todeira. No haré\nnada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36684,9 +35720,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36792,9 +35826,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36846,9 +35878,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36937,9 +35967,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -36947,9 +35975,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -36992,9 +36018,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37002,9 +36026,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37067,29 +36089,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The watchtower and quarry were torn apart by the Ultra Beast's"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "rampage. No entry allowed."
+                "La torre de vigilancia y la cantera quedaron\ndestrozadas por la furia de la Ultrabestia. No se\npermite la entrada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37097,9 +36110,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37142,9 +36153,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37152,9 +36161,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37238,15 +36245,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The man's collapsed in pain."
+                "El hombre se desplomó de dolor."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37254,9 +36259,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37396,14 +36399,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A human who's collapsed from the Devil's Drug. You'll need some"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "specific plants to treat him."
+                "Un humano que se desplomó por la Droga del Diablo.\nNecesitarás plantas específicas para tratarlo."
               ]
             },
             {
@@ -37420,21 +36416,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Treat him with the following plants?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "2 Sakura Leaves (Owned: \\INUM[8])"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "1 Tomato (Owned: \\INUM[82])"
+                "¿Le das las siguientes plantas? 2 hojas de sakura\n(Propiedad: \\INUM[8]) 1 tomate (Propiedad:\n\\INUM[82])"
               ]
             },
             {
@@ -37442,7 +36424,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -37456,7 +36438,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -37507,9 +36489,9 @@
               "parameters": [
                 {
                   "name": "Saint6",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -37519,9 +36501,9 @@
               "parameters": [
                 {
                   "name": "Water8",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -37553,14 +36535,14 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Collapsed Man:"
+                "Hombre colapsado:"
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Ugh... The pain's finally fading. Did you help me?"
+                "Ugh... El dolor por fin se está desvaneciendo. ¿Me\nayudaste?"
               ]
             },
             {
@@ -37577,22 +36559,20 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Collapsed Man:"
+                "Hombre colapsado:"
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Please, take this with my thanks."
+                "Por favor, toma esto con mi agradecimiento."
               ]
             },
             {
               "code": 221,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -37605,9 +36585,7 @@
             {
               "code": 222,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -37615,9 +36593,9 @@
               "parameters": [
                 {
                   "name": "Item3",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -37634,16 +36612,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -37659,36 +36633,28 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "You don't have the necessary items."
+                "No tienes los artículos necesarios"
               ]
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -37704,29 +36670,23 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You don't have the necessary items."
+                "No tienes los artículos necesarios"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -37739,23 +36699,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37763,9 +36717,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37808,9 +36760,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37818,9 +36768,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37872,9 +36820,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37882,9 +36828,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -37977,16 +36921,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -37994,9 +36934,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -38101,16 +37039,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -38118,9 +37052,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

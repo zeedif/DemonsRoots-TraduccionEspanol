@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Crazy Mansion",
-  "encounterList": [
-
-  ],
+  "displayName": "Mansión loca",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 50,
   "note": "",
@@ -9070,9 +9068,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9080,9 +9076,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9125,9 +9119,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9135,9 +9127,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9211,9 +9201,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9221,9 +9209,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9286,15 +9272,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crazy Mansion / First Gacha Board"
+                "Crazy Mansion / Primer tablero de Gacha"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9302,9 +9286,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9358,22 +9340,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crazy Mansion / First Gacha Board"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Thanks for sticking with it!"
+                "Crazy Mansion / Primer tablero de Gacha ¡Gracias\npor seguir adelante!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9381,9 +9354,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9467,21 +9438,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cougar:"
+                "Puma:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wow, look at that cute little crossdresser! He even has pink "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "hair! My favorite!"
+                "¡Guau, mira qué travesti tan mono! ¡Hasta tiene el\npelo rosa! ¡Mi favorito!"
               ]
             },
             {
@@ -9498,21 +9462,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cougar:"
+                "Puma:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll pay you two Spirit Stones to have some fun with me! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Your friends will be right there with you!"
+                "¡Te pagaré dos Piedras Espirituales para que te\ndiviertas conmigo! ¡Tus amigos estarán ahí\ncontigo!"
               ]
             },
             {
@@ -9529,7 +9486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Najezta catches the Cougar's eye. Accept her request?"
+                "Najezta llama la atención de la Puma. ¿Aceptar su\npetición?"
               ]
             },
             {
@@ -9537,7 +9494,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -9551,7 +9508,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -9564,9 +9521,7 @@
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 126,
@@ -9597,16 +9552,12 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -9630,36 +9581,30 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Cougar:"
+                "Puma:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aw, but you're exactly my type..."
+                "Aw, pero eres exactamente mi tipo..."
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9667,9 +9612,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9712,9 +9655,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9722,9 +9663,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9787,29 +9726,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the Crazy Mansion! A garden of maids, all fulfilling the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "selfish wishes of their masters!"
+                "¡Esta es la Mansión Loca! ¡Un jardín de\nsirvientas, todas cumpliendo los deseos egoístas\nde sus amos!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9817,9 +9747,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9873,29 +9801,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since the young crossdresser's had his cherry popped, the second "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "round is now available! Please have fun!"
+                "Ya que al joven travesti le reventaron la\nvirginidad, ¡ya está disponible la segunda ronda!\n¡Que se diviertan!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9918,9 +9837,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9972,9 +9889,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9982,9 +9897,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10127,9 +10040,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -10153,9 +10064,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -10180,16 +10089,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10197,9 +10102,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10242,9 +10145,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10252,9 +10153,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10317,14 +10216,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuckie:"
+                "Joder:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Fuuuh!"
+                "¡Mierda!"
               ]
             },
             {
@@ -10341,29 +10240,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A passionate feeling tells you:"
+                "Un sentimiento apasionado te dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"The mansion might be in the shape of an inverted triangle, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                " but it won't ever fall down!\""
+                "\"La mansión puede tener la forma de un triángulo\ninvertido, ¡pero nunca se caerá!\""
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10371,9 +10261,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10436,21 +10324,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Noble:"
+                "Noble extranjero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've always been the one giving the orders! It feels good to serve "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a master for once!"
+                "¡Siempre he sido yo quien da las órdenes! ¡Qué\nbien se siente servir a un amo por una vez!"
               ]
             },
             {
@@ -10467,29 +10348,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Noble:"
+                "Noble extranjero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They give me orders that really get my masochistic heart "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "pounding! I'm addicted!"
+                "¡Me dan órdenes que me aceleran el corazón! ¡Soy\nadicta!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10497,9 +10369,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10562,21 +10432,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Gentleman:"
+                "Caballero extranjero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shit... I really want to have fun with a crossdressing maid, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but most of them don't go for men..."
+                "Mierda... Realmente quiero divertirme con una\nsirvienta travesti, pero la mayoría de ellas no\nbuscan hombres..."
               ]
             },
             {
@@ -10593,29 +10456,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Gentleman:"
+                "Caballero extranjero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's the problem anyway!? Crossdressers are basically women! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's not really gay! Don't you agree!?"
+                "¿¡Cuál es el problema!? ¡Los travestis son\nbásicamente mujeres! ¡No es realmente gay! ¿No te\nparece?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10623,9 +10477,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10688,21 +10540,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sometimes a cute, slender young man will catch the eye of one of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the older gentlemen. They can get really pushy about it too."
+                "A veces, un joven guapo y delgado llama la\natención de un caballero mayor. También pueden ser\nmuy insistentes al respecto."
               ]
             },
             {
@@ -10719,29 +10564,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actress:"
+                "Actriz:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But don't worry! We're very strict about consent around here!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Sex should be enjoyed by everyone involved!"
+                "¡Pero no te preocupes! ¡Aquí somos muy estrictos\ncon el consentimiento! ¡El sexo debe ser\ndisfrutado por todos!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10749,9 +10585,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10824,9 +10658,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10834,9 +10666,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11040,9 +10870,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11050,9 +10878,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11095,9 +10921,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11105,9 +10929,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11159,9 +10981,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11169,9 +10989,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11214,9 +11032,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11224,9 +11040,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11333,58 +11147,42 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11392,9 +11190,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11554,9 +11350,9 @@
                 [
                   "Gacha en(v[13] >= 1)",
                   "SSR Gacha if(v[14] >= 1)",
-                  "Cancel",
-                  "Skip ON if(s[1201])",
-                  "Skip OFF if(!s[1201])"
+                  "Cancelar",
+                  "Saltar ON if(s[1201])",
+                  "Saltar OFF if(!s[1201])"
                 ],
                 2,
                 0,
@@ -11682,30 +11478,22 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -11752,16 +11540,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -11816,30 +11600,22 @@
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -11886,16 +11662,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -11943,30 +11715,22 @@
             {
               "code": 0,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -12013,72 +11777,54 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "SSR Gacha if(v[14] >= 1)"
+                "SSR Gacha si(v[14] >= 1)"
               ]
             },
             {
@@ -12168,30 +11914,22 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -12238,16 +11976,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Cancel"
+                "Cancelar"
               ]
             },
             {
@@ -12274,16 +12010,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "Skip ON if(s[1201])"
+                "Saltar ON if(s[1201])"
               ]
             },
             {
@@ -12333,16 +12067,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 4,
-                "Skip OFF if(!s[1201])"
+                "Saltar OFF si (!s[1201])"
               ]
             },
             {
@@ -12392,23 +12124,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12416,9 +12142,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12569,9 +12293,9 @@
                 [
                   "Gacha en(v[13] >= 1)",
                   "SSR Gacha if(v[14] >= 1)",
-                  "Cancel",
-                  "Skip ON if(s[1201])",
-                  "Skip OFF if(!s[1201])"
+                  "Cancelar",
+                  "Saltar ON if(s[1201])",
+                  "Saltar OFF if(!s[1201])"
                 ],
                 2,
                 0,
@@ -12720,30 +12444,22 @@
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -12764,16 +12480,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -12803,30 +12515,22 @@
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -12847,16 +12551,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -12887,16 +12587,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 108,
@@ -12981,30 +12677,22 @@
             {
               "code": 0,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13025,16 +12713,12 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -13064,30 +12748,22 @@
             {
               "code": 0,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13108,16 +12784,12 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -13148,16 +12820,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 108,
@@ -13235,30 +12903,22 @@
             {
               "code": 0,
               "indent": 7,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13279,16 +12939,12 @@
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -13318,30 +12974,22 @@
             {
               "code": 0,
               "indent": 7,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 6,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13362,16 +13010,12 @@
             {
               "code": 0,
               "indent": 5,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -13402,72 +13046,54 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "SSR Gacha if(v[14] >= 1)"
+                "SSR Gacha si(v[14] >= 1)"
               ]
             },
             {
@@ -13573,30 +13199,22 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13617,16 +13235,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 111,
@@ -13656,30 +13270,22 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 117,
@@ -13700,16 +13306,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -13740,16 +13342,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Cancel"
+                "Cancelar"
               ]
             },
             {
@@ -13776,16 +13376,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "Skip ON if(s[1201])"
+                "Saltar ON if(s[1201])"
               ]
             },
             {
@@ -13835,16 +13433,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 4,
-                "Skip OFF if(!s[1201])"
+                "Saltar OFF si (!s[1201])"
               ]
             },
             {
@@ -13894,23 +13490,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13918,9 +13508,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13993,9 +13581,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14003,9 +13589,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14078,9 +13662,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14088,9 +13670,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14153,15 +13733,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crazy Mansion"
+                "Mansión loca"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14169,9 +13747,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14234,15 +13810,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crazy Mansion / Second Gacha Board"
+                "Crazy Mansion / Segundo tablero de Gacha"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14250,9 +13824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14306,22 +13878,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crazy Mansion / Second Gacha Board"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Thanks for sticking with it!"
+                "Crazy Mansion / Segundo tablero de Gacha ¡Gracias\npor seguir adelante!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14329,9 +13892,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14383,9 +13944,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14393,9 +13952,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14438,9 +13995,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14448,9 +14003,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14557,58 +14110,42 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14616,9 +14153,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14670,9 +14205,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14680,9 +14213,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14725,9 +14256,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14735,9 +14264,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14844,58 +14371,42 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14903,9 +14414,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

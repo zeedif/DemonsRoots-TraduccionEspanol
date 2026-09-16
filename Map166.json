@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Student's Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Habitación del estudiante",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1407,29 +1405,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Student:"
+                "Alumno:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The girl this room belongs to died the other day. I wonder if they'll"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "let me have her stuff."
+                "La chica a la que pertenece esta habitación murió\nel otro día. Me pregunto si me dejarán tener sus\ncosas."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1437,9 +1426,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1482,9 +1469,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1492,9 +1477,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1570,9 +1553,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1580,9 +1561,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Surrender Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Sala de rendición",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "<Darkness:240>",
@@ -1429,9 +1427,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1439,9 +1435,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1511,21 +1505,34 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "*You can't surrender with R-18 Skip Mode on."
+                "*No puedes rendirte con el modo de salto R-18\nactivado."
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 1,
               "parameters": [
-
+                "",
+                0,
+                1,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Puedes rendirte al Imperio usando este tablón de\nanuncios mágico. Los soldados imperiales vendrán a\nbuscarte de inmediato."
               ]
             },
             {
@@ -1542,31 +1549,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can surrender to the Empire by using this magical bulletin board. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Imperial soldiers will immediately come and get you."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 1,
-              "parameters": [
-                "",
-                0,
-                1,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Do you want to give up on world domination?"
+                "¿Quieres renunciar a la dominación mundial?"
               ]
             },
             {
@@ -1574,7 +1557,7 @@
               "indent": 1,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -1588,7 +1571,7 @@
               "indent": 1,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -1605,14 +1588,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "The Empire doesn't show any mercy to those who rebel against it. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "You'll likely suffer a terrible fate."
+                "El Imperio no muestra piedad con quienes se\nrebelan contra él. Probablemente sufrirás un\ndestino terrible."
               ]
             },
             {
@@ -1629,7 +1605,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Do you still want to give up on world domination?"
+                "¿Aún quieres renunciar a la dominación mundial?"
               ]
             },
             {
@@ -1637,7 +1613,7 @@
               "indent": 2,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -1651,7 +1627,7 @@
               "indent": 2,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -1668,14 +1644,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Are you really sure? You'll face a future where not a single demon "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": [
-                "or slave will be spared."
+                "¿Estás seguro? Te enfrentarás a un futuro donde ni\nun solo demonio ni esclavo se salvará."
               ]
             },
             {
@@ -1692,7 +1661,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "I'll ask you one last time. Do you really want to give up?"
+                "Te lo pregunto una última vez: ¿de verdad quieres\nrendirte?"
               ]
             },
             {
@@ -1700,7 +1669,7 @@
               "indent": 3,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -1714,15 +1683,13 @@
               "indent": 3,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -1730,9 +1697,9 @@
               "parameters": [
                 {
                   "name": "Move7",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 110,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -1749,9 +1716,9 @@
               "parameters": [
                 {
                   "name": "Move7",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 110,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -1774,9 +1741,7 @@
             {
               "code": 222,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 230,
@@ -1791,9 +1756,9 @@
               "parameters": [
                 {
                   "name": "newgame",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -1841,9 +1806,7 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -1856,23 +1819,17 @@
             {
               "code": 0,
               "indent": 4,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -1885,23 +1842,17 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -1914,37 +1865,27 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1952,9 +1893,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2008,15 +1947,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The slaves destroyed the magical bulletin board in a fit of rage."
+                "Los esclavos destruyeron el tablón de anuncios\nmágico en un ataque de ira."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2024,9 +1961,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2080,15 +2015,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The slaves destroyed the magical bulletin board in a fit of rage."
+                "Los esclavos destruyeron el tablón de anuncios\nmágico en un ataque de ira."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2096,9 +2029,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2150,9 +2081,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2160,9 +2089,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2214,9 +2141,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2224,9 +2149,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2278,9 +2201,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2288,9 +2209,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2342,9 +2261,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2352,9 +2269,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2406,9 +2321,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2416,9 +2329,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2470,9 +2381,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2480,9 +2389,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2534,9 +2441,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2544,9 +2449,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2589,9 +2492,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2599,9 +2500,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2694,16 +2593,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2711,9 +2606,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2765,9 +2658,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2775,9 +2666,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2829,9 +2718,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2839,9 +2726,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2893,9 +2778,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2903,9 +2786,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2957,9 +2838,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2967,9 +2846,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3045,9 +2922,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3055,9 +2930,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

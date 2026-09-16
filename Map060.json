@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "Tortas Armor Shop",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 16,
   "note": "",
@@ -2182,9 +2180,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2192,9 +2188,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2270,9 +2264,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2280,9 +2272,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2395,9 +2385,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2405,9 +2393,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2459,9 +2445,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2469,9 +2453,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2539,21 +2521,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What do you need with a slave like me? I just make bronze "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "equipment like I'm told."
+                "¿Para qué necesitas un esclavo como yo? Solo\nfabrico equipo de bronce, como me dicen."
               ]
             },
             {
@@ -2570,29 +2545,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Helmets, shoes... I make them exactly like I'm told, no matter how "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "misshapen they look. Otherwise, they'll kill me."
+                "Cascos, zapatos... Los hago exactamente como me\ndicen, por muy deformes que se vean. Si no, me\nmatarán."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2600,9 +2566,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2677,21 +2641,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now that the demons have conquered Tortas, they say slaves are "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "free to own their own businesses."
+                "Ahora que los demonios han conquistado Tortas,\ndicen que los esclavos son libres de tener sus\npropios negocios."
               ]
             },
             {
@@ -2708,21 +2665,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be a ring craftsman. If you have any that need repaired, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "please let me take a look."
+                "Solía ​​ser artesano de anillos. Si tienes alguno\nque necesite reparación, déjame echarle un\nvistazo."
               ]
             },
             {
@@ -2739,14 +2689,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll fix them for you for free. You're the ones who freed us, right?"
+                "Te los arreglaré gratis. Tú fuiste quien nos\nliberó, ¿verdad?"
               ]
             },
             {
@@ -2760,9 +2710,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2770,9 +2718,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2847,14 +2793,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enslaved Ring Craftsman:"
+                "Artesano de anillos esclavizado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do you have a ring you'd like me to fix?"
+                "¿Tienes un anillo que te gustaría que arregle?"
               ]
             },
             {
@@ -2945,10 +2891,10 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Dirty Ring if(v[48] >=1)",
-                  "Rusted Ring if(v[49] >=1)",
-                  "Muddy Ring if(v[50] >=1)",
-                  "No need"
+                  "Anillo sucio if((v[48] >=1)",
+                  "Anillo oxidado if(v[49] >=1)",
+                  "Anillo fangoso if(v[50] >=1)",
+                  "No hay necesidad"
                 ],
                 3,
                 3,
@@ -2961,7 +2907,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Dirty Ring if(v[48] >=1)"
+                "Anillo sucio si (v[48] >=1)"
               ]
             },
             {
@@ -3040,16 +2986,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 235,
@@ -3072,36 +3014,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You don't have any rings that need repairing."
+                "No tienes ningún anillo que necesite reparación."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Rusted Ring if(v[49] >=1)"
+                "Anillo oxidado si (v[49] >=1)"
               ]
             },
             {
@@ -3180,16 +3116,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 235,
@@ -3212,36 +3144,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You don't have any rings that need repairing."
+                "No tienes ningún anillo que necesite reparación."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Muddy Ring if(v[50] >=1)"
+                "Anillo fangoso si (v[50] >=1)"
               ]
             },
             {
@@ -3320,16 +3246,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 235,
@@ -3352,51 +3274,41 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You don't have any rings that need repairing."
+                "No tienes ningún anillo que necesite reparación."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "No need"
+                "No hay necesidad"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 235,
@@ -3408,9 +3320,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3418,9 +3328,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

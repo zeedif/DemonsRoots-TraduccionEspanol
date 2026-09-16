@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Luxury Hotel Lobby",
-  "encounterList": [
-
-  ],
+  "displayName": "Vestíbulo de hotel de lujo",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 20,
   "note": "",
@@ -3681,14 +3679,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome. We're delighted to be able to help you today."
+                "Bienvenido. Nos complace poder ayudarle hoy."
               ]
             },
             {
@@ -3705,14 +3703,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Sniff* *Sniff*... Strange, I can't smell the scent of money on you."
+                "*Sniff* *Sniff*... Qué extraño, no puedo oler el\naroma del dinero en ti."
               ]
             },
             {
@@ -3729,29 +3727,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you simply here to window shop? If so, I'll have to ask you"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to leave. Immediately. "
+                "¿Solo estás aquí para mirar escaparates? Si es\nasí, tendré que pedirte que te vayas.\nInmediatamente."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -3893,9 +3882,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3947,9 +3934,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3957,9 +3942,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4033,9 +4016,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4043,9 +4024,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4126,9 +4105,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4136,9 +4113,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4212,9 +4187,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4222,9 +4195,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4287,14 +4258,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You feel intensely out of place here. It seems like commonfolk "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "aren't allowed further inside."
+                "Aquí te sientes totalmente fuera de lugar. Parece\nque a la gente común no se le permite entrar más."
               ]
             },
             {
@@ -4331,9 +4295,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4341,9 +4303,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4406,14 +4366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You feel intensely out of place here. It seems like commonfolk "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "aren't allowed further inside."
+                "Aquí te sientes totalmente fuera de lugar. Parece\nque a la gente común no se le permite entrar más."
               ]
             },
             {
@@ -4450,9 +4403,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4460,9 +4411,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4514,9 +4463,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4524,9 +4471,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4583,16 +4528,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4600,9 +4541,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4666,14 +4605,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You feel intensely out of place here. It seems like commonfolk "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "aren't allowed further inside."
+                "Aquí te sientes totalmente fuera de lugar. Parece\nque a la gente común no se le permite entrar más."
               ]
             },
             {
@@ -4710,9 +4642,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4720,9 +4650,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4785,29 +4713,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Excuse me. How do you feel about the sea urchin and caviar "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "penne for tomorrow?"
+                "Disculpe. ¿Qué le parece el penne de erizo de mar\ny caviar para mañana?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -4949,9 +4868,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5014,29 +4931,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Filthy Stinking Rich Person:"
+                "Persona rica y asquerosa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The truffle sauce was rather poor, I have to say. I took a single"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bite and tossed the rest away."
+                "La salsa de trufa estaba bastante floja, debo\ndecir. Di un solo bocado y tiré el resto."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5178,9 +5086,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5243,29 +5149,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Filthy Stinking Rich Person:"
+                "Persona rica y asquerosa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I like those flowers. I'll buy them for ten million iru. Have them "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "taken to my mansion."
+                "Me gustan esas flores. Las compraré por diez\nmillones de iru. Que las lleven a mi mansión."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5407,9 +5304,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5472,22 +5367,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As you say. I'll have it arranged immediately."
+                "Como dices, lo arreglaré de inmediato."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5629,9 +5522,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5694,14 +5585,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's one million iru a night. Can you afford it?"
+                "Cuesta un millón de iru por noche. ¿Puedes\npagarlo?"
               ]
             },
             {
@@ -5709,7 +5600,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -5723,7 +5614,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -5749,36 +5640,25 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "It seems like you have the money, but you really shouldn't bother."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "I think the hovel down the street would be more to your tastes."
+                "Parece que tienes el dinero, pero no deberías\nmolestarte. Creo que la choza de la calle abajo te\nvendría mejor."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -5794,36 +5674,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I think the hovel down the street would be more to your tastes."
+                "Creo que la choza que está al final de la calle\nsería más de tu gusto."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -5836,23 +5710,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5904,9 +5772,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5960,14 +5826,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's one million iru a night. Can you afford it?"
+                "Cuesta un millón de iru por noche. ¿Puedes\npagarlo?"
               ]
             },
             {
@@ -5975,9 +5841,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No",
-                  "Use Premium Hotel Voucher"
+                  "Utilice el cupón de hotel premium"
                 ],
                 1,
                 0,
@@ -5990,7 +5856,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -6005,9 +5871,7 @@
             {
               "code": 221,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 211,
@@ -6048,9 +5912,7 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -6107,9 +5969,7 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 230,
@@ -6132,14 +5992,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Bellhop:"
+                "Botones de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I was looking forward to last night... *Grind* *Grind*..."
+                "Estaba esperando con ansias la noche anterior...\n*Grind* *Grind*..."
               ]
             },
             {
@@ -6156,7 +6016,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Diana collected the amenities!"
+                "¡Diana recogió las comodidades!"
               ]
             },
             {
@@ -6222,16 +6082,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -6247,36 +6103,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I think the hovel down the street would be more to your tastes."
+                "Creo que la choza que está al final de la calle\nsería más de tu gusto."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -6289,16 +6139,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Use Premium Hotel Voucher"
+                "Utilice el cupón de hotel premium"
               ]
             },
             {
@@ -6322,9 +6170,7 @@
             {
               "code": 221,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 211,
@@ -6356,9 +6202,7 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -6415,9 +6259,7 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 230,
@@ -6440,14 +6282,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Bellhop:"
+                "Botones de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I was looking forward to last night... *Grind* *Grind*..."
+                "Estaba esperando con ansias la noche anterior...\n*Grind* *Grind*..."
               ]
             },
             {
@@ -6464,7 +6306,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Diana collected the amenities!"
+                "¡Diana recogió las comodidades!"
               ]
             },
             {
@@ -6530,16 +6372,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -6555,57 +6393,40 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Elite Receptionist:"
+                "Recepcionista de élite:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Where is your hotel voucher? Did you think you could stay "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "here for free?"
+                "¿Dónde está tu cupón de hotel? ¿Pensabas que\npodrías alojarte aquí gratis?"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6657,9 +6478,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

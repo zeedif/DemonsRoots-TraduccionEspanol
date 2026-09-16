@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1407,14 +1405,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "An old treasure chest wrapped in chains. You'll need the password"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "for the lock to open it."
+                "Un viejo cofre del tesoro encadenado. Necesitarás\nla contraseña del candado para abrirlo."
               ]
             },
             {
@@ -1576,9 +1567,9 @@
               "parameters": [
                 {
                   "name": "SC_item1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -1615,10 +1606,10 @@
                   "list": [
                     {
                       "code": 45,
+                      "indent": null,
                       "parameters": [
                         "$gameSelfSwitches.setValue([21, 192, \"A\"], true)"
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 0
@@ -1636,10 +1627,10 @@
               "parameters": [
                 {
                   "code": 45,
+                  "indent": null,
                   "parameters": [
                     "$gameSelfSwitches.setValue([21, 192, \"A\"], true)"
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -1652,10 +1643,10 @@
                   "list": [
                     {
                       "code": 45,
+                      "indent": null,
                       "parameters": [
                         "$gameSelfSwitches.setValue([95, 12, \"A\"], true)"
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 0
@@ -1673,33 +1664,27 @@
               "parameters": [
                 {
                   "code": 45,
+                  "indent": null,
                   "parameters": [
                     "$gameSelfSwitches.setValue([95, 12, \"A\"], true)"
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1707,9 +1692,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1752,9 +1735,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1762,9 +1743,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1847,9 +1826,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1857,9 +1834,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1902,9 +1877,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1912,9 +1885,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1997,9 +1968,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2007,9 +1976,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2052,9 +2019,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2062,9 +2027,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2140,9 +2103,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2150,9 +2111,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

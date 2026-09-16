@@ -16,12 +16,10 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Memory Dungeon",
+  "displayName": "Mazmorra de la memoria",
   "encounterList": [
     {
-      "regionSet": [
-
-      ],
+      "regionSet": [],
       "troopId": 87,
       "weight": 5
     }
@@ -2173,16 +2171,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2190,9 +2184,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2275,9 +2267,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -2304,23 +2294,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -2671,23 +2655,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -2844,9 +2822,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2913,9 +2889,7 @@
             {
               "code": 601,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -2942,23 +2916,17 @@
             {
               "code": 115,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 602,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 355,
@@ -3309,23 +3277,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -3333,9 +3295,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3385,16 +3345,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3402,9 +3358,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3454,16 +3408,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3471,9 +3421,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3624,9 +3572,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3634,9 +3580,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3748,21 +3692,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The outside world I see through my spirit's hard to believe."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's like something out of a work of fiction."
+                "El mundo exterior que veo a través de mi espíritu\nes difícil de creer. Parece sacado de una obra de\nficción."
               ]
             },
             {
@@ -3779,21 +3716,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "People my age are out there walking on their own limbs."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Studying to better their lives."
+                "La gente de mi edad anda por ahí, caminando por\nsus propios medios. Estudiando para mejorar sus\nvidas."
               ]
             },
             {
@@ -3810,21 +3740,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supported by their families and led by decent mentors. Growing and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "spreading their wings. It's all just too different."
+                "Apoyados por sus familias y guiados por mentores\ndecentes. Creciendo y expandiendo sus alas. Todo\nes demasiado diferente."
               ]
             },
             {
@@ -3841,21 +3764,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're no different from the pigs. Locked away and used for "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "someone else's gain. We're just livestock..."
+                "No somos diferentes de los cerdos. Encerrados y\nutilizados para beneficio ajeno. Solo somos\nganado..."
               ]
             },
             {
@@ -3873,9 +3789,9 @@
               "parameters": [
                 {
                   "name": "Magic13",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 50,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3888,87 +3804,87 @@
                   "list": [
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         240
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         200
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         150
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         100
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         60
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         30
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 39,
@@ -3990,10 +3906,10 @@
               "parameters": [
                 {
                   "code": 42,
+                  "indent": null,
                   "parameters": [
                     240
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -4003,10 +3919,10 @@
               "parameters": [
                 {
                   "code": 15,
+                  "indent": null,
                   "parameters": [
                     20
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -4016,10 +3932,10 @@
               "parameters": [
                 {
                   "code": 42,
+                  "indent": null,
                   "parameters": [
                     200
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -4029,10 +3945,10 @@
               "parameters": [
                 {
                   "code": 15,
+                  "indent": null,
                   "parameters": [
                     20
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -4170,9 +4086,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4180,9 +4094,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4225,9 +4137,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4235,9 +4145,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4289,9 +4197,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4299,9 +4205,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Memory Dungeon",
-  "encounterList": [
-
-  ],
+  "displayName": "Mazmorra de la memoria",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 25,
   "note": "",
@@ -4570,9 +4568,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4580,9 +4576,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4691,16 +4685,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4708,9 +4698,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4845,9 +4833,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4855,9 +4841,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4909,9 +4893,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4919,9 +4901,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4964,9 +4944,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4974,9 +4952,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5019,9 +4995,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -5058,9 +5032,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 108,
@@ -5190,9 +5162,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -5293,16 +5263,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5310,9 +5276,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5355,9 +5319,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5365,9 +5327,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5419,9 +5379,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5429,9 +5387,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5534,14 +5490,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tomorrow I'll have to kill her too..."
+                "Mañana tendré que matarla también..."
               ]
             },
             {
@@ -5558,21 +5514,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I shouldn't have given her a name on a whim. It's only a few"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "syllables, just something to call her by, so why...?"
+                "No debí haberle puesto un nombre por capricho. Son\nsolo unas pocas sílabas, solo algo para llamarla,\nasí que ¿por qué...?"
               ]
             },
             {
@@ -5589,14 +5538,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why does it hurt so much? *Sob* *Sob*..."
+                "¿Por qué duele tanto? *Sollozo* *Sollozo*..."
               ]
             },
             {
@@ -5613,14 +5562,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Past Sarasa:"
+                "Pasado Sarasa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm sorry... I'm so sorry! I'm too weak! I can't protect anything!"
+                "Lo siento... ¡Lo siento mucho! ¡Soy demasiado\ndébil! ¡No puedo proteger nada!"
               ]
             },
             {
@@ -5638,9 +5587,9 @@
               "parameters": [
                 {
                   "name": "Magic13",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 50,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5653,87 +5602,87 @@
                   "list": [
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         240
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         200
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         150
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         100
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         60
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         30
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 39,
@@ -5755,10 +5704,10 @@
               "parameters": [
                 {
                   "code": 42,
+                  "indent": null,
                   "parameters": [
                     240
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -5924,87 +5873,87 @@
                   "list": [
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         240
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         200
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         150
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         100
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         60
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 42,
+                      "indent": null,
                       "parameters": [
                         30
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 15,
+                      "indent": null,
                       "parameters": [
                         20
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 39,
@@ -6026,10 +5975,10 @@
               "parameters": [
                 {
                   "code": 42,
+                  "indent": null,
                   "parameters": [
                     240
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
@@ -6197,9 +6146,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6207,9 +6154,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6252,9 +6197,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6262,9 +6205,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6327,15 +6268,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The body of a homunculus. It's still warm."
+                "El cuerpo de un homúnculo. Todavía está caliente."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6343,9 +6282,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6424,7 +6361,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a warm, glowing light. Fully restore the party?"
+                "Hay una luz cálida y brillante. ¿Reiniciarás la\nfiesta por completo?"
               ]
             },
             {
@@ -6432,9 +6369,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No",
-                  "Save"
+                  "Guardar"
                 ],
                 1,
                 0,
@@ -6447,7 +6384,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -6498,15 +6435,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The party's HP and MP has been fully restored!"
+                "¡Los HP y MP del grupo han sido restaurados por\ncompleto!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -6519,38 +6454,30 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Save"
+                "Ahorrar"
               ]
             },
             {
               "code": 352,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -6564,9 +6491,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6618,9 +6543,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

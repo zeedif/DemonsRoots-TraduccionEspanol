@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Tortas Throne Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Sala del Trono de Tortas",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 40,
   "note": "<Darkness:240>",
@@ -9670,9 +9668,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9680,9 +9676,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9736,22 +9730,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "King of Tortas:"
+                "Rey de las Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why... Why won't anyone protect me? Those worthless slaves..."
+                "¿Por qué... por qué nadie me protege? Esos\nesclavos inútiles..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9759,9 +9751,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9815,22 +9805,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "King of Tortas:"
+                "Rey de las Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Why... Why won't anyone protect me? Those worthless slaves..."
+                "¿Por qué... por qué nadie me protege? Esos\nesclavos inútiles..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9838,9 +9826,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9894,21 +9880,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "King of Tortas:"
+                "Rey de las Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The slaves have begun to live without masters... The dignity of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Tortas is being ruined... Ah, I know!"
+                "Los esclavos han comenzado a vivir sin amos... La\ndignidad de Tortas está siendo arruinada... ¡Ah,\nya sé!"
               ]
             },
             {
@@ -9925,29 +9904,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "King of Tortas:"
+                "Rey de las Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If we pay the slaves for their work, it'll raise standards all across "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Tortas! ...Ngh! Accursed brainwashing!"
+                "Si pagamos a los esclavos por su trabajo,\n¡elevaremos el nivel en todo Tortas! ¡Maldito\nlavado de cerebro!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9955,9 +9925,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10020,21 +9988,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier:"
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That serial killer managed to escape, but we don't have time to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "worry about that right now!"
+                "¡Ese asesino en serie logró escapar, pero no\ntenemos tiempo para preocuparnos por eso ahora!"
               ]
             },
             {
@@ -10051,29 +10012,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier:"
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We had another big haul of slaves come in, so we're too busy with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "all the paperwork!"
+                "¡Hemos tenido otro gran cargamento de esclavos,\nasí que estamos demasiado ocupados con todo el\npapeleo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10081,9 +10033,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10137,22 +10087,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Royal Guard:"
+                "Guardia Real:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mrgh..."
+                "Señor..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10160,9 +10108,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10205,9 +10151,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10215,9 +10159,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10271,29 +10213,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier: "
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The king's talking like a decent person? Just what kind of magic did "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the demons use on him?"
+                "¿El rey habla como una persona decente? ¿Qué tipo\nde magia usaron los demonios con él?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10301,9 +10234,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10366,21 +10297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier:"
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That serial killer managed to escape, but we don't have time to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "worry about that right now!"
+                "¡Ese asesino en serie logró escapar, pero no\ntenemos tiempo para preocuparnos por eso ahora!"
               ]
             },
             {
@@ -10397,29 +10321,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier:"
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We had another big haul of slaves come in, so we're too busy with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "all the paperwork!"
+                "¡Hemos tenido otro gran cargamento de esclavos,\nasí que estamos demasiado ocupados con todo el\npapeleo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10427,9 +10342,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10483,22 +10396,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Royal Guard:"
+                "Guardia Real:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What the hell are you...?"
+                "¿Qué carajo estás...?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10506,9 +10417,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10551,9 +10460,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10561,9 +10468,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10617,29 +10522,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tortas Soldier:"
+                "Soldado de Tortas:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slavery's been abolished in Tortas. The slaves are celebrating,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but the commonfolk have been thrown into turmoil."
+                "En Tortas se abolió la esclavitud. Los esclavos\nestán de fiesta, pero la gente común está sumida\nen el caos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10647,9 +10543,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10701,9 +10595,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10711,9 +10603,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10756,9 +10646,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10766,9 +10654,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10842,9 +10728,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10852,9 +10736,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10938,21 +10820,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a demon standing at the ready for you outside the palace. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Speak to him and he'll take you straight back to Bohelos."
+                "Hay un demonio esperándote fuera del palacio.\nHabla con él y te llevará directo a Bohelos."
               ]
             },
             {
@@ -10969,29 +10844,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We'll stand watch until the demons who are good at brainwashing "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "arrive. Don't worry, we won't let them run."
+                "Nos quedaremos de guardia hasta que lleguen los\ndemonios que saben lavar el cerebro. No te\npreocupes, no los dejaremos escapar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10999,9 +10865,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11055,21 +10919,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm in charge of looking after this guy. I've got to say, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "human kings sure are nasty. "
+                "Estoy a cargo de cuidar a este tipo. Debo decir\nque los reyes humanos son realmente desagradables."
               ]
             },
             {
@@ -11086,29 +10943,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They don't just exploit their slaves for money and goods."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "They do it to their citizens too."
+                "No solo explotan a sus esclavos por dinero y\nbienes. También lo hacen con sus ciudadanos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11116,9 +10964,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11181,21 +11027,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lord Mebius is going around looking for volunteers to remain on"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "standby in the skies over Tortas as backup."
+                "Lord Mebius está buscando voluntarios para\npermanecer en espera en los cielos de Tortas como\nrespaldo."
               ]
             },
             {
@@ -11212,29 +11051,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's how I got here so fast. So when am I going to die? What?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's already over?"
+                "Así es como llegué aquí tan rápido. ¿Cuándo voy a\nmorir? ¿Qué? ¿Ya se acabó?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11242,9 +11072,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11298,29 +11126,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's the point in squeezing your people for money if you're the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "only one who gets to live a cushy life?"
+                "¿Qué sentido tiene exprimir a tu gente para que te\ndé dinero si eres el único que puede vivir una\nvida cómoda?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11328,9 +11147,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11405,22 +11222,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woof!"
+                "¡Guau!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11428,9 +11243,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11484,21 +11297,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm in charge of looking after this guy. I've got to say, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "human kings sure are nasty. "
+                "Estoy a cargo de cuidar a este tipo. Debo decir\nque los reyes humanos son realmente desagradables."
               ]
             },
             {
@@ -11515,29 +11321,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They don't just exploit their slaves for money and goods."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "They do it to their citizens too."
+                "No solo explotan a sus esclavos por dinero y\nbienes. También lo hacen con sus ciudadanos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11545,9 +11342,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11599,9 +11394,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11609,9 +11402,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11654,9 +11445,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11664,9 +11453,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11723,9 +11510,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11733,9 +11518,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11809,9 +11592,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11819,9 +11600,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11884,29 +11663,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is where the White Phantom appeared, right? I'm surprised "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you wanted anything to do with it."
+                "Aquí es donde apareció el Fantasma Blanco,\n¿verdad? Me sorprende que quisieras tener algo que\nver con eso."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11914,9 +11684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11970,29 +11738,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've still never seen it. I guess it really did disappear once the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "monument was broken."
+                "Todavía no lo he visto. Supongo que realmente\ndesapareció cuando se destruyó el monumento."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12000,9 +11759,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12045,9 +11802,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12055,9 +11810,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12116,9 +11869,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12126,9 +11877,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12187,9 +11936,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12197,9 +11944,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12251,9 +11996,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12261,9 +12004,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12306,9 +12047,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12316,9 +12055,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12404,9 +12141,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -12462,9 +12197,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -12476,9 +12209,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 241,
@@ -12511,9 +12242,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -12526,9 +12255,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12536,9 +12263,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12581,9 +12306,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12591,9 +12314,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12938,9 +12659,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12948,9 +12667,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12993,9 +12710,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13003,9 +12718,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13194,9 +12907,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13204,9 +12915,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13249,9 +12958,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13259,9 +12966,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13320,9 +13025,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13330,9 +13033,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13384,9 +13085,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13394,9 +13093,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13439,9 +13136,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13449,9 +13144,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13508,16 +13201,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13525,9 +13214,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13586,9 +13273,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13596,9 +13281,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13657,9 +13340,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13667,9 +13348,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13728,9 +13407,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13738,9 +13415,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13799,9 +13474,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13809,9 +13482,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13870,9 +13541,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13880,9 +13549,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14076,9 +13743,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14086,9 +13751,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14131,9 +13794,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14141,9 +13802,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14338,9 +13997,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14348,9 +14005,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14393,9 +14048,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14403,9 +14056,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14599,9 +14250,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14609,9 +14258,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14654,9 +14301,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14664,9 +14309,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14860,9 +14503,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14870,9 +14511,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14915,9 +14554,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14925,9 +14562,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15121,9 +14756,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15131,9 +14764,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15176,9 +14807,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15186,9 +14815,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15375,23 +15002,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15399,9 +15020,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15444,9 +15063,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15454,9 +15071,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

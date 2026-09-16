@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1420,9 +1418,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1430,9 +1426,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1508,9 +1502,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1518,9 +1510,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1583,21 +1573,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ugly Old Man:"
+                "Viejo feo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I collected all the gear that was left behind in the fort. What? "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'm not letting you have any of it."
+                "Recogí todo el equipo que quedó en el fuerte.\n¿Qué? No te lo voy a dar."
               ]
             },
             {
@@ -1614,29 +1597,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ugly Old Man:"
+                "Viejo feo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This stuff's all we have to fight monsters and bandits with."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Our lives depend on it. Please understand."
+                "Esto es todo lo que tenemos para luchar contra\nmonstruos y bandidos. Nuestras vidas dependen de\nello. Por favor, entiéndelo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1644,9 +1618,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1705,9 +1677,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1715,9 +1685,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1769,9 +1737,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1779,9 +1745,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1845,16 +1809,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1862,9 +1822,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1927,14 +1885,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plucky Kid:"
+                "Niño valiente:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's so heavy! I can't carry it properly!"
+                "¡Es tan pesado! ¡No puedo cargarlo bien!"
               ]
             },
             {
@@ -1951,29 +1909,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plucky Kid:"
+                "Niño valiente:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't just sit around while the grown-ups do all the hard work!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I have to do my part too!"
+                "¡No puedo quedarme de brazos cruzados mientras los\nadultos hacen todo el trabajo duro! ¡Yo también\ntengo que hacer mi parte!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1981,9 +1930,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

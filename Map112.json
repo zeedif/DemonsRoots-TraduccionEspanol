@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Plana Crossroads",
-  "encounterList": [
-
-  ],
+  "displayName": "Cruce de Plana",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 30,
   "note": "",
@@ -6398,9 +6396,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6408,9 +6404,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6495,9 +6489,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6505,9 +6497,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6568,29 +6558,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Liquor Store Merchant:"
+                "Comerciante de licorería:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This stuff's really great at detoxing you. *Gulp* *Gulp* *Gulp*..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Bleh... Disgusting."
+                "Esta cosa es realmente genial para desintoxicarte.\n*Trago* *Trago* *Trago*... Bleh... Asqueroso."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6598,9 +6579,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6666,9 +6645,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6676,9 +6653,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6730,9 +6705,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6740,9 +6713,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6853,9 +6824,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6863,9 +6832,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6924,9 +6891,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7250,9 +7215,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7322,29 +7285,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Delivery Service:"
+                "Servicio de entrega:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shit... Those rich bastards, showing off their money. Where do they "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "get it all from?"
+                "Mierda... Esos ricos cabrones, presumiendo de su\ndinero. ¿De dónde lo sacan?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7668,9 +7622,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7773,9 +7725,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7783,9 +7733,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7855,29 +7803,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're setting up for the Saint Coliseum right now, so the coliseum's "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "off limits."
+                "En este momento nos estamos preparando para el\nSaint Coliseum, por lo que el coliseo está fuera\nde nuestros límites."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7885,9 +7824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7948,29 +7885,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Saint Coliseum's now open! Anyone who wants to take part,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "head on over this way!"
+                "¡El Coliseo Santo ya está abierto! Si quieres\nparticipar, ¡pásate por aquí!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7978,9 +7906,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8041,29 +7967,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To think a gladiator's become the King of Plana... What's going to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "happen to this country?"
+                "Pensar que un gladiador se ha convertido en el Rey\nde Plana... ¿Qué va a pasar con este país?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8071,9 +7988,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8143,29 +8058,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're setting up for the Saint Coliseum right now, so the coliseum's "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "off limits."
+                "En este momento nos estamos preparando para el\nSaint Coliseum, por lo que el coliseo está fuera\nde nuestros límites."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8173,9 +8079,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8236,29 +8140,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Saint Coliseum's now open! Anyone who wants to take part,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "head on over this way!"
+                "¡El Coliseo Santo ya está abierto! Si quieres\nparticipar, ¡pásate por aquí!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8266,9 +8161,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8329,29 +8222,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "To think a gladiator's become the King of Plana... What's going to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "happen to this country?"
+                "Pensar que un gladiador se ha convertido en el Rey\nde Plana... ¿Qué va a pasar con este país?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8359,9 +8243,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8446,9 +8328,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8456,9 +8336,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8519,22 +8397,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Merchant Girl:"
+                "Chica comerciante:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crap... Almost had them."
+                "Mierda... Casi los tengo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8542,9 +8418,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8629,9 +8503,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8639,9 +8511,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8702,29 +8572,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pushy Old Woman:"
+                "Mujer mayor insistente:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You have to buy a little something after eating all that! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's only polite! So stubborn!"
+                "¡Tienes que comprar algo después de comer todo\neso! ¡Es de buena educación! ¡Qué testarudo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8732,9 +8593,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8798,9 +8657,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8808,9 +8665,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8895,9 +8750,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8905,9 +8758,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8968,22 +8819,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Clothing Merchant:"
+                "Comerciante de ropa:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Come back anytime! I'll make sure to completely restock!"
+                "¡Vuelve cuando quieras! ¡Me aseguraré de\nreabastecerlo todo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8991,9 +8840,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9078,9 +8925,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9088,9 +8933,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9151,22 +8994,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Traditional Medicine Merchant:"
+                "Comerciante de medicina tradicional:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wha-? H-How can I help you?"
+                "¿Qué...? ¿Cómo puedo ayudarte?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9174,9 +9015,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9243,9 +9082,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9253,9 +9090,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9298,9 +9133,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9308,9 +9141,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9380,22 +9211,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Traveler:"
+                "Viajero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana's a good country, but only if you have a lot of money."
+                "Plana es un buen país, pero sólo si tienes mucho\ndinero."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -9729,9 +9558,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9801,29 +9628,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Delivery Person:"
+                "Persona de entrega:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are loads of goods moving around Plana, so I'm always"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "having to run between the stores and the warehouses."
+                "Hay muchísimas mercancías en movimiento por Plana,\npor lo que siempre tengo que correr entre las\ntiendas y los almacenes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -10147,9 +9965,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10219,21 +10035,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Celebrity:"
+                "Celebridad:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Expensive goods tend to last longer. That's why I only buy the most "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "luxurious items available."
+                "Los artículos caros suelen durar más. Por eso solo\ncompro los más lujosos."
               ]
             },
             {
@@ -10250,29 +10059,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Celebrity:"
+                "Celebridad:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Not that I'm the one paying. It all comes out of my husband's "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "pocket. Ehehe..."
+                "No es que yo sea quien pague. Todo sale del\nbolsillo de mi marido. Jejeje..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -10414,9 +10214,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10486,21 +10284,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The coliseum's incredible! It's so exciting watching the gladiators "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "fight to the death!"
+                "¡El coliseo es increíble! ¡Es emocionante ver a\nlos gladiadores luchar a muerte!"
               ]
             },
             {
@@ -10517,29 +10308,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment they strike the killing blow! The roar of the crowd! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Nothing makes your drink taste better! I can't get enough!"
+                "¡El momento en que dan el golpe mortal! ¡El rugido\nde la multitud! ¡Nada hace que tu bebida sepa\nmejor! ¡No tengo suficiente!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10547,9 +10329,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10610,14 +10390,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like the coliseum's being shut down... My life's over."
+                "Parece que van a cerrar el coliseo... Mi vida se\nacabó."
               ]
             },
             {
@@ -10634,29 +10414,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh? It'll still be open, there just won't be any death matches"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "anymore? Hmm... I guess I'll check it out."
+                "¿Eh? ¿Seguirá abierto, solo que ya no habrá\ncombates a muerte? Mmm... Supongo que le echaré un\nvistazo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10664,9 +10435,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10736,14 +10505,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The coliseum's up ahead! The gladiators fight there all day long!"
+                "¡El coliseo está ahí adelante! ¡Los gladiadores\nluchan allí todo el día!"
               ]
             },
             {
@@ -10760,29 +10529,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The death matches are especially popular! Plana basically runs on "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the money from the ticket sales!"
+                "¡Los combates a muerte son especialmente\npopulares! ¡Plana prácticamente funciona con el\ndinero de la venta de entradas!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10790,9 +10550,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10853,21 +10611,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The death matches between the gladiators are no more. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The new, non-deadly matches are really boring."
+                "Los combates a muerte entre gladiadores ya no\nexisten. Los nuevos combates sin muerte son\nrealmente aburridos."
               ]
             },
             {
@@ -10884,29 +10635,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, when I pass a smiling gladiator on the street, I feel kind of "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "guilty. They're people too."
+                "Aun así, cuando me cruzo con un gladiador\nsonriente por la calle, me siento un poco\nculpable. Son personas también."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10914,9 +10656,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10986,21 +10726,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I love the battle royal between the gladiators and the beasts!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's really fun betting on how many will survive!"
+                "¡Me encanta la batalla campal entre los\ngladiadores y las bestias! ¡Es divertidísimo\napostar a cuántos sobrevivirán!"
               ]
             },
             {
@@ -11017,29 +10750,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "At first it was hard watching people die, but now that I'm used "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to it, I like to watch the really bloody ones!"
+                "Al principio me costaba mucho ver morir a la\ngente, pero ahora que ya me he acostumbrado, ¡me\ngusta ver los realmente sangrientos!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11047,9 +10771,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11110,21 +10832,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Crap... The gladiators defeated the king, and now Plana's power "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "structure's all backwards."
+                "Mierda... Los gladiadores derrotaron al rey, y\nahora la estructura de poder de Plana está al\nrevés."
               ]
             },
             {
@@ -11141,29 +10856,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I hear those who gambled on the coliseum matches are being"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "punished. Will that happen to me too? *Gulp*..."
+                "He oído que quienes apostaron en los partidos del\nColiseo están siendo castigados. ¿Me pasará lo\nmismo? *Trago saliva*..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11171,9 +10877,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11344,9 +11048,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11354,9 +11056,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11399,9 +11099,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11409,9 +11107,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11481,21 +11177,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Up ahead is the slave market and the auction house. The gladiator"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "housing and workshops are squeezed in there too."
+                "Más adelante se encuentran el mercado de esclavos\ny la casa de subastas. Allí también se encuentran\nlas viviendas y los talleres de los gladiadores."
               ]
             },
             {
@@ -11512,29 +11201,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's dangerous, dirty, and it reeks. I'd stay away from the whole "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "area if I were you."
+                "Es peligroso, sucio y apesta. Yo que tú me\nmantendría alejado de toda la zona."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11542,9 +11222,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11620,9 +11298,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11630,9 +11306,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11708,9 +11382,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11718,9 +11390,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11796,9 +11466,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11806,9 +11474,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11860,9 +11526,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11870,9 +11534,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11924,9 +11586,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11934,9 +11594,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11988,9 +11646,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11998,9 +11654,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12061,9 +11715,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -12075,9 +11727,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 129,
@@ -12115,16 +11765,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12132,9 +11778,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12177,9 +11821,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12187,9 +11829,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

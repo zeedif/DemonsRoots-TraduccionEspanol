@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Pacius Temple",
-  "encounterList": [
-
-  ],
+  "displayName": "Templo de Pacio",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 55,
   "note": "",
@@ -12940,9 +12938,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12950,9 +12946,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13004,9 +12998,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13014,9 +13006,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13092,9 +13082,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13102,9 +13090,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13158,14 +13144,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now's our chance to enter the temple! Let's head around the back!"
+                "¡Ahora es nuestra oportunidad de entrar al templo!\n¡Vamos por la parte de atrás!"
               ]
             },
             {
@@ -13202,9 +13188,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13212,9 +13196,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13281,9 +13263,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13291,9 +13271,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13384,9 +13362,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13394,9 +13370,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13466,22 +13440,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hmm... That sister isn't half bad. Huh? Who are you? "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Leave me alone."
+                "Mmm... Esa hermana no está nada mal. ¿Eh? ¿Quién\neres? Déjame en paz."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13511,9 +13476,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13556,9 +13519,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13566,9 +13527,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13629,22 +13588,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What!? The Underground Temple is off-limits!? Do you even know "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "who I...!? Ah... Ahem. Who might you be?"
+                "¿¡Qué!? ¿¡El Templo Subterráneo está prohibido!?\n¿¡Sabes quién soy...!? Ah... Ejem. ¿Quién eres?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13674,9 +13624,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13737,15 +13685,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eek! I'm sorry! The heavens are punishing me for my bad deeds! "
+                "¡Ay! ¡Lo siento! ¡El cielo me castiga por mis\nmalas acciones!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13775,9 +13721,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13868,7 +13812,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, you made it here! We've memorized the surrounding terrain!"
+                "¡Ah, lo lograste! ¡Nos hemos aprendido de memoria\nel terreno!"
               ]
             },
             {
@@ -13892,7 +13836,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now we'll be able to take you straight here from the world map!"
+                "¡Ahora podremos llevarte directamente aquí desde\nel mapa mundial!"
               ]
             },
             {
@@ -13907,9 +13851,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13917,9 +13859,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14001,7 +13941,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Need a high-speed lift to another country?"
+                "¿Necesitas un viaje de alta velocidad a otro país?"
               ]
             },
             {
@@ -14018,7 +13958,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Move to the world map?"
+                "¿Moverse al mapa del mundo?"
               ]
             },
             {
@@ -14026,7 +13966,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -14040,15 +13980,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 242,
@@ -14079,9 +14017,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -14094,23 +14030,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14118,9 +14048,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14183,22 +14111,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the holiest place in all of Pacius. Please leave."
+                "Este es el lugar más sagrado de todo Pacio. Por\nfavor, váyase."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14206,9 +14132,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14251,9 +14175,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14261,9 +14183,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14317,29 +14237,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pacius has changed a lot recently, though I don't know if those"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "changes are good or bad."
+                "Pacius ha cambiado mucho últimamente, aunque no sé\nsi esos cambios son buenos o malos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14347,9 +14258,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14403,21 +14312,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There have been fewer philanthropists lately. Perhaps it's due to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the Magic Cannon."
+                "Últimamente ha habido menos filántropos. Quizás se\ndeba al Cañón Mágico."
               ]
             },
             {
@@ -14434,29 +14336,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those people were terrifying... Their eyes were like black holes. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I feel much better now that they're gone."
+                "Esa gente era aterradora... Sus ojos eran como\nagujeros negros. Me siento mucho mejor ahora que\nya no están."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14464,9 +14357,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14530,9 +14421,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14540,9 +14429,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14706,9 +14593,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14716,9 +14601,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14761,9 +14644,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14771,9 +14652,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14836,22 +14715,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Only those chosen by God may enter."
+                "Sólo aquellos elegidos por Dios podrán entrar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14859,9 +14736,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14915,22 +14790,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Snore* *Snore*..."
+                "*Ronquido* *Ronquido*..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14938,9 +14811,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14994,29 +14865,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The air in the temple's nowhere near as tense now. Ahhh, it feels "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "so much better."
+                "El aire en el templo ya no es tan tenso. Ahhh, se\nsiente mucho mejor."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15024,9 +14886,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15080,22 +14940,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My ears are still ringing from that massive sound. Ow..."
+                "Todavía me zumban los oídos por ese sonido tan\nfuerte. ¡Ay!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15103,9 +14961,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15168,22 +15024,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't tell you where the Sage is right now."
+                "No puedo decirte dónde está el Sabio ahora mismo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15191,9 +15045,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15247,22 +15099,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Snore*..."
+                "*Ronquido*..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15270,9 +15120,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15326,22 +15174,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The temple's been opened to tourists free of charge."
+                "El templo se abrió a los turistas de forma\ngratuita."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15349,9 +15195,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15405,22 +15249,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My heart's still pounding. I think I've been scarred for life."
+                "Mi corazón todavía late fuerte. Creo que he\nquedado marcado para toda la vida."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15428,9 +15270,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15482,9 +15322,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15492,9 +15330,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15546,9 +15382,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15556,9 +15390,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15634,9 +15466,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15644,9 +15474,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15698,9 +15526,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15708,9 +15534,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15753,9 +15577,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15763,9 +15585,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15839,9 +15659,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15849,9 +15667,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15903,9 +15719,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15913,9 +15727,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15981,16 +15793,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 223,
@@ -16038,16 +15846,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16055,9 +15859,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16143,16 +15945,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16160,9 +15958,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16228,16 +16024,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 223,
@@ -16263,9 +16055,7 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 122,
@@ -16292,9 +16082,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16302,9 +16090,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16356,9 +16142,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16366,9 +16150,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16411,9 +16193,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16421,9 +16201,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16473,9 +16251,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 201,
@@ -16492,9 +16268,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -16506,9 +16280,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -16564,16 +16336,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16581,9 +16349,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16626,9 +16392,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16636,9 +16400,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16701,7 +16463,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
@@ -16714,9 +16476,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16724,9 +16484,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16769,9 +16527,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16779,9 +16535,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16844,7 +16598,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
@@ -16857,9 +16611,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16867,9 +16619,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16912,9 +16662,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16922,9 +16670,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16987,7 +16733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
@@ -17000,9 +16746,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17010,9 +16754,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17055,9 +16797,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17065,9 +16805,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17130,7 +16868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
@@ -17143,9 +16881,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17153,9 +16889,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17198,9 +16932,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17208,9 +16940,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17399,9 +17129,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17409,9 +17137,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17454,9 +17180,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17464,9 +17188,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17655,9 +17377,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17665,9 +17385,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17710,9 +17428,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17720,9 +17436,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17774,9 +17488,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17784,9 +17496,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17829,9 +17539,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17839,9 +17547,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17891,9 +17597,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17901,9 +17605,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17955,9 +17657,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17965,9 +17665,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18010,9 +17708,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18020,9 +17716,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18072,9 +17766,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -18100,9 +17792,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -18114,9 +17804,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 205,
@@ -18258,16 +17946,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18275,9 +17959,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18320,9 +18002,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18330,9 +18010,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18384,9 +18062,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18394,9 +18070,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18439,9 +18113,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18449,9 +18121,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18505,21 +18175,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My ears are ringing... They fired Magic Cannon right "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "past the temple."
+                "Me zumban los oídos... Dispararon un cañón mágico\njusto al otro lado del templo."
               ]
             },
             {
@@ -18536,29 +18199,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I won't be sleeping soundly for a while... I guess I'll just have to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sneak into the Sage's bedroom."
+                "No podré dormir profundamente por un tiempo...\nSupongo que tendré que colarme en el dormitorio\ndel Sabio."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18566,9 +18220,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18620,9 +18272,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18630,9 +18280,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18675,9 +18323,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18685,9 +18331,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18741,21 +18385,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The cannon didn't score a direct hit, but it still did a lot of damage "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to the temple."
+                "El cañón no dio un impacto directo, pero aun así\ncausó mucho daño al templo."
               ]
             },
             {
@@ -18772,21 +18409,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The temple looks fine from the outside, but the foundation and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "several important parts have apparently been damaged."
+                "El templo se ve bien desde el exterior, pero los\ncimientos y varias partes importantes\naparentemente han sido dañados."
               ]
             },
             {
@@ -18803,29 +18433,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It'll likely require some renovations. Still, that might make for a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "nice change of pace."
+                "Probablemente necesite algunas renovaciones. Aun\nasí, podría ser un buen cambio de aires."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18833,9 +18454,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -18898,21 +18517,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Magic Cannon was fired quite close to the temple, which has really "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "messed everything up."
+                "El Cañón Mágico fue disparado bastante cerca del\ntemplo, lo que realmente arruinó todo."
               ]
             },
             {
@@ -18929,22 +18541,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sister:"
+                "Hermana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The temple's now off-limits. Honestly, who would do such a thing?"
+                "El templo ya no está al alcance. Sinceramente,\n¿quién haría algo así?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -18952,9 +18562,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

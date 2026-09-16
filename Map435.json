@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1428,14 +1426,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beast:"
+                "Bestia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hissssss!"
+                "¡Ssssss!"
               ]
             },
             {
@@ -1468,14 +1466,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm sorry, that beast doesn't like people much. Even if I pick it up, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "it desperately tries to wiggle away."
+                "Lo siento, a esa bestia no le gusta mucho la\ngente. Aunque la recoja, intenta escabullirse\ndesesperadamente."
               ]
             },
             {
@@ -1492,14 +1483,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But when I'm working? He always comes along and plonks himself "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "right in front of my monitor. He's such a little bastard."
+                "¿Pero cuando estoy trabajando? Siempre viene y se\nsienta frente a mi monitor. Es un cabrón."
               ]
             },
             {
@@ -1523,22 +1507,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beast:"
+                "Bestia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hissssss!"
+                "¡Ssssss!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1642,9 +1624,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1751,7 +1731,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Did you want to ask me something?"
+                "¿Querías preguntarme algo?"
               ]
             },
             {
@@ -1759,12 +1739,12 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Who are you?",
-                  "Achievements please",
-                  "Autograph please",
-                  "Did you make this whole game by yourself?",
-                  "Did King Exit make a profit?",
-                  "Did Shade really make your BGM?"
+                  "¿Quién eres?",
+                  "Logros por favor",
+                  "Autógrafo por favor",
+                  "¿Hiciste todo este juego tú solo?",
+                  "¿King Exit obtuvo ganancias?",
+                  "¿Shade realmente hizo tu BGM?"
                 ],
                 -1,
                 0,
@@ -1777,7 +1757,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Who are you?"
+                "¿Quién eres?"
               ]
             },
             {
@@ -1794,7 +1774,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Me? Allow me to reintroduce myself!"
+                "¿Yo? ¡Permíteme volver a presentarme!"
               ]
             },
             {
@@ -1811,14 +1791,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'm Akai Mato, the creator of Demons Roots! This is my third RPG."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I created two others before this one, King's Exit and Tenka Ran RPG."
+                "Soy Akai Mato, ¡el creador de Demons Roots! Este\nes mi tercer RPG. Creé otros dos antes de este:\nKing's Exit y Tenka Ran RPG."
               ]
             },
             {
@@ -1835,14 +1808,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I actually used to be an 18+ manga artist, but after finding out how "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "much fun games are to make, I decided to switch careers!"
+                "En realidad, solía ser un artista de manga mayor\nde 18 años, pero después de descubrir lo divertido\nque es hacer juegos, ¡decidí cambiar de carrera!"
               ]
             },
             {
@@ -1905,14 +1871,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can also find me on social media. I have both a Twitter account"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and a YouTube account."
+                "También puedes encontrarme en redes sociales.\nTengo una cuenta de Twitter y otra de YouTube."
               ]
             },
             {
@@ -1929,14 +1888,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Click on the icon and it'll take you straight there. Feel free to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "check it out."
+                "Haz clic en el icono y te llevará directamente\nallí. No dudes en echarle un vistazo."
               ]
             },
             {
@@ -1983,14 +1935,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I also post my latest game updates on this supporter site here."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Click on the icon and it'll take you straight there."
+                "También publico mis últimas actualizaciones del\njuego en este sitio de apoyo. Haz clic en el ícono\npara acceder directamente."
               ]
             },
             {
@@ -2007,29 +1952,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you're interested in my future projects, this is the perfect place "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "to keep up to date! I'll be waiting for you!"
+                "Si te interesan mis proyectos futuros, ¡este es el\nlugar perfecto para mantenerte al día! ¡Te espero!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Achievements please"
+                "Logros por favor"
               ]
             },
             {
@@ -2046,14 +1982,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aw... You're just straight-up asking me? It's way more fun when "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "one pops up after you've worked hard to accomplish something."
+                "Ah... ¿Me lo preguntas directamente? Es mucho más\ndivertido cuando uno aparece después de haber\ntrabajado duro para lograr algo."
               ]
             },
             {
@@ -2070,14 +1999,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Well, I guess finding this place could be considered achievement-"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "worthy. Okay, here you go."
+                "Bueno, supongo que encontrar este lugar podría\nconsiderarse un logro. Bien, aquí tienes."
               ]
             },
             {
@@ -2110,14 +2032,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "How many achievements do you have so far? I put in quite a few, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "so it may be difficult to unlock them all."
+                "¿Cuántos logros tienes hasta ahora? He conseguido\nbastantes, así que puede que sea difícil\ndesbloquearlos todos."
               ]
             },
             {
@@ -2134,28 +2049,34 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "They're really for those who like to play a game to completion,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "so take it at your own pace."
+                "Son realmente para aquellos a quienes les gusta\njugar un juego hasta el final, así que tómatelo a\ntu propio ritmo."
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 2,
               "parameters": [
-
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [
+                "¿Eh? No tienes nada para entregar... ¡Ah! Usaste\nel Modo Cinemático, ¿verdad?"
               ]
             },
             {
@@ -2172,14 +2093,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Huh? You don't have any to hand in... Ah! You used Cinematic "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "Mode, didn't you!?"
+                "Sí, los logros son para los jugadores que viven\npara jugar. No te interesan tanto. Lo entiendo."
               ]
             },
             {
@@ -2196,67 +2110,30 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Yeah, achievements are really for gamers who live to game."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "You're not that interested in them. I get it."
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 2,
-              "parameters": [
-                "",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "Well, if you ever change your mind, please have fun enjoying the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": [
-                "game in Normal Mode!☆"
+                "Bueno, si alguna vez cambias de opinión,\n¡diviértete disfrutando del juego en modo normal!☆"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Autograph please"
+                "Autógrafo por favor"
               ]
             },
             {
@@ -2273,7 +2150,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Jeez, you're so greedy! Alright then, take it!"
+                "¡Dios mío, qué codicioso eres! ¡Está bien, tómalo!"
               ]
             },
             {
@@ -2282,9 +2159,9 @@
               "parameters": [
                 {
                   "name": "Book1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -2328,9 +2205,9 @@
               "parameters": [
                 {
                   "name": "Applause2",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -2347,9 +2224,9 @@
               "parameters": [
                 {
                   "name": "Book1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -2385,14 +2262,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I get it. You really wanted an autograph from THE Akai Mato, right? "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Because you respect me so much."
+                "Lo entiendo. De verdad querías un autógrafo de\nAkai Mato, ¿verdad? Porque me respetas mucho."
               ]
             },
             {
@@ -2409,14 +2279,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "My sins are many and terrible... I made a game so good that loads"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "of people enjoyed it. What an awful thing to do."
+                "Mis pecados son muchos y terribles... Creé un\njuego tan bueno que a muchísima gente le gustó.\n¡Qué cosa más horrible!"
               ]
             },
             {
@@ -2433,21 +2296,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Haha! I say that, but it'd be really bad if it crashed and burned and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "you demanded your money back! ...Please no, please no, please no, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "please no, please no!"
+                "¡Jaja! Lo digo, pero sería terrible si se hundiera\ny exigieras que te devolvieran el dinero. ¡Por\nfavor, no, por favor, no, por favor, no, por\nfavor, no!"
               ]
             },
             {
@@ -2460,16 +2309,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "Did you make this whole game by yourself?"
+                "¿Hiciste todo este juego tú solo?"
               ]
             },
             {
@@ -2486,7 +2333,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Yep, I made it all by myself. It took me four whole years to finish."
+                "Sí, lo hice todo yo solo. Me llevó cuatro años\nterminarlo."
               ]
             },
             {
@@ -2503,14 +2350,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Still, I got a lot of support from ci-en, so it didn't feel like I was alone. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I had people pushing me to live up to expectations."
+                "Aun así, recibí mucho apoyo de ci-en, así que no\nme sentí solo. Había gente que me animaba a\ncumplir con las expectativas."
               ]
             },
             {
@@ -2527,14 +2367,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I even had original BGM and pixel art made up for it! Ahhh, I'm so "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "grateful for everything!"
+                "¡Incluso le hice música de fondo y pixel art!\n¡Ahhh, estoy muy agradecida por todo!"
               ]
             },
             {
@@ -2551,36 +2384,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'd really like to keep on making games with the help of all "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "my supporters! Though that dream will never come true if "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Demons Roots flops! Ahaha!"
+                "¡Me encantaría seguir creando juegos con la ayuda\nde todos mis seguidores! ¡Aunque ese sueño nunca\nse hará realidad si Demons Roots fracasa! ¡Jajaja!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 4,
-                "Did King Exit make a profit?"
+                "¿King Exit obtuvo ganancias?"
               ]
             },
             {
@@ -2597,14 +2414,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Wow, we've been talking about money a lot. This game is about"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "dreams. Let's change the subject. Oh, but I'll tell you one thing."
+                "Vaya, hemos estado hablando mucho de dinero. Este\njuego se trata de sueños. Cambiemos de tema. Ah,\npero te diré una cosa."
               ]
             },
             {
@@ -2621,14 +2431,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When I started out, my games didn't sell very quickly and I thought "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I was gonna die, but in the end I was able to create Demons Roots!"
+                "Cuando empecé, mis juegos no se vendían muy rápido\ny pensé que iba a morir, ¡pero al final pude crear\nDemons Roots!"
               ]
             },
             {
@@ -2645,21 +2448,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you look at the number of sales it might seem like a profit,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "but spread out over three years of work... I wonder what the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "hourly wage would end up being."
+                "Si miras el número de ventas podría parecer una\nganancia, pero repartida en tres años de\ntrabajo... me pregunto cuál sería el salario por\nhora final."
               ]
             },
             {
@@ -2676,14 +2465,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "But that's okay! King Exit is well loved! Even now, I still get people "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "sending me messages saying they enjoyed it!"
+                "¡Pero no pasa nada! ¡King Exit es muy querido!\n¡Incluso ahora, la gente me sigue enviando\nmensajes diciendo que lo disfrutaron!"
               ]
             },
             {
@@ -2700,14 +2482,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'll be honest, the more I peak as a creator, the more compliments"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I receive. It really fills me with emotion."
+                "Siendo sincero, cuanto más me desarrollo como\ncreador, más elogios recibo. Me llena de emoción."
               ]
             },
             {
@@ -2724,36 +2499,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I hope Demons Roots will be received the same way, but I won't"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "know until it goes on sale. What do you think? Did you enjoy it,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "even a little bit?"
+                "Espero que Demons Roots tenga la misma aceptación,\npero no lo sabré hasta que salga a la venta. ¿Qué\nopinan? ¿Lo disfrutaron, aunque sea un poco?"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 5,
-                "Did Shade really make your BGM?"
+                "¿Shade realmente hizo tu BGM?"
               ]
             },
             {
@@ -2770,7 +2529,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Did you notice how cool the battle music was?"
+                "¿Te diste cuenta de lo genial que era la música de\nbatalla?"
               ]
             },
             {
@@ -2787,14 +2546,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I asked THE Shade to compose for me! And he agreed! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Incredible! THE Shade!"
+                "¡Le pedí a THE Shade que compusiera para mí! ¡Y\naceptó! ¡Increíble! ¡THE Shade!"
               ]
             },
             {
@@ -2811,14 +2563,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I actually spoke to him on the phone! Amazing, right!? I had a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "conversation with THE Shade! Kyaaah!"
+                "¡De hecho hablé con él por teléfono! ¡Increíble,\n¿verdad?! ¡Tuve una conversación con LA Sombra!\n¡Kyaaah!"
               ]
             },
             {
@@ -2835,14 +2580,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh, and I got permission for something! Here, the speaker! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Take a listen!"
+                "¡Ah, y me dieron permiso para algo! ¡Aquí está el\norador! ¡Escuchen!"
               ]
             },
             {
@@ -2859,36 +2597,18 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I was only able to summon the courage and funds to commission"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "this music thanks to all of my supporters! Thank you, all of you!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Thank you so much!"
+                "¡Solo gracias a todos mis patrocinadores pude\nreunir el coraje y los fondos para encargar esta\nmúsica! ¡Gracias a todos! ¡Muchísimas gracias!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 235,
@@ -2900,9 +2620,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2910,9 +2628,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2964,9 +2680,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2974,9 +2688,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3019,9 +2731,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3029,9 +2739,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3115,7 +2823,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh? No way... Someone's inside the house!?"
+                "¿Eh? ¡Ni hablar! ¿Hay alguien dentro de la casa?"
               ]
             },
             {
@@ -3132,14 +2840,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Did I leave the door unlocked!? Even so, I can't believe they just"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "let themselves into someone else's house! Scary!"
+                "¿Dejé la puerta sin llave? ¡Aun así, no puedo\ncreer que hayan entrado en casa ajena! ¡Qué miedo!"
               ]
             },
             {
@@ -3156,14 +2857,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A thief!? A robber!? An intruder!? Ahhh! Phone! What was the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "number!? 911!?"
+                "¿Un ladrón? ¿Un asaltante? ¿Un intruso? ¡Ahhh!\n¡Teléfono! ¿Cuál era el número? ¡El 911!"
               ]
             },
             {
@@ -3190,9 +2884,9 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
@@ -3240,9 +2934,9 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3310,29 +3004,18 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ohhh! It's just you, \\v[128]! Phew! Thanks for all your hard work!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I'm the creator, Akai Mato!"
+                "¡Ohhh! ¡Solo eres tú, \\v[128]! ¡Uf! ¡Gracias por\ntodo tu esfuerzo! ¡Soy el creador, Akai Mato!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -3348,28 +3031,34 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Oh, it's just the player! Phew! Thanks for all your hard work!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I'm the creator, Akai Mato!"
+                "¡Ah, es solo el jugador! ¡Uf! ¡Gracias por todo el\nesfuerzo! ¡Soy el creador, Akai Mato!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 0,
               "parameters": [
-
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "¡Claro! Esto es un juego de rol, así que es normal\nentrar en casas ajenas. Yo también lo he hecho,\n¡no te preocupes!"
               ]
             },
             {
@@ -3386,38 +3075,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, of course! This is an RPG, so it's normal to let yourself into "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "other people's houses! I've done it too, don't worry!"
-              ]
-            },
-            {
-              "code": 101,
-              "indent": 0,
-              "parameters": [
-                "",
-                0,
-                0,
-                2
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "This is the room where I do my work. I'm here 24/7, so come back"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "anytime. Sorry it's so small."
+                "Esta es la sala donde trabajo. Estoy aquí las 24\nhoras, así que puedes volver cuando quieras.\nDisculpen que sea tan pequeña."
               ]
             },
             {
@@ -3549,7 +3207,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even so... Hmm..."
+                "Aún así... Hmm..."
               ]
             },
             {
@@ -3598,7 +3256,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ohoh... Ohohoh... No, it's nothing. Ohohoboobs..."
+                "Ohoh... Ohohoh... No, no es nada. Ohohoboobs..."
               ]
             },
             {
@@ -3615,14 +3273,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "No, no! I put so much effort into these character designs! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Stripping them naked is just...! Ohohohohoh..."
+                "¡No, no! ¡Me esforcé tanto en el diseño de estos\npersonajes! ¡Desnudarlos es simplemente...! ¡Oh,\noh, oh, oh...!"
               ]
             },
             {
@@ -3639,22 +3290,18 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You're so honest about your desires! Here, take this autograph!"
+                "¡Eres tan sincero con tus deseos! ¡Toma, toma este\nautógrafo!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -3677,14 +3324,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "What? Why not naked? And after I went to all that effort to set "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "it up too..."
+                "¿Qué? ¿Por qué no desnuda? Y después de todo ese\nesfuerzo que me costó conseguirlo..."
               ]
             },
             {
@@ -3701,14 +3341,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Wow, you're playing on a high difficulty? You're good. I'd never be "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "able to manage it myself."
+                "Vaya, ¿juegas en dificultad alta? ¡Bien! Yo nunca\npodría."
               ]
             },
             {
@@ -3725,22 +3358,18 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Here, you can have this autograph for being such a great gamer."
+                "Aquí puedes tener este autógrafo por ser un gran\njugador."
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -3748,9 +3377,9 @@
               "parameters": [
                 {
                   "name": "Book1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3794,9 +3423,9 @@
               "parameters": [
                 {
                   "name": "Applause2",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3813,9 +3442,9 @@
               "parameters": [
                 {
                   "name": "Book1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3851,14 +3480,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Clap* *Clap* *Clap*! It's a medal of honor for all your efforts! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You should wear it proudly!"
+                "¡Aplausos! ¡Es una medalla de honor por todo tu\nesfuerzo! ¡Deberías llevarla con orgullo!"
               ]
             },
             {
@@ -3875,14 +3497,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, by the way! The standing image is of my alter ego "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and mascot, Mato-chan!"
+                "¡Ah, por cierto! ¡La imagen de pie es de mi alter\nego y mascota, Mato-chan!"
               ]
             },
             {
@@ -3899,21 +3514,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since Mato means \"target,\" Mato-chan is always being stabbed by"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "arrows. It has a kind of tragic appeal, right? Maybe I should whip"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "up some merch."
+                "Como Mato significa \"objetivo,\" Mato-chan siempre\nestá siendo apuñalada por flechas. Tiene un toque\ntrágico, ¿verdad? Quizás debería comprar algo de\nmerchandising."
               ]
             },
             {
@@ -3930,14 +3531,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Alright, I need to get back to work... Ah, but you came all this way."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Let's chat some more."
+                "Bueno, tengo que volver al trabajo... Ah, pero has\nvenido hasta aquí. Charlemos un poco más."
               ]
             },
             {
@@ -3954,7 +3548,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ask me anything!"
+                "¡Pregúntame lo que quieras!"
               ]
             },
             {
@@ -3982,9 +3576,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3992,9 +3584,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4067,16 +3657,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4084,9 +3670,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4209,7 +3793,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This speaker's actually specially made."
+                "Este altavoz en realidad está hecho especialmente."
               ]
             },
             {
@@ -4226,14 +3810,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Demon Roots battle music was handled by the THE Shade, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "you know."
+                "La música de batalla de Demon Roots estuvo a cargo\nde THE Shade, ¿sabes?"
               ]
             },
             {
@@ -4250,14 +3827,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can also use the Sound Test to listen to the seven tracks he"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "composed, but this speaker's special!"
+                "También puedes usar la Prueba de Sonido para\nescuchar las siete pistas que compuso, ¡pero este\naltavoz es especial!"
               ]
             },
             {
@@ -4274,7 +3844,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "You can hear the \"roughs\" of the music! Woo-hoo! *Clap* *Clap* Clap*!"
+                "¡Ya se oyen los \"ruidos\" de la música! ¡Guau!\n*Aplausos* *Aplausos* ¡Aplausos*!"
               ]
             },
             {
@@ -4291,7 +3861,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "A rough in music is like a rough sketch in art."
+                "Un borrador en música es como un boceto en arte."
               ]
             },
             {
@@ -4308,14 +3878,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the only place in the world you can hear it! How lucky!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I bet you're glad you came all the way down here now, right!?"
+                "¡Este es el único lugar del mundo donde se oye!\n¡Qué suerte! Seguro que te alegras de haber venido\nhasta aquí, ¿verdad?"
               ]
             },
             {
@@ -4336,16 +3899,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -4368,7 +3927,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Alright, what do you want to hear?"
+                "Muy bien, ¿qué quieres oír?"
               ]
             },
             {
@@ -4376,12 +3935,12 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Who's Shade?",
-                  "Rough: Revenge the Demons",
-                  "Rough: Change the Beats",
-                  "Rough: BLOSSOM",
-                  "Rough: ENDLESS ENGRAVE",
-                  "Rough: regurgitation"
+                  "¿Quién es Shade?",
+                  "Rough: Vengar a los demonios",
+                  "Rough: Cambia los ritmos",
+                  "Áspero: FLOR",
+                  "Áspero: GRABADO SIN FIN",
+                  "Áspero: regurgitación"
                 ],
                 -1,
                 0,
@@ -4394,7 +3953,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Who's Shade?"
+                "¿Quién es Shade?"
               ]
             },
             {
@@ -4411,14 +3970,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'll do a short intro for those who aren't in the know. Shade hasn't "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "just composed tracks for AliceSoft's Sengoku Rance and Mamatoto..."
+                "Haré una breve introducción para quienes no lo\nsepan. Shade no solo ha compuesto temas para\nSengoku Rance y Mamatoto de AliceSoft..."
               ]
             },
             {
@@ -4435,14 +3987,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Starting with Az*r L*ne, he started making songs for modern games "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and anime! He's an incredible composer!"
+                "Empezó con Az*r L*ne y creó canciones para\nvideojuegos y anime modernos. ¡Es un compositor\nincreíble!"
               ]
             },
             {
@@ -4459,14 +4004,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Thank you so much, Shade, for accepting a commission from a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "nobody like me! And the other circles! You're a god!"
+                "¡Muchísimas gracias, Shade, por aceptar un encargo\nde alguien tan insignificante como yo! ¡Y los\ndemás círculos! ¡Eres un dios!"
               ]
             },
             {
@@ -4529,29 +4067,20 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Shade's social media is over here! Click on the icon to open the links in "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "your browser! The BGM is available on YouTube, so please check it out!"
+                "¡Las redes sociales de Shade están aquí! ¡Haz clic\nen el ícono para abrir los enlaces en tu\nnavegador! La música de fondo está disponible en\nYouTube, ¡así que no te la pierdas!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Rough: Revenge the Demons"
+                "Rough: Vengar a los demonios"
               ]
             },
             {
@@ -4560,9 +4089,9 @@
               "parameters": [
                 {
                   "name": "zp_01",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -4587,7 +4116,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This is the first rough I received. Crazy, right? "
+                "Este es el primer borrador que recibí. Una locura,\n¿verdad?"
               ]
             },
             {
@@ -4604,21 +4133,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I wanted a song evokes an image of Deathpolca playing the piano,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "so Shade composed it in a way that the piano and guitar are"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "competing with each other, leading to this final product."
+                "Quería una canción que evocara una imagen de\nDeathpolca tocando el piano, así que Shade la\ncompuso de manera que el piano y la guitarra\ncompitieran entre sí, dando lugar a este producto\nfinal."
               ]
             },
             {
@@ -4635,14 +4150,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Since Shade said he'd leave the name up to me, I came up "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "with one myself."
+                "Como Shade dijo que me dejaría a mí decidir el\nnombre, se me ocurrió uno yo mismo."
               ]
             },
             {
@@ -4659,14 +4167,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The demons, defeated by the humans, are fighting to make a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "comeback... Normal battle music."
+                "Los demonios, derrotados por los humanos, están\nluchando por regresar... Música de batalla normal."
               ]
             },
             {
@@ -4683,14 +4184,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "And \"demon\" is also a word that's used to smear someone. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Even the abused slaves are called demons..."
+                "Y \"demonio\" también es una palabra que se usa para\ndifamar a alguien. Incluso a los esclavos\nmaltratados se les llama demonios..."
               ]
             },
             {
@@ -4707,14 +4201,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "So I wanted a name that included both demonkind's revenge and the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "recovery of the slaves. In the end, I chose \"Revenge the Demons.\""
+                "Así que quería un nombre que incluyera tanto la\nvenganza de los demonios como la recuperación de\nlos esclavos. Al final, elegí \"Venganza de los\nDemonios.\""
               ]
             },
             {
@@ -4723,25 +4210,23 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Rough: Change the Beats"
+                "Rough: Cambia los ritmos"
               ]
             },
             {
@@ -4750,9 +4235,9 @@
               "parameters": [
                 {
                   "name": "zp_02",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -4777,14 +4262,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This one really picks up in the latter half. When I first heard it, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I got goosebumps all over."
+                "Esta canción realmente cobra vida en la segunda\nmitad. Cuando la escuché por primera vez, se me\npuso la piel de gallina."
               ]
             },
             {
@@ -4801,21 +4279,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "In the middle, it suddenly bursts open. If you're a fan of Shade,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "it'll probably bring some of his other works to mind. I'm so"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "touched to be able to display it in my own commissioned work."
+                "En el centro, se abre de repente. Si eres fan de\nShade, probablemente te recuerde algunas de sus\notras obras. Me conmueve mucho poder mostrarlo en\nmi propia obra por encargo."
               ]
             },
             {
@@ -4832,14 +4296,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I wanted to include the word \"change\" in the title since this song is "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "used as battle music in the second half of the game."
+                "Quería incluir la palabra \"cambio\" en el título ya\nque esta canción se usa como música de batalla en\nla segunda mitad del juego."
               ]
             },
             {
@@ -4856,14 +4313,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Especially since it becomes a regular battle theme after the demons "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "overcome the berserk incident and the path splits from King Exit."
+                "Especialmente porque se convierte en un tema de\nbatalla habitual después de que los demonios\nsuperan el incidente berserker y el camino se\ndivide desde King Exit."
               ]
             },
             {
@@ -4880,14 +4330,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "With these beats of change, I decided to go with \"Change the Beats\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "as the name."
+                "Con estos ritmos de cambio, decidí usar \"Change\nthe Beats\" como nombre."
               ]
             },
             {
@@ -4896,25 +4339,23 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "Rough: BLOSSOM"
+                "Áspero: FLOR"
               ]
             },
             {
@@ -4923,9 +4364,9 @@
               "parameters": [
                 {
                   "name": "zp_03",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -4950,14 +4391,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As a player, this song may be the one that leaves the most striking"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "impression. It's the Sage battle BGM from Deathpolca's awakening."
+                "Como jugador, esta canción puede ser la que más me\nimpacta. Es la música de fondo de la batalla de\nSage del despertar de Deathpolca."
               ]
             },
             {
@@ -4974,21 +4408,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When I commissioned it, all I had of the awakened Deathpolca was"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "her standing image. It's incredible that Shade was able to put this"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "rough together based off a single image."
+                "Cuando lo encargué, solo tenía de la Deathpolca\ndespierta su imagen de pie. Es increíble que Shade\nhaya podido crear este boceto a partir de una sola\nimagen."
               ]
             },
             {
@@ -5005,21 +4425,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I received the finished song, but after completing the scene, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I decided I wanted more spice to it and asked for a different"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "version. That's the one we have here."
+                "Recibí la canción terminada, pero después de\nterminar la escena, decidí que quería darle más\nsabor y pedí una versión diferente. Esa es la que\ntenemos aquí."
               ]
             },
             {
@@ -5036,7 +4442,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As for the name, to blossom means to bloom or to flower. "
+                "En cuanto al nombre, florecer significa florecer o\nflorecer."
               ]
             },
             {
@@ -5053,14 +4459,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "BLOSSOM, to me, evokes a strong image of flowers blooming on a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "fruit tree. Like the flowers on a certain someone's head."
+                "BLOSSOM, para mí, evoca una imagen intensa de\nflores floreciendo en un árbol frutal. Como las\nflores en la cabeza de cierta persona."
               ]
             },
             {
@@ -5077,21 +4476,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It especially makes me think of the scene where the Black Onion"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "becomes strong and beautiful. So after putting the two together, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "BLOSSOM was the only name that came to mind."
+                "Me recuerda especialmente a la escena donde la\nCebolla Negra se vuelve fuerte y hermosa. Así que,\ndespués de juntarlos, BLOSSOM fue el único nombre\nque me vino a la mente."
               ]
             },
             {
@@ -5100,25 +4485,23 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 4,
-                "Rough: ENDLESS ENGRAVE"
+                "Áspero: GRABADO SIN FIN"
               ]
             },
             {
@@ -5127,9 +4510,9 @@
               "parameters": [
                 {
                   "name": "zp_04",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5154,14 +4537,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The final battle of Demons Roots... I was planning on putting my all "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "into it, so it had to have the best possible BGM."
+                "La batalla final de Demons Roots... Estaba\nplaneando darlo todo, así que tenía que tener la\nmejor música de fondo posible."
               ]
             },
             {
@@ -5178,14 +4554,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I was really particular with how I wanted it, so it required a lot of "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "work. Shade put a lot of his soul into it."
+                "Fui muy específico con lo que quería, así que\nrequirió mucho trabajo. Shade puso toda su alma en\nello."
               ]
             },
             {
@@ -5202,21 +4571,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I was so moved when I received the rough. He put so much work "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "into a track for a nameless person like me... Only a real scumbag "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "wouldn't be moved by that kind of effort."
+                "Me emocioné muchísimo cuando recibí el borrador.\nLe puso tanto esfuerzo a una canción para un\ndesconocido como yo... Solo un auténtico canalla\nno se conmovería ante semejante esfuerzo."
               ]
             },
             {
@@ -5233,21 +4588,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I always intended to do my best with this game, but after I got"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "Shade's incredible music, I really wanted it to be worthy of his "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "work. Still, it's not easy to make dreams a reality."
+                "Siempre quise dar lo mejor de mí con este juego,\npero después de conseguir la increíble música de\nShade, quise que estuviera a la altura de su\ntrabajo. Aun así, no es fácil hacer realidad los\nsueños."
               ]
             },
             {
@@ -5264,21 +4605,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "That's why I wanted to take advantage of this unique opportunity!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I wanted to use all my ability to make the game, characters, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and scenario lift this song up to the heavens!"
+                "¡Por eso quise aprovechar esta oportunidad única!\n¡Quería usar todo mi talento para que el juego,\nlos personajes y el escenario elevaran esta\ncanción a los cielos!"
               ]
             },
             {
@@ -5295,21 +4622,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "*Pant* *Pant*... I got a bit carried away there. Sorry if I seem like "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I'm getting ahead of myself. I know that as a creator, I need to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "maintain a sense of humility or I'll be shooting myself in the foot."
+                "*Jadeo* *Jadeo*... Me dejé llevar un poco.\nDisculpen si parece que me estoy adelantando. Sé\nque, como creador, debo mantener la humildad o me\nestaré perjudicando."
               ]
             },
             {
@@ -5326,14 +4639,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "This track just lights the fire of passion inside me. I hope you'll "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "forgive my temporary slip."
+                "Esta canción simplemente enciende la pasión que\nsiento por dentro. Espero que perdonen mi pequeño\ndesliz."
               ]
             },
             {
@@ -5350,21 +4656,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "With regard to the name... I struggled with it for a long time. Two "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "years after receiving the finished track, I still hadn't come up with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "a good name for it."
+                "Respecto al nombre... Le di vueltas durante mucho\ntiempo. Dos años después de recibir la canción\nterminada, aún no se me ocurría un buen nombre."
               ]
             },
             {
@@ -5381,21 +4673,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It has such destructive power, so the meaning's kind of ambiguous."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I thought it would work better with a more solemn title. This song "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "is the one that lets the game shine at its pinnacle."
+                "Tiene un poder tan destructivo que su significado\nes algo ambiguo. Pensé que funcionaría mejor con\nun título más solemne. Esta canción es la que\npermite que el juego brille en su máximo\nesplendor."
               ]
             },
             {
@@ -5412,21 +4690,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Essentially it's the point where the player's emotions are at "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "their peak. That's why I didn't want to give it a vague title. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "It had to have a decisive, impactful name."
+                "En esencia, es el punto donde las emociones del\njugador alcanzan su punto máximo. Por eso no quise\ndarle un título vago. Tenía que tener un nombre\ncontundente e impactante."
               ]
             },
             {
@@ -5443,14 +4707,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "After thinking and thinking and thinking it over, I decided to go "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "with \"a seal that will never end\"... ENDLESS ENGRAVE."
+                "Después de pensarlo y pensarlo y pensarlo, decidí\noptar por \"un sello que nunca terminará\"...\nGRABADO SIN FIN."
               ]
             },
             {
@@ -5467,14 +4724,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It has a lot of meanings. Bless Curse was a being who kept cursing "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "humanity, even as he tried to bless them."
+                "Tiene muchos significados. Bless Curse era un ser\nque maldecía constantemente a la humanidad,\nincluso mientras intentaba bendecirla."
               ]
             },
             {
@@ -5491,14 +4741,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The sacrifices carved into the beginning of the curse... Even the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "protagonists become a part of it. Even in the future King Exit."
+                "Los sacrificios tallados al principio de la\nmaldición... Incluso los protagonistas se\nconvierten en parte de ella. Incluso en el futuro\nRey Exit."
               ]
             },
             {
@@ -5515,14 +4758,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It also shows how strong the one who confronts the protagonists "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "is, but there's more to the name than just the in-game elements."
+                "También demuestra lo fuerte que es quien se\nenfrenta a los protagonistas, pero el nombre\nimplica mucho más que los elementos del juego."
               ]
             },
             {
@@ -5539,21 +4775,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The BGM, the scenes, the game... I want all of it to be engraved"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "into the player's heart forever. Not as a curse, but as something"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "they achieved after overcoming a real challenge."
+                "La música de fondo, las escenas, el juego...\nQuiero que todo quede grabado en el corazón del\njugador para siempre. No como una maldición, sino\ncomo algo que lograron tras superar un verdadero\ndesafío."
               ]
             },
             {
@@ -5570,14 +4792,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I want my games to be the kind where you take something away "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "from them and use what you've learned to enrich your life."
+                "Quiero que mis juegos sean de esos en los que\npuedes sacar algo de ellos y usar lo aprendido\npara enriquecer tu vida."
               ]
             },
             {
@@ -5594,21 +4809,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "From here on, the song names become as easy to understand as "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I could make them, but I still get kind of excited whenever I see "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "this name! I titled ENDLESS ENGRAVE with this feeling in mind!"
+                "A partir de ahora, los nombres de las canciones se\nvuelven tan fáciles de entender como puedo, ¡pero\naún me emociono cada vez que veo este nombre! ¡Con\nesta sensación en mente, titulé ENDLESS ENGRAVE!"
               ]
             },
             {
@@ -5617,25 +4818,23 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 5,
-                "Rough: regurgitation"
+                "Áspero: regurgitación"
               ]
             },
             {
@@ -5644,9 +4843,9 @@
               "parameters": [
                 {
                   "name": "zp_05",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5671,7 +4870,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I asked for a BGM like the climax of a movie, and what a climax I got!"
+                "Pedí una música de fondo como el clímax de una\npelícula, ¡y qué clímax obtuve!"
               ]
             },
             {
@@ -5688,14 +4887,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "For such a profound track, the scene has to equally solemn. The true "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "final battle of Demons Roots... Did I make it grave enough?"
+                "Para una canción tan profunda, la escena debe ser\nigualmente solemne. La verdadera batalla final de\nDemons Roots... ¿La hice lo suficientemente seria?"
               ]
             },
             {
@@ -5712,14 +4904,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "After receiving the rough, I only made one request. Since the final"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "boss is that girl..."
+                "Tras recibir el borrador, solo hice una petición.\nComo el jefe final es esa chica..."
               ]
             },
             {
@@ -5736,21 +4921,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The first girl you played as in this work comes after you as a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "threat. Revised history, prophecies, the ending of King Exit..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I wanted a clock's ticking, full of multiple layers of meaning."
+                "La primera chica que interpretaste en esta obra te\npersigue como una amenaza. Historia revisada,\nprofecías, el final de King Exit... Quería un\nreloj en marcha, lleno de múltiples capas de\nsignificado."
               ]
             },
             {
@@ -5767,14 +4938,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The title is \"regurgitation,\" and the meaning is simply that. I think "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "a simple title suits a track as heavy with meaning as this one."
+                "El título es \"regurgitación,\" y el significado es\nsimplemente eso. Creo que un título sencillo le\nviene bien a una canción tan cargada de\nsignificado como esta."
               ]
             },
             {
@@ -5783,33 +4947,29 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "Rough: Black line Over",
-                  "Rough: Ground Dasher"
+                  "Áspero: Línea negra encima",
+                  "Áspero: Ground Dasher"
                 ],
                 2,
                 -1,
@@ -5822,7 +4982,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Rough: Black line Over"
+                "Áspero: Línea negra encima"
               ]
             },
             {
@@ -5831,9 +4991,9 @@
               "parameters": [
                 {
                   "name": "zp_06",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5858,14 +5018,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The second I heard this rough, I thought, \"That's Shade's sound!\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and got really excited. I grew up listening to this sound."
+                "En cuanto escuché este riff, pensé: \"¡Ese es \" el\nsonido \" de Shade!\" y me emocioné muchísimo. Crecí\nescuchando este sonido."
               ]
             },
             {
@@ -5882,21 +5035,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The idea for the song is \"evil vs. evil\" or \"demons vs. villains.\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I don't think there's any composer better suited for this kind of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "theme than Shade."
+                "La idea de la canción es \"mal contra mal\" o\n\"demonios contra villanos.\" No creo que haya\nningún compositor más adecuado para este tipo de\ntema que Shade."
               ]
             },
             {
@@ -5913,14 +5052,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I couldn't say anything about it, from rough to finished product."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "It's just too perfect."
+                "No podría decir nada al respecto, desde el\nborrador hasta el producto final. Es simplemente\ndemasiado perfecto."
               ]
             },
             {
@@ -5937,21 +5069,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "For the title, these bad guys are going against common courtesy "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and clashing with each other. It's not a place people who lead "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "honest lives should be stepping into. That's the feeling I wanted."
+                "Para el título, estos villanos van en contra de la\ncortesía común y se enfrentan entre sí. No es un\nlugar donde la gente honesta debería meterse. Esa\nes la sensación que buscaba."
               ]
             },
             {
@@ -5968,14 +5086,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Cross the line and get dragged into a dangerous fight. That's why"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I went with the title \"Black line Over.\" "
+                "Cruza la línea y déjate arrastrar a una pelea\npeligrosa. Por eso elegí el título \"Línea negra\nterminada.\""
               ]
             },
             {
@@ -5984,25 +5095,23 @@
               "parameters": [
                 {
                   "name": "SC_town5",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Rough: Ground Dasher"
+                "Áspero: Ground Dasher"
               ]
             },
             {
@@ -6011,9 +5120,9 @@
               "parameters": [
                 {
                   "name": "zp_07",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -6038,21 +5147,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When Shade gave me this rough, he said, \"I woke up and it just hit "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "me.\" Any normal person who woke up to this running though their "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "head would end up dead."
+                "Cuando Shade me dio esta vuelta bruscamente, dijo:\n\"Me desperté y simplemente me di cuenta.\"\nCualquier persona normal que se despertara con\nesto dando vueltas en su cabeza terminaría muerta."
               ]
             },
             {
@@ -6069,14 +5164,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'd already completed the in-game scene and made a gameplay video"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "of Kalinka fighting the King of Plana when I commissioned this one. "
+                "Ya había completado la escena del juego e hice un\nvídeo de juego de Kalinka luchando contra el Rey\nde Plana cuando encargué este."
               ]
             },
             {
@@ -6093,21 +5181,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Shade told me, \"I'm honored to make a track for such a wonderful"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "scene!\" With that lethal compliment, I died. Receiving the rough "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "of the track revived me, though."
+                "Shade me dijo: \"¡Me siento honrado de crear una\npista para una escena tan maravillosa!\" Con ese\ncumplido letal, morí. Sin embargo, recibir la\nparte áspera de la pista me revivió."
               ]
             },
             {
@@ -6124,21 +5198,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "My only request was that it'd be better for the player if there was "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "a lead-in to such a cool song. I figured it would leave more of an "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "impression that way."
+                "Mi única petición fue que sería mejor para el\njugador si hubiera una introducción a una canción\ntan genial. Pensé que así causaría una mayor\nimpresión."
               ]
             },
             {
@@ -6155,21 +5215,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "So the finished version had an opening inserted into it. I created "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "the PV to accentuate it, but... It really is the coolest. I want this "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "song played at my funeral."
+                "Así que la versión final tenía una abertura. Creé\nel PV para acentuarlo, pero... Es realmente\ngenial. Quiero que suenen esta canción en mi\nfuneral."
               ]
             },
             {
@@ -6186,14 +5232,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "As for the name, it goes without saying. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "\"GRAND DASHER!\" (Mitsuya Yuuji's voice)"
+                "En cuanto al nombre, no hace falta decirlo.\n\"¡GRAND DASHER!\" (Voz de Mitsuya Yuuji)"
               ]
             },
             {
@@ -6210,21 +5249,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Except no, it actually has the meaning of \"running across the land.\""
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "The demons and slaves, covered in blood and filth, running toward"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "their fateful battle."
+                "Excepto que no, en realidad tiene el significado\nde \"correr a través de la tierra.\" Los demonios y\nesclavos, cubiertos de sangre y suciedad,\ncorriendo hacia su fatídica batalla."
               ]
             },
             {
@@ -6241,21 +5266,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "That's the kind of refined coolness I was aiming for. The title of "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "a track that conjures an image of a brightly flickering life as it's "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "extinguished... That's where I got \"Ground Dasher.\""
+                "Ese es el tipo de frescura refinada que buscaba.\nEl título de una canción que evoca la imagen de\nuna vida brillantemente parpadeante mientras se\nextingue... De ahí surgió Ground Dasher. \" \""
               ]
             },
             {
@@ -6273,23 +5284,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6297,9 +5302,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6413,7 +5416,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's a cat tower. I thought the beast would like it."
+                "Esa es una torre para gatos. Pensé que le gustaría\na la bestia."
               ]
             },
             {
@@ -6430,7 +5433,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's vomit all over it, and in the hardest-to-clean spots too..."
+                "Hay vómito por todas partes, y en los lugares más\ndifíciles de limpiar también..."
               ]
             },
             {
@@ -6447,14 +5450,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Because I bought the biggest one, it's really hard to take apart and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "clean properly. Bigger isn't always better."
+                "Como compré el más grande, es muy difícil\ndesmontarlo y limpiarlo bien. Más grande no\nsiempre es mejor."
               ]
             },
             {
@@ -6470,18 +5466,16 @@
               "parameters": [
                 {
                   "name": "Cat",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6489,9 +5483,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6543,9 +5535,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6553,9 +5543,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6619,16 +5607,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6636,9 +5620,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6722,14 +5704,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beast:"
+                "Bestia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Snore* *Snore*..."
+                "*Ronquido* *Ronquido*..."
               ]
             },
             {
@@ -6762,14 +5744,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I actually have two beasts. The other one's over there, looking like"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a stuffed animal."
+                "En realidad tengo dos bestias. La otra está allá,\nparece un peluche."
               ]
             },
             {
@@ -6786,14 +5761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He's really cute. Hahaha... Sometimes he likes to sit in a high spot"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and vomit, like one of the demonic statues from the underworld."
+                "Es muy lindo. Jajaja... A veces le gusta sentarse\nen un lugar alto y vomitar, como una de las\nestatuas demoníacas del inframundo."
               ]
             },
             {
@@ -6806,9 +5774,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 1,
@@ -6816,9 +5782,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6916,14 +5880,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "King Exit is the work I released before Demons Roots. Essentially it's "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a jailbreak RPG that has a deep connection to this one."
+                "King Exit es la obra que publiqué antes de Demons\nRoots. Esencialmente, es un RPG de fuga de prisión\nque tiene una profunda conexión con este."
               ]
             },
             {
@@ -6981,14 +5938,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's what led to Demons Roots being created and adds a lot of depth "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to the story. Demons Roots wouldn't exist without King Exit."
+                "Es lo que motivó la creación de Demons Roots y le\naporta mucha profundidad a la historia. Demons\nRoots no existiría sin King Exit."
               ]
             },
             {
@@ -7005,14 +5955,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The people who liked King Exit are the ones supporting my current"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "endeavors. I'm really glad I created it."
+                "Las personas a quienes les gustó King Exit son\nquienes apoyan mis proyectos actuales. Me alegro\nmucho de haberlo creado."
               ]
             },
             {
@@ -7029,21 +5972,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I poured three years of my life into making it. If you haven't played "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "it yet, I recommend taking a look. It has a different taste to it after"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you've played Demons Roots."
+                "Le dediqué tres años de mi vida a crearlo. Si aún\nno lo has jugado, te recomiendo que le eches un\nvistazo. Tiene un sabor diferente después de jugar\nDemons Roots."
               ]
             },
             {
@@ -7060,14 +5989,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Click the icon to open the site in your browser! It was put together"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "by volunteers! I'm sure you'll find it worthwhile!"
+                "Haz clic en el icono para abrir el sitio en tu\nnavegador. ¡Fue creado por voluntarios! ¡Seguro\nque te resultará útil!"
               ]
             },
             {
@@ -7125,14 +6047,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the merchandise page. I've had a few items made that "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I wanted for myself."
+                "Esta es la página de productos. He mandado a hacer\nalgunos artículos que quería para mí."
               ]
             },
             {
@@ -7149,21 +6064,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tapestry is for game completion. It's kind of like a trophy "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you can put on display. The acrylic key chains are really nice "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "too. They have a sort of collector's feel to them."
+                "El tapiz sirve para completar el juego. Es como un\ntrofeo que puedes exhibir. Los llaveros de\nacrílico también son muy bonitos. Tienen un aire\nde coleccionista."
               ]
             },
             {
@@ -7180,15 +6081,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are also King Exit goods for sale! Please take a look!"
+                "¡También hay artículos de King Exit a la venta!\n¡Échales un vistazo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7196,9 +6095,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7305,14 +6202,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That box is full of cans of coffee. I always drink coffee when I'm"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "working, so I like to have a steady supply."
+                "Esa caja está llena de latas de café. Siempre tomo\ncafé cuando trabajo, así que me gusta tener un\nsuministro constante."
               ]
             },
             {
@@ -7329,14 +6219,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The money from my supporters is what keeps me buying coffee! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Just fifty yen per can! I can drink so much of it! Life is great!"
+                "¡El dinero de mis patrocinadores es lo que me\nmantiene comprando café! ¡Solo cincuenta yenes por\nlata! ¡Puedo beber muchísimo! ¡La vida es\nmaravillosa!"
               ]
             },
             {
@@ -7349,9 +6232,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7359,9 +6240,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7452,7 +6331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, are you leaving?"
+                "Oh, ¿te vas?"
               ]
             },
             {
@@ -7460,8 +6339,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Leave",
-                  "Not yet"
+                  "Dejar",
+                  "Aún no"
                 ],
                 1,
                 0,
@@ -7474,7 +6353,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Leave"
+                "Dejar"
               ]
             },
             {
@@ -7491,7 +6370,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Yep! Keep up the good work!"
+                "¡Sí! ¡Sigue así!"
               ]
             },
             {
@@ -7691,14 +6570,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Thank you for playing this far. Having other people play the game "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "I worked so hard on makes the long hours I spent on it worth it."
+                "Gracias por jugar hasta aquí. Que otros jueguen el\njuego en el que trabajé con tanto esfuerzo hace\nque valga la pena dedicarle tantas horas."
               ]
             },
             {
@@ -7715,14 +6587,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'm going to continue working on new games! I hope you'll "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "look forward to them! Oh, here! Have an autograph!"
+                "¡Seguiré trabajando en nuevos juegos! ¡Espero que\nlos disfruten con ansias! ¡Aquí tienen! ¡Me piden\nun autógrafo!"
               ]
             },
             {
@@ -7731,9 +6596,9 @@
               "parameters": [
                 {
                   "name": "Book1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -7777,9 +6642,9 @@
               "parameters": [
                 {
                   "name": "Applause2",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 80,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -7834,14 +6699,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Take care on your way back! Don't forget to take good care "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "of your health!"
+                "¡Cuídate al volver! ¡No olvides cuidar tu salud!"
               ]
             },
             {
@@ -7858,21 +6716,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Eat delicious food and get plenty of sleep and you'll be able "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "to deal with pretty much anything! Like the things you like "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "proudly and without shame!"
+                "¡Come delicioso y duerme bien y podrás con casi\ntodo! ¡Disfruta de lo que te gusta con orgullo y\nsin vergüenza!"
               ]
             },
             {
@@ -7896,15 +6740,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "See you! Bye-bye! (*'ω'*)ﾉｼ"
+                "¡Nos vemos! ¡Adiós! (*'ω'*)ﾉｼ"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 242,
@@ -7975,23 +6817,19 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Not yet"
+                "Aún no"
               ]
             },
             {
@@ -8039,14 +6877,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Take your time, but no matter how much you search this room, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "there aren't any hidden passages!"
+                "Tómate tu tiempo, pero no importa cuánto busques\nen esta habitación, ¡no hay pasajes ocultos!"
               ]
             },
             {
@@ -8059,23 +6890,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8083,9 +6908,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

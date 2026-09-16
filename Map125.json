@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Plana Inn Quarter",
-  "encounterList": [
-
-  ],
+  "displayName": "Barrio de Plana Inn",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 20,
   "note": "",
@@ -3682,9 +3680,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -3720,16 +3716,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3737,9 +3729,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3793,21 +3783,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bellhop:"
+                "Botones:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome back. I've delivered some caviar and champagne "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to your room."
+                "Bienvenido de nuevo. Te he traído caviar y champán\na la habitación."
               ]
             },
             {
@@ -3824,29 +3807,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bellhop:"
+                "Botones:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "May I ask what name the room is under? Deathpolca... Wait, you're "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "not one of our customers! Get lost!"
+                "¿Puedo preguntar qué nombre tiene la habitación?\nDeathpolca... ¡Espera, no eres uno de nuestros\nclientes! ¡Piérdete!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3854,9 +3828,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3911,9 +3883,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -3949,16 +3919,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3966,9 +3932,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4034,15 +3998,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The door's locked tight."
+                "La puerta está bien cerrada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4050,9 +4012,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4116,9 +4076,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -4154,16 +4112,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4171,9 +4125,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4227,21 +4179,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bellhop:"
+                "Botones:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome back. I've delivered some caviar and champagne "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to your room."
+                "Bienvenido de nuevo. Te he traído caviar y champán\na la habitación."
               ]
             },
             {
@@ -4258,29 +4203,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bellhop:"
+                "Botones:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "May I ask what name the room is under? Deathpolca... Wait, you're "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "not one of our customers! Get lost!"
+                "¿Puedo preguntar qué nombre tiene la habitación?\nDeathpolca... ¡Espera, no eres uno de nuestros\nclientes! ¡Piérdete!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4288,9 +4224,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4345,9 +4279,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -4383,16 +4315,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4400,9 +4328,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4468,15 +4394,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The door's locked tight."
+                "La puerta está bien cerrada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4484,9 +4408,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4562,9 +4484,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4572,9 +4492,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4628,14 +4546,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's head to the inn."
+                "Vamos a la posada."
               ]
             },
             {
@@ -4672,9 +4590,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4682,9 +4598,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4751,9 +4665,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4761,9 +4673,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4839,9 +4749,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4849,9 +4757,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4905,14 +4811,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Let's head to the inn."
+                "Vamos a la posada."
               ]
             },
             {
@@ -4949,9 +4855,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4959,9 +4863,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5028,9 +4930,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5038,9 +4938,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5103,29 +5001,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for a place to stay, come on by! No bath, no food, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and no bed for only a thousand iru!"
+                "Si buscas alojamiento, ¡ven! ¡Sin baño, sin\ncomida, sin cama por solo mil iru!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5267,9 +5156,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5323,29 +5210,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was pretty busy today. I think I'll head back to the shop and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "get some rest."
+                "Hoy ha estado bastante ocupado. Creo que volveré a\nla tienda a descansar un poco."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5487,9 +5365,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5543,29 +5419,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Saint Coliseum's finally here! You can get to the coliseum by "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "following the road north at the crossroads!"
+                "¡Por fin llegó el Santo Coliseo! Puedes llegar al\ncoliseo siguiendo la carretera hacia el norte en\nel cruce."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5707,9 +5574,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5763,29 +5628,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for a place to stay, come on by! No bath, no food, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and no bed for only a thousand iru!"
+                "Si buscas alojamiento, ¡ven! ¡Sin baño, sin\ncomida, sin cama por solo mil iru!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -5927,9 +5783,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5983,29 +5837,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you guys looking for an inn? The one at the end of the..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "No, uh, never mind."
+                "¿Buscan una posada? La del final de... No, eh,\nolvídalo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -6147,9 +5992,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6212,21 +6055,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for an inn, why not stay with us? Both the rooms"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and meals are top-class!"
+                "Si buscas un alojamiento, ¿por qué no te alojas\ncon nosotros? ¡Tanto las habitaciones como las\ncomidas son de primera!"
               ]
             },
             {
@@ -6243,29 +6079,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's one million iru a night! Ours is a godlike hotel that shares its "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "luxurious amenities with the masses!"
+                "¡Un millón de iru por noche! ¡Nuestro hotel es un\nauténtico paraíso que comparte sus lujosas\ncomodidades con el público!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -6407,9 +6234,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6463,21 +6288,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Our flow of customers has slowed due to all the turmoil. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I hope nothing happens right before the Saint Coliseum."
+                "Nuestro flujo de clientes ha disminuido debido a\ntodo el revuelo. Espero que no ocurra nada justo\nantes del Coliseo Santo."
               ]
             },
             {
@@ -6494,29 +6312,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The inn you reserved a room at? It's right over there. You see it?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That run-down looking place."
+                "¿La posada donde reservaste habitación? Está justo\nahí. ¿La ves? Ese lugar destartalado."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -6658,9 +6467,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6714,21 +6521,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Today's the Saint Coliseum! After you've had your fill of fun, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "please come spend the night with us!"
+                "¡Hoy es el Coliseo Santo! Después de divertirte,\n¡ven a pasar la noche con nosotros!"
               ]
             },
             {
@@ -6745,22 +6545,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Come to our inn and live like the king himself!"
+                "¡Ven a nuestra posada y vive como el mismísimo\nrey!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -6902,9 +6700,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6958,21 +6754,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for an inn, why not stay with us? Both the rooms"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and meals are top-class!"
+                "Si buscas un alojamiento, ¿por qué no te alojas\ncon nosotros? ¡Tanto las habitaciones como las\ncomidas son de primera!"
               ]
             },
             {
@@ -6989,29 +6778,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's one million iru a night! Plana's ability to attract customers may "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have dwindled, but beauty is forever!"
+                "¡Un millón de iru por noche! La capacidad de Plana\npara atraer clientes puede haber disminuido, ¡pero\nla belleza es para siempre!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7153,9 +6933,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7198,9 +6976,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7208,9 +6984,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7264,22 +7038,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn Barker:"
+                "Posada Barker:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What? I told you, I'm on a break. Get lost. Shoo, shoo."
+                "¿Qué? Te lo dije, estoy de vacaciones. ¡Piérdete!\n¡Fuera, fuera!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7421,9 +7193,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7486,21 +7256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Old Man:"
+                "Viejo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're looking for an inn, try that one. It's a bit plain, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but they're good to their guests."
+                "Si buscas una posada, prueba esa. Es un poco\nsencilla, pero son amables con sus huéspedes."
               ]
             },
             {
@@ -7517,29 +7280,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Old Man:"
+                "Viejo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We don't need these pompous stores selling overpriced snake oil. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Just when did Plana end up like this?"
+                "No necesitamos estas tiendas pomposas que venden\nremedios caseros a precios exorbitantes. ¿Cuándo\nterminó Plana así?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7681,9 +7435,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7737,21 +7489,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Old Man:"
+                "Viejo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now that they don't hold death matches at the coliseum anymore, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the number of people coming to inn quarter has declined, but..."
+                "Ahora que ya no se celebran combates a muerte en\nel coliseo, el número de personas que acuden al\nbarrio de las posadas ha disminuido, pero..."
               ]
             },
             {
@@ -7768,21 +7513,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Old Man:"
+                "Viejo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Different nations have started sending their athletes to compete in "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the arena. More people are slowly coming to watch and cheer."
+                "Diferentes naciones han comenzado a enviar a sus\natletas a competir en la arena. Poco a poco, más\ngente acude a ver y animar."
               ]
             },
             {
@@ -7799,22 +7537,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Old Man:"
+                "Viejo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's a good change. Plana is finally beginning to see a new age."
+                "Es un buen cambio. Plana por fin está empezando a\nver una nueva era."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -7956,9 +7692,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8001,9 +7735,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -8145,9 +7877,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8199,9 +7929,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8209,9 +7937,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8254,9 +7980,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8264,9 +7988,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8402,15 +8124,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Several hours later..."
+                "Varias horas después..."
               ]
             },
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 281,
@@ -8441,21 +8161,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The town's in chaos... I ran around all day waiting for things "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to settle down..."
+                "La ciudad está en caos... Estuve corriendo todo el\ndía esperando que las cosas se calmaran..."
               ]
             },
             {
@@ -8472,29 +8185,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Deathpolca:"
+                "Polca de la muerte:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I should head back to the inn. We need to have a nice, long talk "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "about what comes next."
+                "Debería volver a la posada. Necesitamos tener una\ncharla larga y amena sobre lo que viene después."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8502,9 +8206,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8547,9 +8249,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8557,9 +8257,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8622,22 +8320,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Merchant:"
+                "Comerciante extranjero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knock another fifty iru off the price or no deal!"
+                "¡Rebaja otros cincuenta iru al precio o no hay\ntrato!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -8779,9 +8475,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8824,9 +8518,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -8968,9 +8660,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9033,22 +8723,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Merchant:"
+                "Comerciante de Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ngh! Why are you quibbling over fifty iru!? I won't go any lower!"
+                "¡Ngh! ¿Por qué discuten por cincuenta iru? ¡No\npienso bajar más!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -9190,9 +8878,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9235,9 +8921,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -9379,9 +9063,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9445,9 +9127,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9455,9 +9135,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9500,9 +9178,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 5,
@@ -9644,9 +9320,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9871,9 +9545,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9881,9 +9553,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9949,22 +9619,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a sticker that says:"
+                "Hay una pegatina que dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"We're unable to open today.\""
+                "\"No podemos abrir hoy.\""
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9972,9 +9640,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10317,16 +9983,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10334,9 +9996,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10552,9 +10212,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10562,9 +10220,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10616,9 +10272,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10626,9 +10280,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10680,9 +10332,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10690,9 +10340,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10744,9 +10392,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10754,9 +10400,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10799,9 +10443,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10809,9 +10451,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10904,16 +10544,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10921,9 +10557,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10975,9 +10609,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10985,9 +10617,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11030,9 +10660,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11040,9 +10668,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11107,9 +10733,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11117,9 +10741,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11162,9 +10784,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11172,9 +10792,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

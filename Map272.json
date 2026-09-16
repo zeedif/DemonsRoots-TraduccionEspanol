@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Supervisor's Cabin",
-  "encounterList": [
-
-  ],
+  "displayName": "Cabina del supervisor",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 17,
   "note": "<Darkness:200>",
@@ -2321,9 +2319,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2331,9 +2327,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2409,9 +2403,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2419,9 +2411,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2473,9 +2463,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2483,9 +2471,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2556,16 +2542,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2573,9 +2555,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2627,9 +2607,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2637,9 +2615,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2682,9 +2658,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2692,9 +2666,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2737,9 +2709,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 211,
@@ -2778,9 +2748,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -2808,23 +2776,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 245,
@@ -2912,16 +2874,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2929,9 +2887,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2974,9 +2930,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2984,9 +2938,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3029,9 +2981,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3039,9 +2989,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3142,9 +3090,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3152,9 +3098,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3208,29 +3152,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Get your hands on that potion from DoReMi Fuckingdom! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's the only way to deal with those damn dirty apes!"
+                "¡Consigue esa poción de DoReMi Fuckingdom! ¡Es la\núnica forma de acabar con esos malditos simios!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3238,9 +3173,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3290,9 +3223,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -3343,16 +3274,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3360,9 +3287,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3416,22 +3341,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ohhh! Goddamn! Hot, naked women really are the best thing ever!"
+                "¡Ohhh! ¡Maldita sea! ¡Las mujeres desnudas y\nsensuales son lo mejor del mundo!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3439,9 +3362,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3495,14 +3416,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You... You got rid of the apes? Really? Wow..."
+                "¿Te deshiciste de los simios? ¿En serio? ¡Guau!"
               ]
             },
             {
@@ -3519,21 +3440,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Actually, I got my hands on more of that potion so I could see you"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "na-... I mean, to get rid of the apes."
+                "En realidad, conseguí más de esa poción para poder\nverte... quiero decir, para deshacerme de los\nsimios."
               ]
             },
             {
@@ -3550,21 +3464,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I figure if the apes are really gone, you guys can come and go as "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "much as you like."
+                "Supongo que si los simios realmente se han ido,\nustedes podrán ir y venir tanto como quieran."
               ]
             },
             {
@@ -3581,21 +3488,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But apes get weaker when they're busy drooling over naked women,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and they're an easy source of experience."
+                "Pero los simios se debilitan cuando están ocupados\nbabeando sobre mujeres desnudas, y son una fuente\nfácil de experiencia."
               ]
             },
             {
@@ -3612,21 +3512,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can tell just by looking at you that you want to get stronger,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "so I think you should fight the apes!"
+                "¡Con solo mirarte puedo decir que quieres hacerte\nmás fuerte, así que creo que deberías luchar\ncontra los simios!"
               ]
             },
             {
@@ -3643,21 +3536,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Talk to me whenever you want to get some grinding in! I'll make"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sure to have a steady supply of potion for you!"
+                "¡Háblame cuando quieras entrenar! ¡Me aseguraré de\ntener un suministro constante de pociones para ti!"
               ]
             },
             {
@@ -3671,9 +3557,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3681,9 +3565,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3746,29 +3628,25 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ohhh, yesss! Naked hotties blushing and embarrassed!"
+                "¡Ohhh, sííí! ¡Chicas desnudas sonrojadas y\navergonzadas!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -3784,7 +3662,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Accept the potion and get naked?"
+                "¿Aceptar la poción y desnudarse?"
               ]
             },
             {
@@ -3792,7 +3670,7 @@
               "indent": 1,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -3806,15 +3684,13 @@
               "indent": 1,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -3865,16 +3741,12 @@
             {
               "code": 222,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -3887,37 +3759,27 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3925,9 +3787,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3981,29 +3841,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Local Man:"
+                "Hombre local:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wh-What!? Some invisible force is binding me!? Is this divine"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "punishment for peeping on ladies in the baths!?"
+                "¿¡Qu-qué!? ¿Una fuerza invisible me está atando?\n¿Es este un castigo divino por espiar a las\nmujeres en los baños?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4011,9 +3862,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4076,22 +3925,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Remnant Mebius:"
+                "Remanente Mebius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll rejoin you when we leave. Take care of those apes."
+                "Me reuniré contigo cuando nos vayamos. Cuida de\nesos simios."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4099,9 +3946,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4144,9 +3989,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4154,9 +3997,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4210,21 +4051,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Remnant Mebius:"
+                "Remanente Mebius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those apes were formidable enemies. There's much we could "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "learn from them."
+                "Esos simios eran enemigos formidables. Podríamos\naprender mucho de ellos."
               ]
             },
             {
@@ -4238,9 +4072,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4248,9 +4080,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4304,21 +4134,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Remnant Mebius:"
+                "Remanente Mebius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're training with the apes? Training naked should certainly "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "provide some results."
+                "¿Estás entrenando con simios? Entrenar desnudo sin\nduda dará resultados."
               ]
             },
             {
@@ -4335,29 +4158,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Remnant Mebius:"
+                "Remanente Mebius:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I would also like to hone my skills, but I wouldn't want to distract "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you. I shall remain here."
+                "También me gustaría perfeccionar mis habilidades,\npero no quiero distraerte. Me quedaré aquí."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4365,9 +4179,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4419,9 +4231,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4429,9 +4239,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4474,9 +4282,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4484,9 +4290,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4538,9 +4342,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4548,9 +4350,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4593,9 +4393,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4603,9 +4401,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4657,9 +4453,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4667,9 +4461,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4712,9 +4504,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4722,9 +4512,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4776,9 +4564,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4786,9 +4572,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4831,9 +4615,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4841,9 +4623,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4895,9 +4675,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4905,9 +4683,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4950,9 +4726,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4960,9 +4734,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5014,9 +4786,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5024,9 +4794,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5069,9 +4837,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5079,9 +4845,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

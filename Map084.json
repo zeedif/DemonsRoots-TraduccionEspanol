@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Library",
-  "encounterList": [
-
-  ],
+  "displayName": "Biblioteca",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 35,
   "note": "",
@@ -4491,21 +4489,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like this shelf's full of books on tactics. I bet there are "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "lots of things you don't understand about battles, right?"
+                "Parece que este estante está lleno de libros de\ntáctica. Apuesto a que hay muchas cosas que no\nentiendes sobre las batallas, ¿verdad?"
               ]
             },
             {
@@ -4522,22 +4513,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It might be a good idea to do some research on how humans fight."
+                "Tal vez sea una buena idea investigar un poco\nsobre cómo luchan los humanos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4545,9 +4534,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4601,21 +4588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm in charge of looking after this library, but now that they've "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "decided to destroy it, I guess my life's about to get a lot easier."
+                "Soy el encargado de cuidar esta biblioteca, pero\nahora que han decidido destruirla, supongo que mi\nvida está a punto de volverse mucho más fácil."
               ]
             },
             {
@@ -4632,29 +4612,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I actually liked being able to read all those books the humans wrote."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "It's a shame."
+                "En realidad, me gustó poder leer todos esos libros\nque escribieron los humanos. Es una pena."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4662,9 +4633,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4734,14 +4703,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The strongest enemies can go into a Do-or-Die state when their HP "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "drops low enough. You can't be too careful when this happens."
+                "Los enemigos más fuertes pueden entrar en un\nestado de vida o muerte cuando sus PS bajan lo\nsuficiente. Nunca se es demasiado precavido cuando\nesto sucede."
               ]
             },
             {
@@ -4758,21 +4720,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Do-or-Die gives the enemy an increased number of attacks per turn."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "If they use too many strong attacks at once, you could end up being "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the one in trouble."
+                "A muerte otorga al enemigo un mayor número de\nataques por turno. Si usa demasiados ataques\nfuertes a la vez, podrías acabar en apuros."
               ]
             },
             {
@@ -4789,29 +4737,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They'll also become immune to status effects like Blind, Silence,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Confusion, Paralysis, and Sleep. You'll need to use your wits to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "defeat these enemies."
+                "También se volverán inmunes a estados como\nCeguera, Silencio, Confusión, Parálisis y Sueño.\nNecesitarás usar tu ingenio para derrotar a estos\nenemigos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4819,9 +4751,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4903,9 +4833,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4913,9 +4841,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4958,9 +4884,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4968,9 +4892,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5033,14 +4955,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This shelf contains children's books. It looks like you can read "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "through the tutorial again. "
+                "Este estante contiene libros infantiles. Parece\nque puedes volver a leer el tutorial."
               ]
             },
             {
@@ -5057,7 +4972,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Would you like to go through the introductory tutorial again?"
+                "¿Te gustaría repasar nuevamente el tutorial\nintroductorio?"
               ]
             },
             {
@@ -5065,7 +4980,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -5079,7 +4994,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -5247,9 +5162,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -5262,23 +5175,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5286,9 +5193,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5351,21 +5256,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like this shelf's full of manuals. I bet you've come across "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "items you don't understand, right? "
+                "Parece que este estante está lleno de manuales.\nSeguro que te has topado con cosas que no\nentiendes, ¿verdad?"
               ]
             },
             {
@@ -5382,29 +5280,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The items humans make are pretty complicated. It's a pain, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but I guess I can prepare something to help you."
+                "Los objetos que fabrican los humanos son bastante\ncomplicados. Es un fastidio, pero creo que puedo\npreparar algo para ayudarte."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5412,9 +5301,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5484,14 +5371,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Records describing the experiences of our predecessors are called"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "books. Reading one gives you a sizable chunk of XP."
+                "Los registros que describen las experiencias de\nnuestros predecesores se llaman libros. Leer uno\nte proporciona una cantidad considerable de\nexperiencia."
               ]
             },
             {
@@ -5508,14 +5388,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This can help low-level characters catch up to the party or give "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "high-level characters a greater boost."
+                "Esto puede ayudar a los personajes de bajo nivel a\nalcanzar al grupo o darles a los personajes de\nalto nivel un mayor impulso."
               ]
             },
             {
@@ -5532,14 +5405,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stronger enemies don't give XP but drop books instead. Only common "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "enemies give XP when you defeat them. Know what that means?"
+                "Los enemigos más fuertes no dan XP, sino libros.\nSolo los enemigos comunes dan XP al derrotarlos.\n¿Sabes qué significa eso?"
               ]
             },
             {
@@ -5556,21 +5422,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you skip fighting weak enemies and only go for the strong ones,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you're in for a world of pain. That'll probably appeal to those who"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "like a challenge, though."
+                "Si te saltas los combates contra enemigos débiles\ny te centras solo en los fuertes, te espera un mar\nde sufrimiento. Aunque eso probablemente les guste\na quienes disfrutan de los desafíos."
               ]
             },
             {
@@ -5594,9 +5446,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5604,9 +5454,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5683,14 +5531,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Pacius was created at the beginning of the world. God created three"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "humans and left them there."
+                "Pacius fue creado al principio del mundo. Dios\ncreó a tres humanos y los dejó allí."
               ]
             },
             {
@@ -5707,21 +5548,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The three were called the Sages and shared their insight with the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ever-growing human population. They taught mankind how to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "use words, how to hunt, and how to build their own homes."
+                "Los tres fueron llamados los Sabios y compartieron\nsus conocimientos con la creciente población\nhumana. Enseñaron a la humanidad a usar las\npalabras, a cazar y a construir sus propios\nhogares."
               ]
             },
             {
@@ -5738,29 +5565,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Sages are undying, constantly being reborn into the world. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Those who've lost their way go to Pacius to be guided by the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Sages to a happier life."
+                "Los Sabios son inmortales y renacen constantemente\nen el mundo. Quienes se han extraviado acuden a\nPacio para ser guiados por los Sabios hacia una\nvida más feliz."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5768,9 +5579,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5822,9 +5631,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5832,9 +5639,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5877,9 +5682,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5887,9 +5690,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5963,9 +5764,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5973,9 +5772,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6045,21 +5842,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Neutral Republic of Kumin]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "A country of absolute neutrality. Kumin has immense economic "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "power due to its advanced mithril-processing technology."
+                "[Neutral Republic of Kumin] Un país de absoluta\nneutralidad. Kumin posee un inmenso poder\neconómico gracias a su avanzada tecnología de\nprocesamiento de mithril."
               ]
             },
             {
@@ -6076,14 +5859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Being situated next to the Empire, Kumin has faced a great many "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "difficulties. At one point, it even came close to being wiped out. "
+                "Al estar situado junto al Imperio, Kumin ha\nenfrentado muchas dificultades. En un momento\ndado, estuvo a punto de ser aniquilado."
               ]
             },
             {
@@ -6100,29 +5876,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kumin's Radiant Tower is a popular tourist spot. It has "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "furniture on display that's over one thousand years old "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and attracts over two million visitors per year."
+                "La Torre Radiante de Kumin es un popular destino\nturístico. Exhibe muebles con más de mil años de\nantigüedad y atrae a más de dos millones de\nvisitantes al año."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6130,9 +5890,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6202,7 +5960,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you all familiar with DoReMi Fuckingdom's unique equipment?"
+                "¿Estáis todos familiarizados con el equipamiento\núnico de DoReMi Fuckingdom?"
               ]
             },
             {
@@ -6219,14 +5977,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They looks like they're only good for indecent purposes, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but their goods are surprisingly useful."
+                "Parecen que sólo sirven para fines indecentes,\npero sus productos son sorprendentemente útiles."
               ]
             },
             {
@@ -6243,22 +5994,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's very difficult to earn their special currency, but we recommend "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "your first purchases be whips and underwear."
+                "Es muy difícil ganar su moneda especial, pero\nrecomendamos que sus primeras compras sean látigos\ny ropa interior."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6266,9 +6008,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6331,21 +6071,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like this shelf's full of history books. The world sure can"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "change a lot in a thousand years. "
+                "Parece que este estante está lleno de libros de\nhistoria. El mundo puede cambiar mucho en mil\naños."
               ]
             },
             {
@@ -6362,29 +6095,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It might be good to learn about the countries you're going to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "conquer or have already conquered."
+                "Podría ser bueno aprender sobre los países que vas\na conquistar o que ya has conquistado."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6392,9 +6116,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6464,14 +6186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Saint Bohelos descended upon this unclean world and founded a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "country to free the slaves."
+                "San Bohelos descendió sobre este mundo inmundo y\nfundó un país para liberar a los esclavos."
               ]
             },
             {
@@ -6488,21 +6203,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With the support of many other countries, Bohelos managed to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "reject the Empire's policy of slavery. Lace was later founded"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and based its ideals upon those of Bohelos."
+                "Con el apoyo de muchos otros países, Bohelos logró\nrechazar la política esclavista del Imperio.\nPosteriormente, se fundó Lace, cuyos ideales se\nbasaron en los de Bohelos."
               ]
             },
             {
@@ -6519,21 +6220,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "These peaceful ideals have survived to present day. The many"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "incredible citizens have maintained them through a multitude "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of wars and natural disasters."
+                "Estos ideales pacíficos han sobrevivido hasta\nnuestros días. Sus numerosos e increíbles\nciudadanos los han mantenido a pesar de multitud\nde guerras y desastres naturales."
               ]
             },
             {
@@ -6550,22 +6237,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Once the country found peace, Saint Bohelos returned to the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Land of God."
+                "Una vez que el país encontró la paz, San Bohelos\nregresó a la Tierra de Dios."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6573,9 +6251,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6645,14 +6321,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "With a thousand years of history, the Empire is the largest country"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "on the continent. It presides over the laws of the other countries."
+                "Con mil años de historia, el Imperio es el país\nmás grande del continente. Preside las leyes de\nlos demás países."
               ]
             },
             {
@@ -6669,14 +6338,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Empire inspects the distribution of all goods, maintains records"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of each person born, and controls everyone who becomes a slave."
+                "El Imperio inspecciona la distribución de todos\nlos bienes, mantiene registros de cada persona\nnacida y controla a todo aquel que se convierte en\nesclavo."
               ]
             },
             {
@@ -6693,29 +6355,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since the implementation of the Empire's oversight, the number of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "wars has greatly diminished and the economy has grown stronger. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Mankind enjoys a peaceful world under the Empire's patronage."
+                "Desde la implementación de la supervisión del\nImperio, el número de guerras ha disminuido\nconsiderablemente y la economía se ha fortalecido.\nLa humanidad disfruta de un mundo pacífico bajo el\npatrocinio del Imperio."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6723,9 +6369,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6800,14 +6444,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Read book. Romance. Human. And. Monster."
+                "Lee el libro. Romance. Humano. Y. Monstruo."
               ]
             },
             {
@@ -6836,14 +6480,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Read book."
+                "Leer el libro."
               ]
             },
             {
@@ -6872,22 +6516,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good part. Not interrupt."
+                "Buena parte. No interrumpir."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6895,9 +6537,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6963,22 +6603,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Read book. Soon cannot read. Read now."
+                "Lee el libro. Pronto no podrás leer. Lee ahora."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6986,9 +6624,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7058,14 +6694,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Turn R-18 Skip Mode ON from the Options menu to hide all of the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "sex scenes in the game."
+                "Activa el modo de salto R-18 en el menú Opciones\npara ocultar todas las escenas de sexo del juego."
               ]
             },
             {
@@ -7082,14 +6711,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even with R-18 Skip Mode ON, unlocked scenes will still be available"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in the recollection area. You can view them there."
+                "Incluso con el Modo Omitir R-18 activado, las\nescenas desbloqueadas seguirán disponibles en el\nárea de recuerdos. Podrás verlas allí."
               ]
             },
             {
@@ -7106,14 +6728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's designed for people who prefer to focus on the story or don't "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "want to worry about friends and family looking over their shoulder."
+                "Está diseñado para personas que prefieren\ncentrarse en la historia o no quieren preocuparse\nde que sus amigos y familiares los miren por\nencima del hombro."
               ]
             },
             {
@@ -7137,9 +6752,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7147,9 +6760,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7219,14 +6830,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you accomplish something big, you get an achievement. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "They're medals for those who've overcome challenges."
+                "Cuando logras algo grande, obtienes un logro. Son\nmedallas para quienes han superado desafíos."
               ]
             },
             {
@@ -7243,14 +6847,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, they're purely decorative. They don't provide any bonuses."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The joy of possessing them is all you get."
+                "Aun así, son puramente decorativos. No aportan\nninguna bonificación. La alegría de poseerlos es\ntodo lo que se obtiene."
               ]
             },
             {
@@ -7274,9 +6871,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7284,9 +6879,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7349,21 +6942,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Attributes - Volume 2]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "To make an attack with an attribute, you need to use magic with"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "that attribute to attack... Or an attributed weapon."
+                "[Attributes - Volume 2] Para realizar un ataque\ncon un atributo, necesitas usar magia con ese\natributo para atacar... O un arma con atributo."
               ]
             },
             {
@@ -7380,29 +6959,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a low chance of getting an attributed weapon as a drop from"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "special monsters. Try farming the same monsters over and over to"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "make things easier down the road."
+                "Hay pocas probabilidades de obtener un arma\natribuida de monstruos especiales. Intenta farmear\nlos mismos monstruos una y otra vez para facilitar\nlas cosas más adelante."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7410,9 +6973,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7475,21 +7036,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Attributes - Volume 1]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "There are many types of attributes. Fire, water, lightning... Use them "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to capitalize on an enemy's weakness for an easier fight."
+                "[Attributes - Volume 1] Hay muchos tipos de\natributos. Fuego, agua, rayo... Úsalos para\naprovechar la debilidad del enemigo y facilitar la\nlucha."
               ]
             },
             {
@@ -7506,14 +7053,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enemies from the same area often share the same weaknesses. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "For example, enemies from Tortas tend to be weak to water."
+                "Los enemigos de la misma zona suelen compartir las\nmismas debilidades. Por ejemplo, los enemigos de\nTortas tienden a ser vulnerables al agua."
               ]
             },
             {
@@ -7530,22 +7070,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can find out what the local enemies are weak to by asking "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "around. Intelligence-gathering is an essential part of warfare."
+                "Puedes descubrir a qué son débiles los enemigos\nlocales preguntando. La recopilación de\ninteligencia es esencial en la guerra."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7553,9 +7084,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7625,14 +7154,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Skills are very useful in battle, but sometimes normal attacks are"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the way to go."
+                "Las habilidades son muy útiles en la batalla, pero\na veces los ataques normales son el camino a\nseguir."
               ]
             },
             {
@@ -7649,22 +7171,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If your skills don't seem to be doing much damage to the enemy,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "try checking your equipment or using normal attacks instead."
+                "Si tus habilidades no parecen estar haciendo mucho\ndaño al enemigo, intenta revisar tu equipo o usar\nataques normales en su lugar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7672,9 +7185,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7744,14 +7255,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This skill makes one character protect the others. It's best used by "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "someone with high defense."
+                "Esta habilidad permite que un personaje proteja a\nlos demás. Es ideal para alguien con alta defensa."
               ]
             },
             {
@@ -7768,21 +7272,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It doesn't always have to be the hardiest character who uses it,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "though. Don't be reluctant to try new things. It's always worth "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "testing a different approach."
+                "Sin embargo, no siempre tiene que ser el personaje\nmás resistente quien lo use. No dudes en probar\ncosas nuevas. Siempre vale la pena probar un\nenfoque diferente."
               ]
             },
             {
@@ -7806,9 +7296,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7816,9 +7304,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7888,14 +7374,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you touch the back of an enemy that hasn't spotted you, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you'll initiate a Back Attack."
+                "Si tocas la espalda de un enemigo que no te ha\nvisto, iniciarás un ataque por la espalda."
               ]
             },
             {
@@ -7912,14 +7391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Back Attacks give you an advantage by forcing the enemy to fight"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "while unprepared and confused."
+                "Los ataques por la espalda te dan una ventaja al\nobligar al enemigo a luchar sin preparación y\nconfundido."
               ]
             },
             {
@@ -7936,21 +7408,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You also get better drop rates from battles that start with a Back"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Attack. Be sure to use it when you're aiming for rare items that "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have lower drop rates."
+                "También obtienes mejores probabilidades de\nconseguir objetos en las batallas que comienzan\ncon un Ataque por la Espalda. Asegúrate de usarlo\ncuando busques objetos raros con menor\nprobabilidad de conseguirlos."
               ]
             },
             {
@@ -7974,9 +7432,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7984,9 +7440,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8049,21 +7503,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Attributes - Volume 3]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "If you think of human as being an attribute, does that mean there"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "are attacks that works against all humans? The answer is yes."
+                "[Attributes - Volume 3] Si consideramos que ser\nhumano es un atributo, ¿significa eso que hay\nataques que funcionan contra todos los humanos? La\nrespuesta es sí."
               ]
             },
             {
@@ -8080,22 +7520,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are certain weapons and skills that are extra effective against"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "humans. There may even be an attribute all humans are weak to."
+                "Hay ciertas armas y habilidades que son\nespecialmente efectivas contra los humanos.\nIncluso podría haber un atributo al que todos los\nhumanos sean débiles."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8103,9 +7534,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8175,14 +7604,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Buffs are status effects that strengthen your party members."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Debuffs are status effects that weaken your enemies."
+                "Las mejoras son efectos de estado que fortalecen a\nlos miembros de tu grupo. Las desventajas son\nefectos de estado que debilitan a tus enemigos."
               ]
             },
             {
@@ -8199,21 +7621,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Buffs can increase your party's Attack and Defense. Both skills and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "magic can be used to buff the party. It's simple, but you'll see the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "value in it if a battle drags on."
+                "Las mejoras pueden aumentar el Ataque y la Defensa\nde tu grupo. Tanto las habilidades como la magia\npueden usarse para mejorar al grupo. Es simple,\npero notarás su valor si una batalla se alarga."
               ]
             },
             {
@@ -8230,29 +7638,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Debuffs can lower your enemy's Attack and Defense. Both skills "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and magic can be used to debuff enemies. The stronger the foe, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the more value you'll get out of them."
+                "Las desventajas pueden reducir el ataque y la\ndefensa de tu enemigo. Tanto las habilidades como\nla magia pueden usarse para debilitar a los\nenemigos. Cuanto más fuerte sea el enemigo, más\nvalioso será su poder."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8260,9 +7652,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8325,21 +7715,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Maximum Number of Items]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You can carry up to 99 of any human-made item, Healing Water, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and Reviver."
+                "[Maximum Number of Items] Puedes llevar hasta 99\nde cualquier objeto hecho por el hombre, agua\ncurativa y reanimante."
               ]
             },
             {
@@ -8356,14 +7732,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For natural items like Sakura Leaves and Spirit Stones, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you can carry up to 9,999 of each."
+                "Para artículos naturales como hojas de Sakura y\npiedras espirituales, puedes llevar hasta 9999 de\ncada una."
               ]
             },
             {
@@ -8380,29 +7749,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Items may have the same effect, but the number that can be carried"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "speaks to their utility. Ones that are plentiful should be used on the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "map, while those that are few in number are best saved for battle."
+                "Los objetos pueden tener el mismo efecto, pero la\ncantidad que se puede transportar indica su\nutilidad. Los que abundan deben usarse en el mapa,\nmientras que los que son escasos es mejor\nguardarlos para la batalla."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8410,9 +7763,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8475,21 +7826,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Kingdom of Elegance, Lace]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The Silver Knight, Lace, wanted to found a country of peace in"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "accordance with Saint Bohelos's teachings."
+                "[Kingdom of Elegance, Lace] El Caballero de Plata,\nLace, quería fundar un país de paz de acuerdo con\nlas enseñanzas de San Bohelos."
               ]
             },
             {
@@ -8506,21 +7843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Using their special, non-lethal spearmanship and diplomacy, Lace"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "managed to triumph over their foes. Their style of battle became "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a hot topic across the continent."
+                "Gracias a su especial habilidad con la lanza y su\ndiplomacia no letal, Lace logró vencer a sus\nenemigos. Su estilo de combate se convirtió en\ntema candente en todo el continente."
               ]
             },
             {
@@ -8537,14 +7860,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In recent years, due to the large number of battles it's faced and"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "strong domestic demand, Lace has formed an order of knights."
+                "En los últimos años, debido a la gran cantidad de\nbatallas que ha enfrentado y la fuerte demanda\ninterna, Lace ha formado una orden de caballeros."
               ]
             },
             {
@@ -8561,22 +7877,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a note at the end of the book:"
+                "Hay una nota al final del libro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lace has lost its territory and is no longer a country."
+                "Lace ha perdido su territorio y ya no es un país."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8584,9 +7898,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8656,21 +7968,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Kingdom of Blades, Yaldapa]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "A country with a long history, famous for its characteristic swords."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Known for both its famous swords and strong swordsmanship."
+                "[Kingdom of Blades, Yaldapa] Un país con una larga\nhistoria, famoso por sus características espadas.\nConocido tanto por sus famosas espadas como por su\nexcelente manejo de la espada."
               ]
             },
             {
@@ -8687,21 +7985,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Many of Yaldapa's queens have been master swordswomen, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "revered by their people. The sword dance they perform at"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the nation's festivals is admired throughout the continent. "
+                "Muchas de las reinas de Yaldapa han sido maestras\nespadachinas, veneradas por su pueblo. La danza de\nla espada que interpretan en los festivales\nnacionales es admirada en todo el continente."
               ]
             },
             {
@@ -8718,21 +8002,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cooking knives made with Yaldapa's smithing techniques are in high"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "demand all over the continent. Every household has a Yaldapa knife."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The weight of the blade alone can cut tomatoes into thin slices."
+                "Los cuchillos de cocina fabricados con las\ntécnicas de forja de Yaldapa tienen una gran\ndemanda en todo el continente. Cada hogar tiene un\ncuchillo Yaldapa. El peso de la hoja basta para\ncortar tomates en rodajas finas."
               ]
             },
             {
@@ -8749,22 +8019,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a note at the back of the book:"
+                "Hay una nota al final del libro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yaldapa has lost its territory and is no longer a country."
+                "Yaldapa ha perdido su territorio y ya no es un\npaís."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8772,9 +8040,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8851,14 +8117,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A verdant nation situated next to the Ancient Lake. Perhaps due to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the majesty of the lake, the people have very calm temperaments."
+                "Una nación verde situada junto al Lago Antiguo.\nQuizás debido a la majestuosidad del lago, sus\nhabitantes tienen un temperamento muy tranquilo."
               ]
             },
             {
@@ -8875,21 +8134,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sandwiched between Rooklook's walls and the Ancient Lake, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "they're very tenacious in battle. Lohba has a reputation as "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a small but impregnable country."
+                "Enclavados entre las murallas de Rooklook y el\nLago Antiguo, son muy tenaces en la batalla. Lohba\ntiene fama de ser un país pequeño pero\ninexpugnable."
               ]
             },
             {
@@ -8906,22 +8151,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A note at the end of the book says:"
+                "Una nota al final del libro dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lohba has lost its territory and is no longer a country."
+                "Lohba ha perdido su territorio y ya no es un país."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8929,9 +8172,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -8983,9 +8224,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -8993,9 +8232,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9068,9 +8305,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9078,9 +8313,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9134,15 +8367,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "None of these books are of any use."
+                "Ninguno de estos libros sirve de nada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9150,9 +8381,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9215,21 +8444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Ultimate Skill Cut-In Skip]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "When you spend all your time battling, efficiency becomes key. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Having to sit through too many animations is a real drag."
+                "[Ultimate Skill Cut-In Skip] Cuando te pasas todo\nel tiempo luchando, la eficiencia se vuelve clave.\nTener que aguantar tantas animaciones es un\nverdadero rollo."
               ]
             },
             {
@@ -9246,14 +8461,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So skip them! Use as many Ultimate Skills as you like without"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "having to sit through the animation every time!"
+                "¡Así que omítelos! ¡Usa todas las Habilidades\nDefinitivas que quieras sin tener que ver la\nanimación cada vez!"
               ]
             },
             {
@@ -9277,9 +8485,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9287,9 +8493,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9352,15 +8556,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't read these titles yet."
+                "Aún no puedes leer estos títulos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9368,9 +8570,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9431,14 +8631,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you fall in battle, you can select the Bad End option. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "This will let you see the horrible end the characters face."
+                "Al caer en combate, puedes seleccionar la opción\nFinal Malo. Esto te permitirá ver el terrible\nfinal que enfrentan los personajes."
               ]
             },
             {
@@ -9455,14 +8648,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're brave enough, you might even choose to see the tragic "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "truth of this world."
+                "Si eres lo suficientemente valiente, incluso\npodrías elegir ver la trágica verdad de este\nmundo."
               ]
             },
             {
@@ -9486,9 +8672,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9496,9 +8680,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9568,7 +8750,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Freedom beyond the wall... I feel more anxious every day, but..."
+                "Libertad más allá del muro... Cada día me siento\nmás ansioso, pero..."
               ]
             },
             {
@@ -9592,22 +8774,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That anxiety just makes me want to become stronger! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'll become strong, just like Polca!"
+                "¡Esa ansiedad me da ganas de hacerme más fuerte!\n¡Seré fuerte, como Polca!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9615,9 +8788,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9687,22 +8858,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We studied so hard and for so long... Does that not mean anything"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "out here in the wider world?"
+                "Estudiamos tan duro y durante tanto tiempo...\n¿Acaso eso no significa nada aquí en el resto del\nmundo?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9710,9 +8872,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9775,29 +8935,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Student:"
+                "Alumno:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I trusted that everything I learned in class was the truth. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Now I know it was whatever suited the adults the most."
+                "Confiaba en que todo lo que aprendí en clase era\ncierto. Ahora sé que era lo que más les convenía a\nlos adultos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9805,9 +8956,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9859,9 +9008,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9869,9 +9016,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9923,9 +9068,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9933,9 +9076,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -9987,9 +9128,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -9997,9 +9136,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10042,9 +9179,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10052,9 +9187,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10104,9 +9237,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 122,
@@ -10130,16 +9261,12 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10147,9 +9274,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10192,9 +9317,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10202,9 +9325,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10274,14 +9395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you looking down on items and equipment that increase your"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "luck? Don't you think it's important to have good luck? "
+                "¿Desprecias los objetos y equipos que aumentan tu\nsuerte? ¿No crees que es importante tener buena\nsuerte?"
               ]
             },
             {
@@ -10298,21 +9412,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luck is strongly connected to status effects. Higher luck means a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "higher chance of inflicting Faint or of your party members being"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "able to resist Paralysis in battle."
+                "La suerte está estrechamente relacionada con los\nefectos de estado. Una mayor suerte implica una\nmayor probabilidad de infligir Desmayo o de que\nlos miembros de tu grupo puedan resistir la\nParálisis en combate."
               ]
             },
             {
@@ -10329,14 +9429,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You lose nothing by increasing your luck, so get out there and find "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "yourself more of it!"
+                "¡No pierdes nada con aumentar tu suerte, así que\nsal y encuentra más de ella!"
               ]
             },
             {
@@ -10353,7 +9446,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh? There's something at the back of the shelf."
+                "¿Ah, sí? Hay algo al fondo del estante."
               ]
             },
             {
@@ -10376,9 +9469,9 @@
               "parameters": [
                 {
                   "name": "SC_item1",
-                  "volume": 100,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 100
                 }
               ]
             },
@@ -10421,15 +9514,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lucky!"
+                "¡Afortunado!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10437,9 +9528,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10500,14 +9589,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you looking down on items and equipment that increase your"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "luck? Don't you think it's important to have good luck? "
+                "¿Desprecias los objetos y equipos que aumentan tu\nsuerte? ¿No crees que es importante tener buena\nsuerte?"
               ]
             },
             {
@@ -10524,21 +9606,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Luck is strongly connected to status effects. Higher luck means a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "higher chance of inflicting Faint or of your party members being"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "able to resist Paralysis in battle."
+                "La suerte está estrechamente relacionada con los\nefectos de estado. Una mayor suerte implica una\nmayor probabilidad de infligir Desmayo o de que\nlos miembros de tu grupo puedan resistir Parálisis\nen combate."
               ]
             },
             {
@@ -10555,22 +9623,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You lose nothing by increasing your luck, so get out there and find "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "yourself more of it!"
+                "¡No pierdes nada con aumentar tu suerte, así que\nsal y encuentra más de ella!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10578,9 +9637,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10643,15 +9700,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't read these titles yet."
+                "Aún no puedes leer estos títulos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10659,9 +9714,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10715,14 +9768,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "[Bad End - Volume 2]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Somewhere in the Slave Internment Camp is the Execution Dungeon. "
+                "[Bad End - Volume 2] En algún lugar del Campo de\nInternamiento de Esclavos se encuentra la Mazmorra\nde Ejecución."
               ]
             },
             {
@@ -10739,14 +9785,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The grisly images it conjures serve as a chain that binds the hearts "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of slaves across the land."
+                "Las imágenes espeluznantes que evoca sirven como\nuna cadena que une los corazones de los esclavos a\nlo largo y ancho de la tierra."
               ]
             },
             {
@@ -10763,14 +9802,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "On the off chance you end up there, investigate the slaves who "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have fallen into despair. An unrealized tenacity sleeps there."
+                "Si llegas allí, investiga a los esclavos que han\ncaído en la desesperación. Una tenacidad\ninconclusa yace allí."
               ]
             },
             {
@@ -10787,14 +9819,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That tenacity may lead to something. For example, a mysterious doll "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "who's been entrusted with a mission."
+                "Esa tenacidad puede llevar a algo. Por ejemplo, a\nuna muñeca misteriosa a la que se le ha confiado\nuna misión."
               ]
             },
             {
@@ -10818,9 +9843,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10828,9 +9851,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -10900,14 +9921,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you want to return quickly from a dungeon, you may find "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Return Scrolls useful."
+                "Cuando quieras regresar rápidamente de una\nmazmorra, puede que te resulten útiles los\nPergaminos de retorno."
               ]
             },
             {
@@ -10924,21 +9938,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're especially useful when dealing with deep dungeons or "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "dungeons that contain lots of powerful enemies. You'll always "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "want to carry at least one."
+                "Son especialmente útiles en mazmorras profundas o\ncon muchos enemigos poderosos. Siempre querrás\nllevar al menos una."
               ]
             },
             {
@@ -10955,14 +9955,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "An even more useful item is the Hometown Ocarina. This item is"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "reusable, so if you find it, don't be afraid to use it."
+                "Un objeto aún más útil es la Ocarina de la Ciudad.\nEs reutilizable, así que si la encuentras, no\ndudes en usarla."
               ]
             },
             {
@@ -10985,9 +9978,9 @@
               "parameters": [
                 {
                   "name": "Item3",
-                  "volume": 100,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 100
                 }
               ]
             },
@@ -11023,15 +10016,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The appendix contains a Return Scroll!"
+                "¡El apéndice contiene un pergamino de retorno!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11039,9 +10030,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11102,14 +10091,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you want to return quickly from a dungeon, you may find "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Return Scrolls useful."
+                "Cuando quieras regresar rápidamente de una\nmazmorra, puede que te resulten útiles los\nPergaminos de retorno."
               ]
             },
             {
@@ -11126,21 +10108,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They're especially useful when dealing with deep dungeons or "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "dungeons that contain lots of powerful enemies. You'll always "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "want to carry at least one."
+                "Son especialmente útiles en mazmorras profundas o\ncon muchos enemigos poderosos. Siempre querrás\nllevar al menos una."
               ]
             },
             {
@@ -11157,22 +10125,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "An even more useful item is the Hometown Ocarina. This item is"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "reusable, so if you find it, don't be afraid to use it."
+                "Un objeto aún más útil es la Ocarina de la Ciudad.\nEs reutilizable, así que si la encuentras, no\ndudes en usarla."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11180,9 +10139,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11252,7 +10209,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are hidden treasures in this world that have yet to be discovered."
+                "Hay tesoros ocultos en este mundo que aún no han\nsido descubiertos."
               ]
             },
             {
@@ -11269,22 +10226,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you manage to get your hands on them, they'll probably provide "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "incredible powers... if they truly exist."
+                "Si logras tenerlos en tus manos, probablemente te\nproporcionarán poderes increíbles... si realmente\nexisten."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11292,9 +10240,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11364,14 +10310,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Back before there was magic, people thought they could heal their "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "injuries with herbs and inner spirit."
+                "Antes de que existiera la magia, la gente pensaba\nque podía curar sus heridas con hierbas y espíritu\ninterior."
               ]
             },
             {
@@ -11388,14 +10327,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The strangest idea of all was that scents could heal. That by sniffing "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "certain herbs or musks, a person could heal their body."
+                "La idea más extraña de todas era que los aromas\npodían curar. Que al oler ciertas hierbas o\nalmizcles, una persona podía sanar su cuerpo."
               ]
             },
             {
@@ -11412,29 +10344,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The method of making it has been lost, but of all these treatments,"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Healing Mist is by far the most effective. It has outstanding healing"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "properties, so be bold yet prudent when you have some."
+                "El método de elaboración se ha perdido, pero de\ntodos estos tratamientos, la Bruma Curativa es,\nsin duda, la más efectiva. Tiene propiedades\ncurativas excepcionales, así que sé audaz pero\nprudente cuando la tomes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11442,9 +10358,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11514,14 +10428,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When you need to fight enemies over and over, this is where the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Battle Ocarina comes into play."
+                "Cuando necesitas luchar contra enemigos una y otra\nvez, aquí es donde entra en juego Battle Ocarina."
               ]
             },
             {
@@ -11538,14 +10445,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Play the Battle Ocarina and, even if you've cleared the current area "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of enemies, a battle will start."
+                "Juega Battle Ocarina y, incluso si has despejado\nel área actual de enemigos, comenzará una batalla."
               ]
             },
             {
@@ -11562,15 +10462,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Use it to farm XP, drops, or anything else you need."
+                "Úsalo para obtener XP, botines o cualquier otra\ncosa que necesites."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11578,9 +10476,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

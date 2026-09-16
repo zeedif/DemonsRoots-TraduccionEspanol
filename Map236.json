@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Cafeteria",
-  "encounterList": [
-
-  ],
+  "displayName": "Cafetería",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 25,
   "note": "",
@@ -3381,22 +3379,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's a device providing a steady supply of magical power. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Best not to touch it."
+                "Es un dispositivo que proporciona un suministro\nconstante de poder mágico. Mejor no tocarlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3404,9 +3393,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3469,21 +3456,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like that device supplies power to the shelves, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "which keeps the food cold."
+                "Parece que ese dispositivo suministra energía a\nlos estantes, lo que mantiene la comida fría."
               ]
             },
             {
@@ -3500,22 +3480,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Food doesn't rot as fast if you keep it cold, huh? I never knew that!"
+                "La comida no se pudre tan rápido si la mantienes\nfría, ¿verdad? ¡No lo sabía!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3523,9 +3501,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3588,29 +3564,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lord Todeira put me in charge of the cooking, but it's been over a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "thousand years since I've wielded a knife. My hands are shaking."
+                "El señor Todeira me encargó la cocina, pero hace\nmás de mil años que no uso un cuchillo. Me\ntiemblan las manos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3618,9 +3585,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3674,21 +3639,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've gotten used to this cooking thing, but the humans keep"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "complaining about the smell and taste of my food!"
+                "Me he acostumbrado a esto de cocinar, ¡pero los\nhumanos siguen quejándose del olor y el sabor de\nmi comida!"
               ]
             },
             {
@@ -3705,29 +3663,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't help that fish and meat stinks! They need to just shut up"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "about it already! Right!?"
+                "¡No puedo evitar que el pescado y la carne\napesten! ¡Deberían callarse ya! ¿Verdad?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3735,9 +3684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3791,21 +3738,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Okay, now I know what cooking is. It's not just about chucking"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ingredients together. Cooking's an art form."
+                "Bueno, ahora sé lo que es cocinar. No se trata\nsolo de juntar ingredientes. Cocinar es un arte."
               ]
             },
             {
@@ -3822,21 +3762,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You've got to eliminate the smell and make the most of the flavor."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Anything that ruins the appetite, you've got to get rid of."
+                "Hay que eliminar el olor y aprovechar al máximo el\nsabor. Hay que deshacerse de todo lo que quita el\napetito."
               ]
             },
             {
@@ -3853,21 +3786,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I like to use onions to get rid of the fish smell. I've got a whole "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bunch of them here. Why not take some with you?"
+                "Me gusta usar cebollas para quitar el olor a\npescado. Tengo un montón aquí. ¿Por qué no te\nllevas algunas?"
               ]
             },
             {
@@ -3876,9 +3802,9 @@
               "parameters": [
                 {
                   "name": "Item1",
-                  "volume": 80,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 80
                 }
               ]
             },
@@ -3903,9 +3829,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3913,9 +3837,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3969,21 +3891,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Okay, now I know what cooking is. It's not just about chucking"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ingredients together. Cooking's an art form."
+                "Bueno, ahora sé lo que es cocinar. No se trata\nsolo de juntar ingredientes. Cocinar es un arte."
               ]
             },
             {
@@ -4000,29 +3915,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon Chef:"
+                "Chef demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's so much to it... Humans are pretty clever for coming up "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "with something like this. We demons can't fall behind."
+                "Hay tanto que hacer... Los humanos son muy\ninteligentes al inventar algo así. Los demonios no\npodemos quedarnos atrás."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4030,9 +3936,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4084,9 +3988,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4094,9 +3996,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4169,9 +4069,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4179,9 +4077,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4235,15 +4131,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "None of these books are of any use."
+                "Ninguno de estos libros sirve de nada."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4251,9 +4145,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4335,9 +4227,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4345,9 +4235,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4390,9 +4278,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4400,9 +4286,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4478,9 +4362,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4488,9 +4370,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4553,15 +4433,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Food is chilling on the shelves."
+                "La comida se está enfriando en los estantes."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4569,9 +4447,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4634,29 +4510,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ooh, proper food for the first time in forever! Those veggies are "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "shining like colorful jewels!"
+                "¡Oh, comida de verdad por primera vez en mucho\ntiempo! ¡Esas verduras brillan como joyas de\ncolores!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4664,9 +4531,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4718,9 +4583,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4728,9 +4591,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4782,9 +4643,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4792,9 +4651,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4846,9 +4703,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4856,9 +4711,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4901,9 +4754,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4911,9 +4762,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4976,22 +4825,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Munch* *Munch* *Munch*!"
+                "*Masticar* *Masticar* *Masticar*!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4999,9 +4846,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5044,9 +4889,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5054,9 +4897,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5119,22 +4960,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Munch* *Munch* *Munch*!"
+                "*Masticar* *Masticar* *Masticar*!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5142,9 +4981,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5187,9 +5024,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5197,9 +5032,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5262,22 +5095,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man, so good! *Munch* *Munch*! Is this what they call cooking!?"
+                "¡Qué rico! *Mastica* *Mastica* ¡¿A esto le llaman\ncocinar?!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5285,9 +5116,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5339,9 +5168,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5349,9 +5176,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5414,22 +5239,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So full... Now I can die happy..."
+                "Tan lleno...Ahora puedo morir feliz..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5437,9 +5260,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5491,9 +5312,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5501,9 +5320,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5566,29 +5383,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's up with this stuff!? It tastes incredible! I could even gnaw "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "on the bones!"
+                "¿Qué le pasa a esto? ¡Tiene un sabor increíble!\n¡Incluso podría morderle los huesos!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5596,9 +5404,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5650,9 +5456,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5660,9 +5464,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5714,9 +5516,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5724,9 +5524,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5778,9 +5576,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5788,9 +5584,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5853,29 +5647,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demon:"
+                "Demonio:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wish my dead buddies could taste this! Woo-hoo! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "*Munch* *Munch* *Munch*!"
+                "¡Ojalá mis amigos muertos pudieran probar esto!\n¡Guau! *Masca* *Masca* *Masca*!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5883,9 +5668,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5948,29 +5731,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bohelos Soldier:"
+                "Soldado Bohelos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I begrudgingly allowed the demons to handle the cooking, and look"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "at what I've been given! This stuff stinks! It's not even food!"
+                "A regañadientes, dejé que los demonios se\nencargaran de la cocina, ¡y mira lo que me han\ndado! ¡Esto apesta! ¡Ni siquiera es comida!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5978,9 +5752,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6034,29 +5806,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Bohelos Soldier:"
+                "Soldado Bohelos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Munch* *Munch*... Hmm? Don't talk to me. I'm trying to savor "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "this delicious meal."
+                "*Mastica* *Mastica*... ¿Mmm? No me hables. Estoy\nintentando saborear esta deliciosa comida."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6064,9 +5827,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6118,9 +5879,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6128,9 +5887,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1407,22 +1405,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's an old treasure chest wrapped in chains. You can't see any way"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to open it."
+                "Es un viejo cofre del tesoro envuelto en cadenas.\nNo se ve cómo abrirlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1430,9 +1419,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1495,22 +1482,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some adult equipment. It's too big and heavy, so you don't "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bother with it."
+                "Equipo para adultos. Es demasiado grande y pesado,\nasí que no te molestes en usarlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1518,9 +1496,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1583,22 +1559,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some adult equipment. It's too big and heavy, so you don't "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bother with it."
+                "Equipo para adultos. Es demasiado grande y pesado,\nasí que no te molestes en usarlo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1606,9 +1573,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1684,9 +1649,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1694,9 +1657,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

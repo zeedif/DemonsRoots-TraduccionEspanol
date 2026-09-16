@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Imperial Palace Front Gate",
-  "encounterList": [
-
-  ],
+  "displayName": "Puerta principal del Palacio Imperial",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 30,
   "note": "",
@@ -3501,22 +3499,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If Lord Kudan were here, the Devil Dealer wouldn't stand a chance."
+                "Si Lord Kudan estuviera aquí, el Traficante de\nDiablos no tendría ninguna oportunidad."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3524,9 +3520,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3589,22 +3583,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wish I had the chance to see Lord Kudan's skills up close."
+                "Desearía tener la oportunidad de ver las\nhabilidades de Lord Kudan de cerca."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3612,9 +3604,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3666,9 +3656,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3676,9 +3664,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3730,9 +3716,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3740,9 +3724,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3794,9 +3776,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3804,9 +3784,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3858,9 +3836,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3868,9 +3844,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3913,9 +3887,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3923,9 +3895,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3982,9 +3952,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 129,
@@ -4077,9 +4045,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -4095,15 +4061,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Kudan temporarily joined the party!"
+                "¡Kudan se unió temporalmente a la fiesta!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4111,9 +4075,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4156,9 +4118,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4166,9 +4126,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4220,9 +4178,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4230,9 +4186,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4284,9 +4238,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4294,9 +4246,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4339,9 +4289,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4349,9 +4297,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4412,7 +4358,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Leave the Imperial Palace and head toward the Third Empire?"
+                "¿Dejar el Palacio Imperial y dirigirse hacia el\nTercer Imperio?"
               ]
             },
             {
@@ -4420,7 +4366,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -4434,15 +4380,13 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
               "code": 221,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 230,
@@ -4496,14 +4440,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Diana and Kudan got into a carriage and made their way to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the Third Empire..."
+                "Diana y Kudan subieron a un carruaje y se\ndirigieron al Tercer Imperio..."
               ]
             },
             {
@@ -4520,14 +4457,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The Third Empire's castle town began to come into view. Diana's gaze "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "unfocused as she thought back on all she'd been through thus far."
+                "La ciudadela del Tercer Imperio comenzó a\nvislumbrarse. La mirada de Diana se desvió\nmientras recordaba todo lo que había pasado hasta\nentonces."
               ]
             },
             {
@@ -4544,21 +4474,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Being chased by the Eternal Dolls... Najezta settling things with his "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "brother Dorbeja... Deathpolca and Lily enjoying their friendship for "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "the first time in a thousand years..."
+                "Siendo perseguido por las Muñecas Eternas...\nNajezta arreglando las cosas con su hermano\nDorbeja... Deathpolca y Lily disfrutando de su\namistad por primera vez en mil años..."
               ]
             },
             {
@@ -4575,14 +4491,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The next day, they arrived at the castle town. The air was heavy "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "and ominous, unlike anything they'd felt before."
+                "Al día siguiente, llegaron a la ciudadela. El aire\nera denso y amenazador, como nunca antes habían\nsentido."
               ]
             },
             {
@@ -4623,16 +4532,12 @@
             {
               "code": 222,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -4676,23 +4581,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4700,9 +4599,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4754,9 +4651,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4764,9 +4659,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4809,9 +4702,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4819,9 +4710,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4944,14 +4833,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Imperial Palace is off limits. Get lost."
+                "El Palacio Imperial está prohibido. Piérdete."
               ]
             },
             {
@@ -5050,9 +4939,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5060,9 +4947,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5136,9 +5021,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5146,9 +5029,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5207,9 +5088,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5217,9 +5096,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Audience Chamber Entrance",
-  "encounterList": [
-
-  ],
+  "displayName": "Entrada a la Sala de Audiencias",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 18,
   "note": "",
@@ -3476,9 +3474,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3486,9 +3482,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3540,9 +3534,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3550,9 +3542,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3595,9 +3585,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3605,9 +3593,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3699,9 +3685,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3709,9 +3693,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3787,9 +3769,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3797,9 +3777,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3875,9 +3853,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3885,9 +3861,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3963,9 +3937,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3973,9 +3945,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4038,22 +4008,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4061,9 +4029,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4117,29 +4083,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are demons in the throne room. Apparently they listen in and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "report back the Remnants in Bohelos. "
+                "Hay demonios en la sala del trono. Al parecer,\nescuchan e informan a los Remanentes de Bohelos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4147,9 +4104,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4212,22 +4167,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4235,9 +4188,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4291,29 +4242,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are demons in the throne room. Apparently they listen in and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "report back the Remnants in Bohelos. "
+                "Hay demonios en la sala del trono. Al parecer,\nescuchan e informan a los Remanentes de Bohelos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4321,9 +4263,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4386,22 +4326,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4409,9 +4347,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4454,9 +4390,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4464,9 +4398,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4529,22 +4461,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4552,9 +4482,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4597,9 +4525,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4607,9 +4533,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4672,22 +4596,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4695,9 +4617,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4740,9 +4660,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4750,9 +4668,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4815,22 +4731,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Soldier:"
+                "Soldado imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "His Majesty Dorbeja is waiting in the throne room."
+                "Su Majestad Dorbeja está esperando en la sala del\ntrono."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4838,9 +4752,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4883,9 +4795,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4893,9 +4803,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4958,29 +4866,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Keen-Eyed Butler:"
+                "Mayordomo de ojos agudos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please refrain from any suspicious behavior while inside the castle."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We'll use force if necessary."
+                "Por favor, absténgase de cualquier comportamiento\nsospechoso dentro del castillo. Usaremos la fuerza\nsi es necesario."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4988,9 +4887,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5044,21 +4941,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Keen-Eyed Butler:"
+                "Mayordomo de ojos agudos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You've raided my treasure chest. Did you think I'd overlook "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "such an insult?"
+                "Has saqueado mi cofre del tesoro. ¿Creías que\npasaría por alto semejante insulto?"
               ]
             },
             {
@@ -5075,29 +4965,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Keen-Eyed Butler:"
+                "Mayordomo de ojos agudos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Haha... I jest. If you've managed to get your hands on the contents, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "then all is as it was fated to be."
+                "Jaja... Es broma. Si lograste conseguir el\ncontenido, entonces todo está como estaba\ndestinado a ser."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5105,9 +4986,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

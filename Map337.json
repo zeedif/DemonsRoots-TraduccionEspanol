@@ -17,9 +17,7 @@
   },
   "disableDashing": false,
   "displayName": "",
-  "encounterList": [
-
-  ],
+  "encounterList": [],
   "encounterStep": 30,
   "height": 13,
   "note": "",
@@ -1407,21 +1405,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are more and more people coming into the settlement. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "If we don't do something, we'll run out of food."
+                "Cada vez llega más gente al asentamiento. Si no\nhacemos algo, nos quedaremos sin comida."
               ]
             },
             {
@@ -1438,21 +1429,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those with good heads on their shoulders are gathering in this hut."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "They're going to figure out how to get more food."
+                "Los que tienen la cabeza bien puesta se reúnen en\nesta choza. Van a averiguar cómo conseguir más\ncomida."
               ]
             },
             {
@@ -1469,29 +1453,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those without brains can still do physical labor. If we split the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "work between us, we might live longer lives."
+                "Quienes no tienen cerebro aún pueden realizar\ntrabajo físico. Si dividimos el trabajo entre\nnosotros, podríamos vivir más tiempo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1499,9 +1474,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1564,21 +1537,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Tch... Stupid morons, popping out kids without thinking about "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "how to look after them! Don't they have any common sense!?"
+                "Tch... ¡Imbéciles, sacando hijos sin pensar en\ncómo cuidarlos! ¿¡Acaso no tienen sentido común!?"
               ]
             },
             {
@@ -1595,21 +1561,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I'm not leaving any kids to survive on their own. We'll just "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "have to work our asses off so we can put food in their mouths."
+                "Bueno, no voy a dejar que ningún niño sobreviva\nsolo. Tendremos que dejarnos la piel trabajando\npara poder darles de comer."
               ]
             },
             {
@@ -1626,29 +1585,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foul-Mouthed Old Man:"
+                "Viejo malhablado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eh, I guess this is still a hundred times better than when I stole "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "from people just to scrape by."
+                "Eh, supongo que esto es cien veces mejor que\ncuando robaba a la gente sólo para sobrevivir."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1656,9 +1606,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1734,9 +1682,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1744,9 +1690,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1805,9 +1749,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1815,9 +1757,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1876,9 +1816,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1886,9 +1824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -1940,9 +1876,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1950,9 +1884,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2016,16 +1948,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2033,9 +1961,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2206,9 +2132,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2216,9 +2140,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2261,9 +2183,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2271,9 +2191,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

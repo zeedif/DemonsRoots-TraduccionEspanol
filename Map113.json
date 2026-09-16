@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Slave Market",
-  "encounterList": [
-
-  ],
+  "displayName": "Mercado de esclavos",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 18,
   "note": "",
@@ -4192,21 +4190,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hmm? Why are you looking for an inn here? This is where they "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "cram all the gladiators."
+                "¿Mmm? ¿Por qué buscas una posada aquí? Aquí es\ndonde se apiñan todos los gladiadores."
               ]
             },
             {
@@ -4223,29 +4214,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This place is fine for slaves, but I personally recommend the inn to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the left of the crossroads."
+                "Este lugar está bien para esclavos, pero\npersonalmente recomiendo la posada a la izquierda\ndel cruce."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4253,9 +4235,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4473,9 +4453,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4483,9 +4461,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4703,9 +4679,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4713,9 +4687,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4933,9 +4905,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4943,9 +4913,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5015,21 +4983,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gladiator:"
+                "Gladiador:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is where the other gladiators and I live. It's a warren of small, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "dirty, cramped rooms."
+                "Aquí vivimos los demás gladiadores y yo. Es un\nlaberinto de habitaciones pequeñas, sucias y\nestrechas."
               ]
             },
             {
@@ -5046,29 +5007,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Gladiator:"
+                "Gladiador:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stay away from here. If you catch the eye of one of the angry ones, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "there's no telling what'll happen."
+                "Aléjate de aquí. Si alguno de los furiosos te\nmira, no hay forma de saber qué pasará."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5076,9 +5028,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5154,9 +5104,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5164,9 +5112,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5242,9 +5188,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5252,9 +5196,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5324,21 +5266,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Up ahead you'll find the lower level of the coliseum. The gladiators"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "are preparing the stage."
+                "Más adelante encontrarás la planta baja del\ncoliseo. Los gladiadores están preparando el\nescenario."
               ]
             },
             {
@@ -5355,29 +5290,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They spend their days killing each other surrounded by spectators"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and their nights doing manual labor. It's hard work being a slave."
+                "Pasan los días matándose entre ellos, rodeados de\nespectadores, y las noches realizando trabajos\nmanuales. Es un trabajo duro ser esclavo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5385,9 +5311,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5457,22 +5381,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can cook and clean, but I don't know how to manage livestock."
+                "Puedo cocinar y limpiar, pero no sé manejar el\nganado."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5480,9 +5402,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5552,21 +5472,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is my third time at market. People keep buying and "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "selling me back..."
+                "Esta es la tercera vez que voy al mercado. La\ngente no para de comprarme y venderme..."
               ]
             },
             {
@@ -5583,29 +5496,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The rich buy slaves, run them into the ground, then get rid of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them. It's horrible."
+                "Los ricos compran esclavos, los explotan y luego\nse deshacen de ellos. Es horrible."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5613,9 +5517,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5685,22 +5587,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Sniff*... Wh-Where am I? Mommy?"
+                "*Sniff*... ¿D-dónde estoy? ¿Mamá?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5708,9 +5608,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5780,29 +5678,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave:"
+                "Esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be a carpenter, believe it or not. If you want a gladiator, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "look somewhere else. Shit..."
+                "Yo era carpintero, aunque no lo creas. Si buscas\nun gladiador, busca en otro sitio. Mierda..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5810,9 +5699,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5882,29 +5769,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If any of the slaves catch your eye, speak to one of the agents."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You'll need to sort out a contract along with some other stuff."
+                "Si alguno de los esclavos te llama la atención,\nhabla con uno de los agentes. Tendrás que resolver\nun contrato y otros asuntos."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5912,9 +5790,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5975,29 +5851,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now that slave trade's been outlawed, the slave market's been made "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "into an employment center."
+                "Ahora que el tráfico de esclavos ha sido\nprohibido, el mercado de esclavos se ha convertido\nen un centro de empleo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6005,9 +5872,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6077,29 +5942,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beautiful slaves are luxury items. If you want one for work, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "judge them by their build and attitude."
+                "Las esclavas hermosas son artículos de lujo. Si\nquieres una para trabajar, júzgala por su\ncomplexión y actitud."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6107,9 +5963,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6170,29 +6024,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Soldier:"
+                "Soldado Plana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beautiful slaves are luxury items. If you want one for work, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "judge them by their build and attitude."
+                "Las esclavas hermosas son artículos de lujo. Si\nquieres una para trabajar, júzgala por su\ncomplexión y actitud."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6200,9 +6045,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6272,29 +6115,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Trader:"
+                "Traficante de esclavos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You'd better be respectful to me if you want a slave. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Upset me and you'll find the price sharply rising."
+                "Será mejor que me respetes si quieres un esclavo.\nSi me molestas, verás que el precio sube\ndrásticamente."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6302,9 +6136,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6365,29 +6197,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Trader:"
+                "Traficante de esclavos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You'd better be respectful to me if you want a slave. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Upset me and you'll find the price sharply rising."
+                "Será mejor que me respetes si quieres un esclavo.\nSi me molestas, verás que el precio sube\ndrásticamente."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6395,9 +6218,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6467,29 +6288,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You need to check slaves over carefully before buying them. You"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "don't want to take a male home only to find he's missing a dick."
+                "Hay que revisar bien a los esclavos antes de\ncomprarlos. No querrás llevar a un hombre a casa\nsolo para descubrir que le falta un pene."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6497,9 +6309,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6569,29 +6379,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That slave trader's so full of himself. Still, he's the only one we can "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "buy from, so complaining won't get us anywhere."
+                "Ese traficante de esclavos está muy engreído. Aun\nasí, es el único al que podemos comprar, así que\nquejarnos no nos llevará a ninguna parte."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6599,9 +6400,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6671,29 +6470,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Child slaves last much longer, but the downside's that they're not"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "as immediately useful."
+                "Los niños esclavos duran mucho más, pero la\ndesventaja es que no son tan útiles\ninmediatamente."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6701,9 +6491,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6773,29 +6561,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The slave in charge of looking after my house got sent to the Slave"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Internment Camp. I need a cheap one to take over their work."
+                "El esclavo encargado de cuidar mi casa fue enviado\nal campo de internamiento. Necesito uno barato que\nse haga cargo de su trabajo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6803,9 +6582,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6875,29 +6652,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm single, so I'm looking for a slave to handle all the housekeeping. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I think I'll get a male one."
+                "Soy soltera, así que busco un esclavo que se\nencargue de las tareas del hogar. Creo que buscaré\nun hombre."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6905,9 +6673,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6977,29 +6743,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana Citizen:"
+                "Plana Ciudadana:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you here to buy a slave? They're more expensive than you'd"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "expect, so be sure to pick carefully."
+                "¿Estás aquí para comprar un esclavo? Son más caros\nde lo que imaginas, así que elige con cuidado."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7007,9 +6764,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -7088,7 +6843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a warm, glowing light. Fully restore the party?"
+                "Hay una luz cálida y brillante. ¿Reiniciarás la\nfiesta por completo?"
               ]
             },
             {
@@ -7096,9 +6851,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No",
-                  "Save"
+                  "Guardar"
                 ],
                 1,
                 0,
@@ -7111,7 +6866,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -7162,15 +6917,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The party's HP and MP has been fully restored!"
+                "¡Los HP y MP del grupo han sido restaurados por\ncompleto!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -7183,38 +6936,30 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Save"
+                "Ahorrar"
               ]
             },
             {
               "code": 352,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -7228,9 +6973,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -7282,9 +7025,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

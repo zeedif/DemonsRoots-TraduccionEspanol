@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Cafe Siphon",
-  "encounterList": [
-
-  ],
+  "displayName": "Café Siphon",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 22,
   "note": "",
@@ -3256,7 +3254,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The comforting scent of coffee wafts out."
+                "Se extiende el aroma reconfortante del café."
               ]
             },
             {
@@ -3273,14 +3271,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Owner:"
+                "Dueño:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You look tired. Here, drink this coffee on the house."
+                "Te ves cansado. Toma, tómate este café, cortesía\nde la casa."
               ]
             },
             {
@@ -3316,7 +3314,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your body relaxes! The party's HP and MP has been fully restored!"
+                "¡Relájate! ¡Los HP y PM del grupo se han\nrecuperado por completo!"
               ]
             },
             {
@@ -3330,9 +3328,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3340,9 +3336,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3418,9 +3412,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3428,9 +3420,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3493,14 +3483,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Owner:"
+                "Dueño:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No need to rush. You can take a moment to rest and unwind here."
+                "No hay prisa. Aquí puedes descansar y relajarte."
               ]
             },
             {
@@ -3517,29 +3507,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Owner:"
+                "Dueño:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Everyone's end destination is the same. All we can do is walk the"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "path we prefer to get us there."
+                "El destino final de todos es el mismo. Solo\npodemos recorrer el camino que prefiramos para\nllegar allí."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3547,9 +3528,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3612,14 +3591,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Coffee-Lover:"
+                "Amante del café:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mmm... As delicious as always. You know, I had a thought..."
+                "Mmm... Tan delicioso como siempre. ¿Sabes? Se me\nocurrió una cosa..."
               ]
             },
             {
@@ -3636,21 +3615,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Coffee-Lover:"
+                "Amante del café:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Working hard, buying a big house and expensive clothes... "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "That's what everyone says we should aim for."
+                "Trabajar duro, comprar una casa grande y ropa\ncara... Eso es lo que todos dicen que deberíamos\naspirar a lograr."
               ]
             },
             {
@@ -3667,21 +3639,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Coffee-Lover:"
+                "Amante del café:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But when did that start? When did we all start thinking it was"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "shameful not to earn loads of money as quickly as possible?"
+                "¿Pero cuándo empezó eso? ¿Cuándo empezamos a\npensar que era una vergüenza no ganar mucho dinero\nlo más rápido posible?"
               ]
             },
             {
@@ -3698,29 +3663,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Coffee-Lover:"
+                "Amante del café:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe we're all just being played. For my part, I'm happiest sitting "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "here and enjoying a coffee all by myself."
+                "Quizás nos estén tomando el pelo. Por mi parte,\nsoy más feliz aquí sentado, disfrutando de un café\nsolo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3728,9 +3684,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3793,29 +3747,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Carefree Man:"
+                "Hombre despreocupado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's going on with politics these days? *Munch* *Munch*... "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Oh, right! The buttered toast's as delicious as ever, boss!"
+                "¿Qué onda con la política estos días? *Mastica*\n*Mastica*... ¡Ah, sí! ¡La tostada con mantequilla\nestá tan rica como siempre, jefe!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3823,9 +3768,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3884,9 +3827,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3894,9 +3835,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3960,21 +3899,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Worker:"
+                "Obrero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I started working here, I finally felt like I'd found the life "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I wanted to live."
+                "Cuando comencé a trabajar aquí, finalmente sentí\nque había encontrado la vida que quería vivir."
               ]
             },
             {
@@ -3991,21 +3923,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Worker:"
+                "Obrero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My whole life, I felt like I was chasing after something just out of "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "reach. Turns out I was only ever running in circles."
+                "Toda mi vida sentí que perseguía algo\ninalcanzable. Resulta que solo corría en círculos."
               ]
             },
             {
@@ -4022,29 +3947,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Worker:"
+                "Obrero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now I can sit down and enjoy a coffee. Being able to live my life at "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "my own pace is a real blessing."
+                "Ahora puedo sentarme y disfrutar de un café. Poder\nvivir mi vida a mi propio ritmo es una verdadera\nbendición."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4052,9 +3968,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4106,9 +4020,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4116,9 +4028,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4170,9 +4080,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4180,9 +4088,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4234,9 +4140,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4244,9 +4148,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4298,9 +4200,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4308,9 +4208,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

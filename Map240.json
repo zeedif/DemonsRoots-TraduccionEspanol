@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Staff Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Sala de profesores",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 20,
   "note": "",
@@ -3095,9 +3093,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3105,9 +3101,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3177,14 +3171,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A strong enemy is enshrined here. Will you take on this "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "reckless challenge?"
+                "Un enemigo poderoso se encuentra aquí. ¿Aceptas\neste desafío temerario?"
               ]
             },
             {
@@ -3192,7 +3179,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -3206,7 +3193,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -3222,9 +3209,7 @@
             {
               "code": 601,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -3241,9 +3226,9 @@
               "parameters": [
                 {
                   "name": "A_scene10",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3266,16 +3251,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -3294,10 +3275,10 @@
                   "list": [
                     {
                       "code": 45,
+                      "indent": null,
                       "parameters": [
                         "$gameSelfSwitches.setValue([240, 3, \"A\"], true)"
-                      ],
-                      "indent": null
+                      ]
                     },
                     {
                       "code": 0
@@ -3315,54 +3296,42 @@
               "parameters": [
                 {
                   "code": 45,
+                  "indent": null,
                   "parameters": [
                     "$gameSelfSwitches.setValue([240, 3, \"A\"], true)"
-                  ],
-                  "indent": null
+                  ]
                 }
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 603,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 353,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 604,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -3375,23 +3344,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3432,9 +3395,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3477,9 +3438,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3487,9 +3446,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3552,29 +3509,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the staff room. Only faculty members are allowed "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "inside. Please leave."
+                "Esta es la sala de profesores. Solo se permite la\nentrada al profesorado. Por favor, salgan."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3582,9 +3530,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3647,21 +3593,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The students are currently staving off intruders, so they "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "need orderly instruction. "
+                "Actualmente los estudiantes están manteniendo a\nraya a los intrusos, por lo que necesitan una\ninstrucción ordenada."
               ]
             },
             {
@@ -3678,21 +3617,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You need to take prompt action when it comes to status effects."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Prioritize Bleed and Poison when applying healing magic."
+                "Debes actuar con rapidez ante los efectos de\nestado. Prioriza el sangrado y el veneno al\naplicar magia curativa."
               ]
             },
             {
@@ -3709,29 +3641,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Your damage output will temporarily drop, but regular medical"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "treatment is more important than that."
+                "El daño que puedes causar disminuirá\ntemporalmente, pero el tratamiento médico regular\nes más importante que eso."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3739,9 +3662,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3804,22 +3725,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm preparing for my classes. Please don't disturb me."
+                "Me estoy preparando para mis clases. Por favor, no\nme molesten."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3827,9 +3746,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3892,29 +3809,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Teacher:"
+                "Maestro:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The tests that need grading keep piling up. I don't know who you are, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "but I don't have time to talk."
+                "Los exámenes que hay que calificar se acumulan. No\nsé quién eres, pero no tengo tiempo para hablar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3922,9 +3830,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3976,9 +3882,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3986,9 +3890,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4159,9 +4061,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4169,9 +4069,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4214,9 +4112,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4224,9 +4120,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4397,9 +4291,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4407,9 +4299,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4452,9 +4342,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4462,9 +4350,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4536,14 +4422,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Don't get too close to that monster. It'll kill you."
+                "No te acerques demasiado a ese monstruo. Te\nmatará."
               ]
             },
             {
@@ -4560,21 +4446,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Both the students and teachers keep an eye on it. Even if everyone "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "got together, we wouldn't be able to beat it."
+                "Tanto los alumnos como los profesores lo vigilan.\nAunque todos nos uniéramos, no podríamos\nsuperarlo."
               ]
             },
             {
@@ -4591,21 +4470,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was sent here to stop that monster from acting up, but it's not"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "totally within my control. One slip-up and I'm dead."
+                "Me enviaron aquí para detener a ese monstruo, pero\nno está totalmente bajo mi control. Un desliz y\nestoy muerto."
               ]
             },
             {
@@ -4622,21 +4494,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My father was the one in charge of it before me. One day I'll get my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "revenge for what it did to him."
+                "Mi padre estuvo a cargo de esto antes que yo.\nAlgún día me vengaré de lo que le hicieron."
               ]
             },
             {
@@ -4651,9 +4516,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4661,9 +4524,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4726,21 +4587,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You defeated that monster? Incredible... How did you learn "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "its weakness?"
+                "¿Venceste a ese monstruo? Increíble... ¿Cómo\ndescubriste su debilidad?"
               ]
             },
             {
@@ -4757,21 +4611,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll get mad if you tell Maximus you took it down. They'll drop my "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "wages right through the floor."
+                "Me enojaré si le dices a Maximus que lo quitaste.\nMe bajarán el sueldo por los suelos."
               ]
             },
             {
@@ -4788,14 +4635,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, thanks. Here, take this."
+                "Aun así, gracias. Toma, toma esto."
               ]
             },
             {
@@ -4828,9 +4675,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4838,9 +4683,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4903,21 +4746,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This staff room's really small. If we sealed it off and released a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "bunch of monsters inside…"
+                "Esta sala de profesores es muy pequeña. Si la\nselláramos y liberáramos a un montón de monstruos\ndentro..."
               ]
             },
             {
@@ -4934,21 +4770,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The teachers and I could probably deal with the magical organism. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "We've been considering it."
+                "Los profesores y yo probablemente podríamos lidiar\ncon el organismo mágico. Lo hemos estado\nconsiderando."
               ]
             },
             {
@@ -4965,21 +4794,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Monster Tamer:"
+                "Domador de monstruos:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good thing everything got handled before it became a problem. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "You're the savior of the staff room."
+                "Menos mal que todo se solucionó antes de que se\nconvirtiera en un problema. Eres el salvador de la\nsala de profesores."
               ]
             },
             {
@@ -4994,9 +4816,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5004,9 +4824,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

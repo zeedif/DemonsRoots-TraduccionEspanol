@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Noble's Private Quarters - One",
-  "encounterList": [
-
-  ],
+  "displayName": "Habitaciones privadas del noble - Uno",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 20,
   "note": "",
@@ -3561,22 +3559,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Foreign Queen:"
+                "Reina extranjera:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please... Someone, anyone, end this nightmare..."
+                "Por favor... Alguien, quien sea, acabe con esta\npesadilla..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3584,9 +3580,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3649,14 +3643,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Knight:"
+                "Caballero Imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "P-Please, wait! I don't want to fight!"
+                "¡P-Por favor, espera! ¡No quiero pelear!"
               ]
             },
             {
@@ -3673,21 +3667,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Knight:"
+                "Caballero Imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Y-You're planning on attacking the Emperor, right? That's why "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you're starting this massive battle?"
+                "¿Planeas atacar al Emperador, verdad? ¿Por eso\nestás iniciando esta batalla masiva?"
               ]
             },
             {
@@ -3704,21 +3691,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Knight:"
+                "Caballero Imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Th-This is the queen of my homeland! I surrendered to the Empire "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in hopes of being able to support her in some way!"
+                "¡Esta es la reina de mi patria! ¡Me entregué al\nImperio con la esperanza de poder apoyarla de\nalguna manera!"
               ]
             },
             {
@@ -3735,14 +3715,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Knight:"
+                "Caballero Imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So I want to believe you can win! Please, take this with you!"
+                "¡Quiero creer que puedes ganar! ¡Por favor,\nllévate esto!"
               ]
             },
             {
@@ -3751,9 +3731,9 @@
               "parameters": [
                 {
                   "name": "SC_item1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3792,9 +3772,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3802,9 +3780,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3858,29 +3834,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Imperial Knight:"
+                "Caballero Imperial:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are many people like me under the Empire. The Emperor..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He's taken everything from us."
+                "Hay mucha gente como yo bajo el Imperio. El\nEmperador... Nos lo ha quitado todo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3888,9 +3855,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3945,9 +3910,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3955,9 +3918,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4000,9 +3961,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4010,9 +3969,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4083,16 +4040,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4100,9 +4053,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4154,9 +4105,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4164,9 +4113,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4209,9 +4156,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4219,9 +4164,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4298,9 +4241,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4308,9 +4249,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

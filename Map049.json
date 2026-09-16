@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Prison of Warning - Torture Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Prisión de Advertencia - Sala de Tortura",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 40,
   "note": "<Darkness:250>",
@@ -10881,14 +10879,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I-I can't... The torture... My body won't move..."
+                "No puedo... La tortura... Mi cuerpo no se mueve..."
               ]
             },
             {
@@ -10905,21 +10903,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's no escape from this place. The walls don't have a single crack, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and the guards are constantly on alert."
+                "No hay escapatoria de este lugar. Las paredes no\ntienen ni una sola grieta y los guardias están en\nconstante alerta."
               ]
             },
             {
@@ -10936,21 +10927,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, I did hear a rumor that the deepest part of the Execution Dungeon "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "is connected to the outside."
+                "Aun así, escuché un rumor de que la parte más\nprofunda de la Mazmorra de Ejecución está\nconectada con el exterior."
               ]
             },
             {
@@ -10967,29 +10951,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're going to go, you should probably do it while your body "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "can still move."
+                "Si vas a ir, probablemente deberías hacerlo\nmientras tu cuerpo todavía pueda moverse."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -10997,9 +10972,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11053,14 +11026,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I-I can't... The torture... My body..."
+                "No puedo... La tortura... Mi cuerpo..."
               ]
             },
             {
@@ -11077,14 +11050,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Who are you? Eh? You're going to help me?"
+                "¿Quién eres? ¿Eh? ¿Vas a ayudarme?"
               ]
             },
             {
@@ -11101,29 +11074,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Haha... A pretty girl's sending me off to the next world. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "This is pretty nice. "
+                "Jaja... Una chica guapa me está enviando al otro\nmundo. Esto es muy bonito."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11131,9 +11095,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11196,21 +11158,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This magic device transmits the suffering of the prisoners for our "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "audience's viewing pleasure."
+                "Este dispositivo mágico transmite el sufrimiento\nde los prisioneros para el placer visual de\nnuestro público."
               ]
             },
             {
@@ -11227,29 +11182,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I have to fix it when it breaks down, which is a pain in the ass."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Just let me torment the prisoners, damn it."
+                "Tengo que arreglarlo cuando se rompe, lo cual es\nun rollo. Déjame atormentar a los prisioneros,\nmaldita sea."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11257,9 +11203,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11338,9 +11282,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11348,9 +11290,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11393,9 +11333,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11403,9 +11341,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11459,14 +11395,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Who the hell are you!? How'd you get in here!?"
+                "¿Quién demonios eres? ¿Cómo entraste aquí?"
               ]
             },
             {
@@ -11502,9 +11438,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11512,9 +11446,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11557,9 +11489,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11567,9 +11497,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11632,21 +11560,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, you're already up and about, even after I gave you such a "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "good thrashing yesterday."
+                "Oh, ya estás de pie y en movimiento, incluso\ndespués de que te di una buena paliza ayer."
               ]
             },
             {
@@ -11663,29 +11584,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You really are something special. I'll have to put more effort "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "into it. Hehehe..."
+                "Eres realmente especial. Tendré que esforzarme\nmás. Jejeje..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11693,9 +11605,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11749,21 +11659,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "St-Stop! This is an imperial facility! Do you know what'll happen to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "you if you do this!?"
+                "¡Alto! ¡Estas instalaciones son imperiales! ¿Sabes\nqué te pasará si haces esto?"
               ]
             },
             {
@@ -11782,9 +11685,9 @@
               "parameters": [
                 {
                   "name": "A_scene7",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -11799,9 +11702,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11809,9 +11710,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11854,9 +11753,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11864,9 +11761,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -11929,21 +11824,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hehehe... You turn me on when you're all beat-up too. I'm going to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "fuck you right in front of the magic device again."
+                "Jejeje... Tú también me excitas cuando estás toda\nmachacada. Voy a follarte otra vez justo delante\ndel aparato mágico."
               ]
             },
             {
@@ -11960,29 +11848,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The entire world will be able to see you. Bet it makes you want to "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "cry happy tears, huh?"
+                "Todo el mundo podrá verte. Seguro que te dan ganas\nde llorar de alegría, ¿no?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -11990,9 +11869,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12046,21 +11923,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh? You're the prisoners who've been sneaking around, aren't you?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'll burn your soles and put an end to that."
+                "¿Ah, sí? Son los prisioneros que han estado\nmerodeando, ¿no? Les quemaré las plantas de los\npies y acabaré con esto."
               ]
             },
             {
@@ -12079,9 +11949,9 @@
               "parameters": [
                 {
                   "name": "A_scene7",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -12096,9 +11966,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12106,9 +11974,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12151,9 +12017,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12161,9 +12025,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12226,14 +12088,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Get back in your cell. You touch that door and you're done for."
+                "Vuelve a tu celda. Tocas esa puerta y estás\nacabado."
               ]
             },
             {
@@ -12250,22 +12112,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Or maybe you're already done for...? Gehehehehe!"
+                "¿O quizás ya estás acabado? ¡Jejejeje!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12273,9 +12133,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12318,9 +12176,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12328,9 +12184,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12373,9 +12227,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12383,9 +12235,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12461,9 +12311,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12471,9 +12319,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12532,9 +12378,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12542,9 +12386,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12598,22 +12440,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12621,9 +12454,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12682,9 +12513,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12692,9 +12521,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12748,22 +12575,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12771,9 +12589,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12832,9 +12648,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12842,9 +12656,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12898,22 +12710,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12921,9 +12724,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -12982,9 +12783,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -12992,9 +12791,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13048,22 +12845,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13071,9 +12859,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13132,9 +12918,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13142,9 +12926,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13198,22 +12980,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13221,9 +12994,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13286,14 +13057,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Enter the Execution Dungeon?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "*Saving is disabled inside the dungeon."
+                "¿Entrar a la mazmorra de ejecución? *El guardado\nestá deshabilitado dentro de la mazmorra."
               ]
             },
             {
@@ -13301,7 +13065,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -13315,7 +13079,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -13358,9 +13122,9 @@
               "parameters": [
                 {
                   "name": "Open8",
-                  "volume": 100,
+                  "pan": 0,
                   "pitch": 60,
-                  "pan": 0
+                  "volume": 100
                 }
               ]
             },
@@ -13418,9 +13182,9 @@
               "parameters": [
                 {
                   "name": "Move5",
-                  "volume": 100,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 100
                 }
               ]
             },
@@ -13445,16 +13209,12 @@
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 137,
@@ -13550,9 +13310,9 @@
               "parameters": [
                 {
                   "name": "8_dungeon",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -13584,9 +13344,7 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -13599,23 +13357,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13623,9 +13375,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13831,9 +13581,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13841,9 +13589,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13906,29 +13652,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The news says the number of slaves has risen again. Maybe all of"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "humanity will end up as slaves eventually. Haha... Yeah, right."
+                "Las noticias dicen que el número de esclavos ha\nvuelto a aumentar. Quizás toda la humanidad acabe\nsiendo esclava. Jaja... Sí, claro."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -13936,9 +13673,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -13992,14 +13727,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh? What's this? You want another round? ...Ack!? What the hell!?"
+                "¿Ah? ¿Qué es esto? ¿Quieres otra ronda? ...¡Ajá!\n¿Qué demonios?"
               ]
             },
             {
@@ -14035,9 +13770,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14045,9 +13778,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14090,9 +13821,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14100,9 +13829,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14165,14 +13892,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't take anything with you into the Execution Dungeon."
+                "No puedes llevar nada contigo a la mazmorra de\nejecución."
               ]
             },
             {
@@ -14189,21 +13916,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Not a single thing. You can't even bring a pen and paper to keep "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a record with."
+                "Ni una sola cosa. Ni siquiera puedes llevar\nbolígrafo y papel para anotar."
               ]
             },
             {
@@ -14220,22 +13940,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The moment you step inside, you're dead."
+                "En el momento que entras, estás muerto."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14243,9 +13961,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14299,14 +14015,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Who are you people? You smell like the outside world."
+                "¿Quiénes son ustedes? Huelen como el mundo\nexterior."
               ]
             },
             {
@@ -14323,22 +14039,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Raggedy Prisoner:"
+                "Prisionero andrajoso:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Have you come to save me? No... No, that's impossible."
+                "¿Has venido a salvarme? No... No, eso es\nimposible."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14346,9 +14060,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14436,9 +14148,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14446,9 +14156,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14491,9 +14199,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14501,9 +14207,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14546,9 +14250,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14556,9 +14258,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14621,21 +14321,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some of the prisoners think they can escape if they make it through "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "the Execution Dungeon."
+                "Algunos de los prisioneros creen que pueden\nescapar si logran atravesar la mazmorra de\nejecución."
               ]
             },
             {
@@ -14652,21 +14345,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What a bunch of morons! I've been in there to do maintenance, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "and there's no exit! "
+                "¡Qué idiotas! ¡He estado ahí haciendo\nmantenimiento y no hay salida!"
               ]
             },
             {
@@ -14683,29 +14369,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then again, even we aren't allowed into the deepest depths of that "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "place. No one knows what goes on there."
+                "Por otra parte, ni siquiera a nosotros se nos\npermite adentrarnos en lo más profundo de ese\nlugar. Nadie sabe qué ocurre allí."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14713,9 +14390,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14769,14 +14444,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's this!? An uprising!?"
+                "¿Qué es esto? ¿Un levantamiento?"
               ]
             },
             {
@@ -14812,9 +14487,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14822,9 +14495,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14867,9 +14538,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14877,9 +14546,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -14938,9 +14605,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -14948,9 +14613,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15004,22 +14667,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The humans displayed on the magical device are frowning"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "in this direction."
+                "Los humanos que aparecen en el dispositivo mágico\nfruncen el ceño en esta dirección."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15027,9 +14681,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15081,9 +14733,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15091,9 +14741,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15150,16 +14798,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15167,9 +14811,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15228,9 +14870,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15238,9 +14878,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15299,9 +14937,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15309,9 +14945,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15370,9 +15004,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15380,9 +15012,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15441,9 +15071,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15451,9 +15079,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15512,9 +15138,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15522,9 +15146,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15583,9 +15205,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15593,9 +15213,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15654,9 +15272,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15664,9 +15280,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15725,9 +15339,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15735,9 +15347,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15796,9 +15406,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15806,9 +15414,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15867,9 +15473,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -15877,9 +15481,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -15942,21 +15544,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Continental News:"
+                "Noticias continentales:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The continent's system of slavery is undergoing another revision. "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "The population of slaves in every country will increase to 90%."
+                "El sistema de esclavitud del continente está\nexperimentando una nueva revisión. La población\nesclava en cada país aumentará al 90%."
               ]
             },
             {
@@ -15973,21 +15568,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Continental News:"
+                "Noticias continentales:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Slave Internment Camp will be renovated to more efficiently "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "rear slaves and ensure a stable supply."
+                "Se renovará el campo de internamiento de esclavos\npara criar esclavos de manera más eficiente y\ngarantizar un suministro estable."
               ]
             },
             {
@@ -16004,29 +15592,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Continental News:"
+                "Noticias continentales:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This will lead to an abundant labor force and stable global economy."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Humanity will have a richer, happier, and more blessed lives."
+                "Esto generará una fuerza laboral abundante y una\neconomía global estable. La humanidad disfrutará\nde una vida más plena, feliz y bendecida."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16034,9 +15613,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16086,9 +15663,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16096,9 +15671,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16192,21 +15765,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Any prisoners who want to face the Execution Dungeon, write your"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "prisoner number on the list... Ah!"
+                "Cualquier prisionero que quiera enfrentarse a la\nMazmorra de Ejecución, escriba su número de\nprisionero en la lista... ¡Ah!"
               ]
             },
             {
@@ -16223,14 +15789,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guard:"
+                "Guardia:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can't write like that, huh? Want me to do it for you? Gehehe..."
+                "No puedes escribir así, ¿eh? ¿Quieres que lo haga\npor ti? Jejeje..."
               ]
             },
             {
@@ -16247,14 +15813,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Which prisoner number is last on the list?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "*This will change the final Bad End event."
+                "¿Qué número de prisionero es el último en la\nlista? *Esto cambiará el evento final del Mal\nFinal."
               ]
             },
             {
@@ -16262,12 +15821,12 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Prisoner SS00021",
-                  "Prisoner CA59335",
-                  "Prisoner CS27677if(s[133])",
-                  "Prisoner AB01576if(s[146])",
-                  "Prisoner SC00238if(s[186])",
-                  "Prisoner SS00022if(s[245])"
+                  "Prisionero SS00021",
+                  "Prisionero CA59335",
+                  "Prisionero CS27677if(s[133])",
+                  "Prisionero AB01576if(s[146])",
+                  "Prisionero SC00238if(s[186])",
+                  "Prisionero SS00022if(s[245])"
                 ],
                 -1,
                 0,
@@ -16280,7 +15839,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Prisoner SS00021"
+                "Prisionero SS00021"
               ]
             },
             {
@@ -16297,16 +15856,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Prisoner CA59335"
+                "Prisionero CA59335"
               ]
             },
             {
@@ -16323,16 +15880,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Prisoner CS27677if(s[133])"
+                "Prisionero CS27677if(s[133])"
               ]
             },
             {
@@ -16349,16 +15904,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 3,
-                "Prisoner AB01576if(s[146])"
+                "Prisionero AB01576if(s[146])"
               ]
             },
             {
@@ -16375,16 +15928,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 4,
-                "Prisoner SC00238if(s[186])"
+                "Prisionero SC00238if(s[186])"
               ]
             },
             {
@@ -16401,16 +15952,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 5,
-                "Prisoner SS00022if(s[245])"
+                "Prisionero SS00022if(s[245])"
               ]
             },
             {
@@ -16427,24 +15976,20 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "Prisoner SS00001if(s[303])",
-                  "Write a random number if(s[328])"
+                  "Prisionero SS00001if(s[303])",
+                  "Escribe un número aleatorio if(s[328])"
                 ],
                 -1,
                 0,
@@ -16457,7 +16002,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Prisoner SS00001if(s[303])"
+                "Prisionero SS00001if(s[303])"
               ]
             },
             {
@@ -16474,16 +16019,14 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 1,
-                "Write a random number if(s[328])"
+                "Escribe un número aleatorio if(s[328])"
               ]
             },
             {
@@ -16500,16 +16043,12 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -16553,9 +16092,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16563,9 +16100,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16608,9 +16143,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16618,9 +16151,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16663,9 +16194,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16673,9 +16202,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16727,9 +16254,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16737,9 +16262,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16782,9 +16305,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16792,9 +16313,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -16949,9 +16468,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -16959,9 +16476,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17004,9 +16519,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17014,9 +16527,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17104,9 +16615,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17114,9 +16623,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17159,9 +16666,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17169,9 +16674,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17214,9 +16717,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17224,9 +16725,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17325,9 +16824,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17335,9 +16832,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17380,9 +16875,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17390,9 +16883,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17435,9 +16926,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17445,9 +16934,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -17506,9 +16993,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -17516,9 +17001,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Shingana's Old Fort Warehouse",
-  "encounterList": [
-
-  ],
+  "displayName": "Antiguo almacén del fuerte de Shingana",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 16,
   "note": "<Darkness:240>",
@@ -1729,7 +1727,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a warm, glowing light. Fully restore the party?"
+                "Hay una luz cálida y brillante. ¿Reiniciarás la\nfiesta por completo?"
               ]
             },
             {
@@ -1737,9 +1735,9 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No",
-                  "Save"
+                  "Guardar"
                 ],
                 1,
                 0,
@@ -1752,7 +1750,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -1803,15 +1801,13 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "The party's HP and MP has been fully restored!"
+                "¡Los HP y MP del grupo han sido restaurados por\ncompleto!"
               ]
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -1824,38 +1820,30 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
               "indent": 0,
               "parameters": [
                 2,
-                "Save"
+                "Ahorrar"
               ]
             },
             {
               "code": 352,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -1869,9 +1857,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -1923,9 +1909,7 @@
               },
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2001,9 +1985,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2011,9 +1993,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2328,9 +2308,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2338,9 +2316,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2383,9 +2359,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2393,9 +2367,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2710,9 +2682,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2720,9 +2690,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -2765,9 +2733,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -2775,9 +2741,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3092,9 +3056,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3102,9 +3064,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3147,9 +3107,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3157,9 +3115,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3218,9 +3174,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3228,9 +3182,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3293,14 +3245,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "E-Eek! Who are you!?"
+                "¡E-Eek! ¿Quién eres tú?"
               ]
             },
             {
@@ -3317,21 +3269,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please, don't tell anyone where I'm hiding! There's no knowing "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "what Shingana will do to me! *Tremble* *Tremble*..."
+                "¡Por favor, no le digas a nadie dónde me escondo!\n¡No sé qué me hará Shingana! *Tiembla*\n*Tiembla*..."
               ]
             },
             {
@@ -3348,21 +3293,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Huh!? You're going to fight the King of Shingana? Impossible! "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "He'll kill you!"
+                "¿Eh? ¿Vas a luchar contra el Rey de Shingana?\n¡Imposible! ¡Te matará!"
               ]
             },
             {
@@ -3379,21 +3317,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Y-You're serious... You should take this, then. It's my trump card."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I got it before my will to fight was broken."
+                "¿Hablas en serio? Entonces deberías tomar esto. Es\nmi carta del triunfo. La conseguí antes de que se\nme quebraran las ganas de luchar."
               ]
             },
             {
@@ -3402,9 +3333,9 @@
               "parameters": [
                 {
                   "name": "SC_item1",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -3443,9 +3374,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3453,9 +3382,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3509,14 +3436,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Seeing how many slaves were tortured here... It broke my heart."
+                "Ver cuántos esclavos fueron torturados aquí... Me\nrompió el corazón."
               ]
             },
             {
@@ -3533,29 +3460,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The screams... The blood... Every time I remember it, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "my body won't stop trembling."
+                "Los gritos... La sangre... Cada vez que lo\nrecuerdo, mi cuerpo no deja de temblar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3563,9 +3481,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3619,14 +3535,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please! Please lea-! ...Huh? You defeated the King of Shingana?"
+                "¡Por favor! ¡Por favor, deja...! ¿Eh? ¿Derrotaste\nal Rey de Shingana?"
               ]
             },
             {
@@ -3643,29 +3559,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Slave Knight:"
+                "Caballero esclavo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought the fortress seemed a little busy... Eh? You mean it?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "I'm... I'm saved?"
+                "Pensé que la fortaleza parecía un poco\nconcurrida... ¿Eh? ¿En serio? Estoy... ¿Estoy a\nsalvo?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3673,9 +3580,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3718,9 +3623,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3728,9 +3631,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

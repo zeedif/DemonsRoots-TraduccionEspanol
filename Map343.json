@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Weapon Storage",
-  "encounterList": [
-
-  ],
+  "displayName": "Almacenamiento de armas",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 20,
   "note": "",
@@ -2961,21 +2959,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cold Housewife:"
+                "Ama de casa fría:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There used to be a park here. The flowers would be in full bloom"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "once the warm weather hit. It was so beautiful..."
+                "Aquí solía haber un parque. Las flores florecían\nen todo su esplendor con la llegada del buen\ntiempo. Era tan hermoso..."
               ]
             },
             {
@@ -2992,21 +2983,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cold Housewife:"
+                "Ama de casa fría:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Then they changed policies and destroyed it all. Now it's used "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "to store weaponry."
+                "Luego cambiaron de política y lo destruyeron todo.\nAhora se usa para almacenar armas."
               ]
             },
             {
@@ -3023,22 +3007,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cold Housewife:"
+                "Ama de casa fría:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe it's better for the country, but it's so oppressive..."
+                "Quizás sea mejor para el país, pero es tan\nopresivo..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3046,9 +3028,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3111,22 +3091,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Quiet Child:"
+                "Niño tranquilo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mom, it's boring here. Can we go home now?"
+                "Mamá, qué aburrido es esto. ¿Podemos irnos a casa\nya?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3134,9 +3112,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3188,9 +3164,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3198,9 +3172,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3271,16 +3243,12 @@
             {
               "code": 214,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3288,9 +3256,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3342,9 +3308,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3352,9 +3316,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3397,9 +3359,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3407,9 +3367,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3483,9 +3441,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3493,9 +3449,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3684,9 +3638,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3694,9 +3646,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3739,9 +3689,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3749,9 +3697,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3940,9 +3886,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3950,9 +3894,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3995,9 +3937,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4005,9 +3945,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

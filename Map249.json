@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Kumin Education Center Exterior",
-  "encounterList": [
-
-  ],
+  "displayName": "Exterior del Centro Educativo Kumin",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 24,
   "note": "",
@@ -3836,9 +3834,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3846,9 +3842,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3914,22 +3908,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a sticker on the door that says:"
+                "Hay una pegatina en la puerta que dice:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\"No entry while the facility's in use.\""
+                "\"No se permite la entrada mientras la instalación\nesté en uso.\""
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3937,9 +3929,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4148,9 +4138,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4158,9 +4146,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4223,29 +4209,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Laborer:"
+                "Obrero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We move pretty much everything via the waterways. It makes "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "transportation nice and easy."
+                "Transportamos prácticamente todo por vías\nfluviales. Esto facilita el transporte."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4253,9 +4230,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4318,22 +4293,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Laborer:"
+                "Obrero:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hup! Hup! Stack up all the packages!"
+                "¡Genial! ¡Genial! ¡Apilad todos los paquetes!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4341,9 +4314,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4395,9 +4366,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4405,9 +4374,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4450,9 +4417,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4460,9 +4425,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4536,9 +4499,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4546,9 +4507,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4600,9 +4559,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4610,9 +4567,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4655,9 +4610,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4665,9 +4618,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4710,9 +4661,7 @@
             {
               "code": 222,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 356,
@@ -4724,9 +4673,7 @@
             {
               "code": 221,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 121,
@@ -4760,9 +4707,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4770,9 +4715,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4815,9 +4758,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4825,9 +4766,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4879,9 +4818,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4889,9 +4826,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4943,9 +4878,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4953,9 +4886,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5007,9 +4938,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5017,9 +4946,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5071,9 +4998,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5081,9 +5006,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5135,9 +5058,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5145,9 +5066,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5199,9 +5118,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5209,9 +5126,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5263,9 +5178,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5273,9 +5186,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5327,9 +5238,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5337,9 +5246,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5391,9 +5298,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5401,9 +5306,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5552,14 +5455,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ahhh... Please, I need money... I'll do anything..."
+                "Ahhh... Por favor, necesito dinero... Haré lo que\nsea..."
               ]
             },
             {
@@ -5576,14 +5479,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A human who's collapsed from the Devil's Drug. You'll need some"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "specific plants to treat him."
+                "Un humano que se desplomó por la Droga del Diablo.\nNecesitarás plantas específicas para tratarlo."
               ]
             },
             {
@@ -5600,21 +5496,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Treat her with the following plants?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "4 Rousing Mushrooms (Owned: \\INUM[9])"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "4 Tomatoes (Owned: \\INUM[82])"
+                "¿Cómo tratarla con las siguientes plantas? 4\nHongos Estimulantes (Propiedad: \\INUM[9]) 4\nTomates (Propiedad: \\INUM[82])"
               ]
             },
             {
@@ -5622,7 +5504,7 @@
               "indent": 0,
               "parameters": [
                 [
-                  "Yes",
+                  "Sí",
                   "No"
                 ],
                 1,
@@ -5636,7 +5518,7 @@
               "indent": 0,
               "parameters": [
                 0,
-                "Yes"
+                "Sí"
               ]
             },
             {
@@ -5687,9 +5569,9 @@
               "parameters": [
                 {
                   "name": "Saint7",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5728,14 +5610,14 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Urgh... Ah? My cravings have disappeared. Did you cure me?"
+                "Urgh... ¿Ah? Se me han quitado las ganas. ¿Me\ncuraste?"
               ]
             },
             {
@@ -5752,21 +5634,14 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "More people are coming to the church every day. I couldn't take "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": [
-                "hearing all the terrible things they've been through."
+                "Cada día viene más gente a la iglesia. No podía\nsoportar oír todas las cosas terribles que habían\npasado."
               ]
             },
             {
@@ -5783,29 +5658,20 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 3,
               "parameters": [
-                "The horrifying pleasure made things easier for a little while, "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": [
-                "but after that it was a living hell. Thank you for saving me."
+                "El horroroso placer me facilitó las cosas por un\nrato, pero después fue un infierno. Gracias por\nsalvarme."
               ]
             },
             {
               "code": 221,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 123,
@@ -5818,9 +5684,7 @@
             {
               "code": 222,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 250,
@@ -5828,9 +5692,9 @@
               "parameters": [
                 {
                   "name": "Item3",
-                  "volume": 90,
+                  "pan": 0,
                   "pitch": 100,
-                  "pan": 0
+                  "volume": 90
                 }
               ]
             },
@@ -5847,16 +5711,12 @@
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -5872,36 +5732,28 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "You don't have the necessary items."
+                "No tienes los artículos necesarios"
               ]
             },
             {
               "code": 0,
               "indent": 3,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 411,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 101,
@@ -5917,29 +5769,23 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You don't have the necessary items."
+                "No tienes los artículos necesarios"
               ]
             },
             {
               "code": 0,
               "indent": 2,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 412,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 402,
@@ -5952,23 +5798,17 @@
             {
               "code": 0,
               "indent": 1,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 404,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5976,9 +5816,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6032,21 +5870,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wasn't far from doing something I could never take back."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "All to afford that increasingly expensive drug."
+                "Estaba a punto de hacer algo que jamás podría\nretractarme. Todo para poder pagar esa droga cada\nvez más cara."
               ]
             },
             {
@@ -6063,22 +5894,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nun:"
+                "Monja:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Drugs are truly terrifying things..."
+                "Las drogas son cosas verdaderamente aterradoras..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6086,9 +5915,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6151,21 +5978,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rehabilitated Man:"
+                "Hombre rehabilitado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be nothing but a waste of space. Thanks to this "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "educational center, I was able to turn my life around."
+                "Antes no era más que un desperdicio de espacio.\nGracias a este centro educativo, pude darle un\ngiro a mi vida."
               ]
             },
             {
@@ -6182,29 +6002,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rehabilitated Man:"
+                "Hombre rehabilitado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now I have a beautiful wife and six kids. We all live good lives"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "together. I'm so grateful I found this place."
+                "Ahora tengo una esposa hermosa y seis hijos. Todos\nvivimos bien juntos. Estoy muy agradecido de haber\nencontrado este lugar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6212,9 +6023,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6268,21 +6077,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rehabilitated Man:"
+                "Hombre rehabilitado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be nothing but a waste of space. Thanks to this "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "educational center, I was able to turn my life around."
+                "Antes no era más que un desperdicio de espacio.\nGracias a este centro educativo, pude darle un\ngiro a mi vida."
               ]
             },
             {
@@ -6299,29 +6101,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Rehabilitated Man:"
+                "Hombre rehabilitado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now I have a beautiful wife and six kids. We all live good lives"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "together. I'm so grateful I found this place."
+                "Ahora tengo una esposa hermosa y seis hijos. Todos\nvivimos bien juntos. Estoy muy agradecido de haber\nencontrado este lugar."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6329,9 +6122,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6383,9 +6174,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6393,9 +6182,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6468,9 +6255,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6478,9 +6263,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -6523,9 +6306,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -6533,9 +6314,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,

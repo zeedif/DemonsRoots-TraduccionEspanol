@@ -16,10 +16,8 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Luxury Hotel 3F Exhibition Room",
-  "encounterList": [
-
-  ],
+  "displayName": "Sala de exposiciones del tercer piso del hotel de lujo",
+  "encounterList": [],
   "encounterStep": 30,
   "height": 25,
   "note": "",
@@ -3657,9 +3655,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3667,9 +3663,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3712,9 +3706,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3722,9 +3714,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3913,9 +3903,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3923,9 +3911,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -3968,9 +3954,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -3978,9 +3962,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4032,9 +4014,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4042,9 +4022,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4096,9 +4074,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4106,9 +4082,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4171,22 +4145,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captured Father:"
+                "Padre capturado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They stole all my designer suits and shirts!"
+                "¡Me robaron todos mis trajes y camisas de\ndiseñador!"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4194,9 +4166,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4259,29 +4229,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Beaten-Up Noble:"
+                "Noble golpeado:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ugh... They gave me such a beating. They forced me to hand over"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "everything I own."
+                "Ugh... Me dieron una paliza brutal. Me obligaron a\nentregar todo lo que tengo."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4289,9 +4250,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4354,29 +4313,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Noble's Wife:"
+                "La esposa del noble:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was a nightmare... They tortured my husband, and I couldn't do "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "anything to stop them..."
+                "Fue una pesadilla... Torturaron a mi marido y no\npude hacer nada para detenerlos..."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4384,9 +4334,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4449,29 +4397,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captive Guest:"
+                "Invitado cautivo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What the hell's with them!? What are they going to do with all the "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "money they've taken!?"
+                "¿Qué demonios les pasa? ¿Qué van a hacer con todo\nel dinero que se han llevado?"
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4479,9 +4418,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4544,29 +4481,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captive Guest:"
+                "Invitado cautivo:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They didn't hold back at all. It almost felt like they had some "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "personal grudge against us."
+                "No se contuvieron en absoluto. Casi parecía que\nnos guardaban rencor."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4574,9 +4502,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4639,7 +4565,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captive Guest:"
+                "Invitado cautivo:"
               ]
             },
             {
@@ -4652,9 +4578,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4662,9 +4586,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4716,9 +4638,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4726,9 +4646,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4780,9 +4698,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4790,9 +4706,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4844,9 +4758,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4854,9 +4766,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -4919,7 +4829,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guest:"
+                "Invitado:"
               ]
             },
             {
@@ -4932,9 +4842,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -4942,9 +4850,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5007,7 +4913,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guest:"
+                "Invitado:"
               ]
             },
             {
@@ -5020,9 +4926,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5030,9 +4934,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5084,9 +4986,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5094,9 +4994,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5148,9 +5046,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5158,9 +5054,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5236,9 +5130,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5246,9 +5138,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5324,9 +5214,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5334,9 +5222,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5388,9 +5274,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5398,9 +5282,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5463,21 +5345,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captured Woman:"
+                "Mujer capturada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When Plana held its death matches, I enjoyed the coliseum "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "as a spectator."
+                "Cuando Plana celebraba sus combates a muerte,\ndisfrutaba del coliseo como espectador."
               ]
             },
             {
@@ -5494,22 +5369,20 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Captured Woman:"
+                "Mujer capturada:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe... Maybe this is karma."
+                "Tal vez... Tal vez esto sea karma."
               ]
             },
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5517,9 +5390,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5901,9 +5772,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5911,9 +5780,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
@@ -5956,9 +5823,7 @@
             {
               "code": 0,
               "indent": 0,
-              "parameters": [
-
-              ]
+              "parameters": []
             }
           ],
           "moveFrequency": 3,
@@ -5966,9 +5831,7 @@
             "list": [
               {
                 "code": 0,
-                "parameters": [
-
-                ]
+                "parameters": []
               }
             ],
             "repeat": true,
