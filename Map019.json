@@ -2607,7 +2607,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -4375,14 +4375,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn:"
+                "Innkeeper:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's 200 Iru a night. Would you like to rest?"
+                "It's two hundred iru a night. Would you like to rest?"
               ]
             },
             {
@@ -4467,7 +4467,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -4505,21 +4505,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Inn:"
+                "Innkeeper:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You have no money? Not even 200 Iru...? Well, I'll let you stay"
+                "You don't have any money? Not even two hundred iru? I'll let you "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "one night for free. We need to look out for each other, after all."
+                "stay a night for free. We need to look out for each other, after all."
               ]
             },
             {
@@ -4563,7 +4563,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -4758,14 +4758,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I remember seeing the paper shows about demons when I was a child."
+                "I remember seeing the picture-story shows about demons when "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I always wanted to see a real one."
+                "I was a child. I always wanted to see a real one."
               ]
             },
             {
@@ -4837,14 +4837,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Inn:"
+                "Innkeeper:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's 200 Iru a night. Would you like to rest?"
+                "It's two hundred iru a night. Would you like to rest?"
               ]
             },
             {
@@ -4929,7 +4929,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -4967,21 +4967,21 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Inn:"
+                "Innkeeper:"
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "You have no money? Not even 200 Iru...? Well, I'll let you stay"
+                "You don't have any money? Not even two hundred iru? I'll let you "
               ]
             },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "one night for free. We need to look out for each other, after all."
+                "stay a night for free. We need to look out for each other, after all."
               ]
             },
             {
@@ -5025,7 +5025,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -7380,14 +7380,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I found something interesting in the human's castle. Here,"
+                "I found something interesting in the humans' castle. Here, you can "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you can have it!"
+                "have it."
               ]
             },
             {
@@ -7438,7 +7438,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Received one Book!"
+                "Obtained a Book!"
               ]
             },
             {
@@ -7455,21 +7455,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                " - Books -"
+                "- Books -"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Books are experience items. Use them to level up a character from"
+                "Books are items that provide experience. Use them to level up a "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the item menu."
+                "character from the Items menu."
               ]
             },
             {
@@ -7493,7 +7493,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh? You've got one, too. I heard that strong enemies drop books."
+                "Huh? You've got one too. I heard strong enemies drop books."
               ]
             },
             {
@@ -7596,14 +7596,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a library down the stairs. If you want to brush up on your"
+                "There's a library downstairs. If you want to brush up on your battle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "battle knowledge, that'd be the place to do it."
+                "knowledge, that'd be the place to do it."
               ]
             },
             {
@@ -7664,10 +7664,10 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "a08",
+            "characterName": "Kids1",
             "direction": 2,
             "pattern": 1,
-            "characterIndex": 0
+            "characterIndex": 2
           },
           "list": [
             {
@@ -7988,14 +7988,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey! Wanna go to Peace Park? The Castle? We can even take you"
+                "Hey! Wanna go to Peace Park? The castle? We can even take you to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to another country, express delivery!"
+                "another country, express delivery!"
               ]
             },
             {
@@ -8347,7 +8347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "people just keep adding on more... *Mutter Mutter*"
+                "people keep making more work for me... *Mutter* *Mutter*..."
               ]
             },
             {
@@ -8509,14 +8509,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eeep! Wh-Who are you!?"
+                "E-Eek! Who are you!?"
               ]
             },
             {
@@ -8533,14 +8533,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please, don't tell anyone where I'm hiding! "
+                "Please, don't tell anyone where I'm hiding! There's no knowing "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "what Shingana will do to me! *Tremble* *Tremble*..."
               ]
             },
             {
@@ -8557,14 +8564,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh? You're going to fight the King of Shingana? Impossible! "
+                "...Huh!? You're going to fight the King of Shingana? Impossible! "
               ]
             },
             {
@@ -8588,7 +8595,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
@@ -8602,7 +8609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I got it before my will to fight was completely broken."
+                "I got it before my will to fight was broken."
               ]
             },
             {
@@ -8718,21 +8725,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The screams, the blood... Every time I remember it, my body"
+                "Seeing how many slaves were tortured here... It broke my heart."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "won't stop trembling."
+                "Slave Knight:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The screams... The blood... Every time I remember it, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "my body won't stop trembling."
               ]
             },
             {
@@ -8804,14 +8835,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please! Please lea- Huh? You... You defeated the King of Shingana?"
+                "Please! Please lea-! ...Huh? You defeated the King of Shingana?"
               ]
             },
             {
@@ -8828,14 +8859,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought the fortress seemed very busy... Eh? You mean it?"
+                "I thought the fortress seemed a little busy... Eh? You mean it?"
               ]
             },
             {
@@ -9557,14 +9588,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's a library down the stairs. If you want to brush up on your"
+                "There's a library downstairs. If you want to brush up on your battle "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "battle knowledge, that'd be the place to do it."
+                "knowledge, that'd be the place to do it."
               ]
             },
             {
@@ -10197,14 +10228,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's only a few days until the Saint Colosseum begins. We don't"
+                "There are only a few days until the Saint Coliseum begins. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "have time to go visiting other countries right now."
+                "We don't have time to visit other countries right now."
               ]
             },
             {
@@ -10314,14 +10345,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Today's the day the Saint Colosseum begins. We don't have time "
+                "Today's the day the Saint Coliseum begins. We don't have time to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to go visiting other countries right now."
+                "visit other countries right now."
               ]
             },
             {
@@ -11166,14 +11197,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey! Wanna go to Peace Park? The Castle? We can even take you"
+                "Hey! Wanna go to Peace Park? The castle? We can even take you to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to another country, express delivery!"
+                "another country, express delivery!"
               ]
             },
             {
@@ -14724,14 +14755,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The Magic Cannon... The Radiant Toweris to the left "
+                "The Magic Cannon... The Radiant Tower is to the left of the plaza! "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of the plaza! Let's hurry!"
+                "Let us hurry!"
               ]
             },
             {
@@ -17905,7 +17936,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A video is being broadcast."
+                "A video's being broadcast from the Slave Internment Camp."
               ]
             },
             {
@@ -18305,7 +18336,7 @@
                 [
                   "Subjugation +5",
                   "+9999 Gacha Stones",
-                  "+9999 Coins",
+                  "+9999 Fuckoins",
                   "Level Up Items",
                   "Add Powerful Equipment",
                   "Add Useful Items"
@@ -18372,7 +18403,7 @@
               "indent": 0,
               "parameters": [
                 2,
-                "+9999 Coins"
+                "+9999 Fuckoins"
               ]
             },
             {

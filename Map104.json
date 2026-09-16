@@ -20998,6 +20998,358 @@
             "actorValid": false,
             "itemId": 1,
             "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 17,
+            "variableValid": false,
+            "variableValue": 80
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "b09",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "indicator : heart : 0 : 10"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "pulse_indicator : 0.003"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "range_indicator : 7"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bohelos Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "A-Ah! You're Saint Bohelos!"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bohelos Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You've been frequenting DoReMi Fuckingdom, right? I heard they "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "only accept Spirit Stones as currency."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bohelos Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Please, let me assist you. I can give you these five Spirit Stones... "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\}if you let me fuck you."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Deathpolca catches the Bohelos Gentleman's eye. Accept his request?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                99,
+                99,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                209
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                99,
+                99,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
+              "parameters": [
+                6,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                949,
+                949,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
+                "TimeEvent off 120分 100% \\S[949]"
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Bohelos Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I simply want to support you out of the goodness of my heart!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\}...And maybe get my rocks off at the same time."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 17,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  120
+                ],
+                "indent": null
+              },
+              {
+                "code": 18,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  120
+                ],
+                "indent": null
+              },
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
             "selfSwitchCh": "D",
             "selfSwitchValid": false,
             "switch1Id": 949,
@@ -22185,7 +22537,642 @@
       "x": 33,
       "y": 8
     },
-    null,
+    {
+      "id": 46,
+      "name": "最上級紳士",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 17,
+            "variableValid": false,
+            "variableValue": 80
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "c07",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "indicator : heart : 0 : 10"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "pulse_indicator : 0.003"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "range_indicator : 6"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You! You're the murderer Lily Killer!"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Please, hear my story. I was raised in a very strict environment. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "They wanted me to excel, and every day felt like torture."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That ends today! I want my life to end at the hands of a "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "beautiful killer!"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "...I know. I've heard you spend time in DoReMi Fuckingdom."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Will you accept my request for five Spirit Stones? I want to have"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "one good memory to take to my grave."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Lily Killer catches the Dangerous Gentleman's eye. Accept his request?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                99,
+                99,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                268
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                99,
+                99,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 126,
+              "indent": 1,
+              "parameters": [
+                6,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                955,
+                955,
+                0
+              ]
+            },
+            {
+              "code": 356,
+              "indent": 1,
+              "parameters": [
+                "TimeEvent off 120分 100% \\S[955]"
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Dangerous Gentleman:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "No? I see... Understandable. Who would want to lay with a man as"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "worthless as me?"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 17,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  120
+                ],
+                "indent": null
+              },
+              {
+                "code": 18,
+                "indent": null
+              },
+              {
+                "code": 15,
+                "parameters": [
+                  120
+                ],
+                "indent": null
+              },
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 3,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": false,
+            "switch1Id": 955,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 17,
+            "variableValid": false,
+            "variableValue": 100
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "D",
+            "selfSwitchValid": false,
+            "switch1Id": 363,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 17,
+            "variableValid": false,
+            "variableValue": 100
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 3
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1003,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 34
+    },
     {
       "id": 47,
       "name": "EV047",
@@ -23008,7 +23995,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Agh! They laid an ambush!?"
+                "Agh! They were lying in ambush!?"
               ]
             },
             {
@@ -23039,7 +24026,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "have already set up a countermeasures!?"
+                "have already set up countermeasures!?"
               ]
             },
             {
@@ -23548,14 +24535,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#Gilhound has left the party."
+                "\\#Gilhound left the party."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\#Received the Insignia of Determination."
+                "\\#Obtained an Insignia of Determination."
               ]
             },
             {
@@ -27248,14 +28235,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're headed for the throne room! Bohelos Castle is at the top "
+                "We're headed for the throne room! Bohelos Castle is at the top of "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of the big staircase!"
+                "the big staircase!"
               ]
             },
             {
@@ -27372,14 +28359,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We'll head for Bohelos's Estate. If we head to the right "
+                "We'll stop by Bohelos's Estate. If we head to the right, we should "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "we should find it."
+                "find it."
               ]
             },
             {
@@ -27814,7 +28801,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We finally get a day off. Let's use to to just relax."
+                "We finally get a day off. Let's just use it to relax."
               ]
             },
             {
@@ -27931,14 +28918,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There aren't many gardemons around who can give us a lift. Let's"
+                "There aren't many gardemons around who can give us a lift. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ask the one at the estate."
+                "Let's ask the one at the estate."
               ]
             },
             {
@@ -28249,7 +29236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Now's not the time for a journey. We need to get to Bohelos Castle."
+                "Now's not the time for a detour. We need to get to Bohelos Castle."
               ]
             },
             {
@@ -30126,7 +31113,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -30343,7 +31330,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -31767,7 +32754,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -32655,7 +33642,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -32791,7 +33778,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -32927,7 +33914,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33063,7 +34050,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33199,7 +34186,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33335,7 +34322,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33471,7 +34458,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33607,7 +34594,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33743,7 +34730,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -33879,7 +34866,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34015,7 +35002,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34151,7 +35138,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34287,7 +35274,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34478,7 +35465,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34614,7 +35601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34750,7 +35737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -34886,7 +35873,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35022,7 +36009,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35158,7 +36145,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35294,7 +36281,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35430,7 +36417,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35566,7 +36553,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35702,7 +36689,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -35838,7 +36825,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -36365,7 +37352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -36501,7 +37488,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -36637,7 +37624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -36773,7 +37760,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37181,7 +38168,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37317,7 +38304,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37453,7 +38440,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37589,7 +38576,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37725,7 +38712,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -37861,7 +38848,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -37997,7 +38984,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -38133,7 +39120,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -38269,7 +39256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -38932,7 +39919,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -39068,7 +40055,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -39204,7 +40191,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -39697,7 +40684,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -39833,7 +40820,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -40343,7 +41330,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He died heroically, in battle with the knights."
+                "He died heroically battling the knights."
               ]
             },
             {
@@ -40479,7 +41466,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -40615,7 +41602,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This arrow's been used so many times it's become brittle."
+                "This arrow's been used so many times, it's become brittle."
               ]
             },
             {
@@ -41186,7 +42173,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demons actually exist!? Why is this happening to me!? "
+                "Demons actually exist!? Why is this happening to me!? This is really "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "pissing me off!"
               ]
             },
             {
@@ -41265,14 +42259,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those demons... They killed so many humans, how dare they try"
+                "Damnable demons! They killed so many humans! How dare they try "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and talk to me like that means nothing!?"
+                "to talk to me like that means nothing!"
               ]
             },
             {
@@ -41296,7 +42290,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unforgivable... I'm going to make them pay for this!!"
+                "Unforgivable! I'm going to make them pay for this!"
               ]
             },
             {
@@ -41375,14 +42369,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demons have even occupied Maximus. They're throwing the whole"
+                "The demons have even occupied Maximus! They're throwing the "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "world into turmoil!"
+                "whole world into turmoil!"
               ]
             },
             {
@@ -41461,7 +42455,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those goddamn demons, they're still aiming for world domination!"
+                "Those goddamn demons! They're still aiming for world domination!"
               ]
             },
             {
@@ -41547,14 +42541,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those demons have even moved on Kumin! The country that"
+                "Those damn demons have even moved on Kumin! A country that"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "also upholds Saint Bohelos's teachings!!"
+                "also upholds Saint Bohelos's teachings!"
               ]
             },
             {
@@ -41633,14 +42627,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those demons, they've actually conquered the whole world!!"
+                "Those shitty demons! They've actually conquered the whole world!"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Doesn't this mean the world of humans is done for!?"
+                "Doesn't that mean the world of humans is done for!?"
               ]
             },
             {
@@ -41664,14 +42658,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some has to stop them! Someone... Isn't there anyone who can"
+                "Someone's got to stop them! Someone... Isn't there anyone who "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stop them!?"
+                "can stop them!?"
               ]
             },
             {
@@ -41814,14 +42808,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demons told me to keep living my life as I was before. Easy"
+                "The demons told me to keep living my life as it was before! "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "for them to say, after they've overturned it!"
+                "Easy for them to say after they overturned it!"
               ]
             },
             {
@@ -41845,7 +42839,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Those horrible things!! I wish they'd all just die!"
+                "Those horrible, disgusting things! I wish they'd all just die!"
               ]
             },
             {
@@ -41924,14 +42918,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Many people decided to join in on the great escape plan. I wanted "
+                "Many people decided to join in on the great escape plan. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to as well, but I got a bad feeling about it..."
+                "I wanted to as well, but I had a bad feeling about it..."
               ]
             },
             {
@@ -41955,14 +42949,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "And then the massacre happened! Unforgivable... Those"
+                "And then the massacre happened! Unforgivable! Those filthy"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "demons are completely unforgiveable!"
+                "demons are completely unforgivable!"
               ]
             },
             {
@@ -42041,7 +43035,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I will never make peace with the demons."
+                "I'll never make peace with the demons!"
               ]
             },
             {
@@ -42120,14 +43114,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is terrible... So many people died. This is further proof"
+                "This is terrible... So many people died! This is further proof that "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "that demons are dangerous and shouldn't exist!"
+                "demons are dangerous and shouldn't exist!"
               ]
             },
             {
@@ -42206,14 +43200,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Saint Bohelos does not walk among us! If she did, there wouldn't"
+                "Saint Bohelos doesn't walk among us! If she did, there wouldn't be "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "be so many dead and the Magic Cannon would never have been built!"
+                "so many dead, and the Magic Cannon never would've been built!"
               ]
             },
             {
@@ -42354,14 +43348,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I won't be fooled! Those demons, spreading such lies! They have the"
+                "I won't be fooled! Those demons, spreading such lies! They might "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Empire fooled, but they won't fool me!"
+                "have the Empire fooled, but they won't fool me!"
               ]
             },
             {
@@ -42505,14 +43499,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks to the demons, the church is a complete mess... Well, it was"
+                "Thanks to the demons, the church is a complete mess. Well, it was"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the knights who pulled it apart for their battle plans."
+                "actually the knights who tore it apart for their battle plans."
               ]
             },
             {
@@ -42591,14 +43585,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ever since the massacre, people have been coming here every"
+                "Ever since the massacre, people have been coming here every day "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "day to bury their dead."
+                "to bury their dead."
               ]
             },
             {
@@ -42622,7 +43616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The gods are testing us... But for what, I don't know."
+                "The gods are testing us, but for what, I don't know."
               ]
             },
             {
@@ -42756,7 +43750,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...I've also helped lay demons to rest here, at their request."
+                "I've also helped lay demons to rest here, at their request."
               ]
             },
             {
@@ -42780,14 +43774,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demons also want their fellows' souls to rest in peace. How..."
+                "Demons want their fellows' souls to rest in peace. How is that any "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How is that any different from we humans?"
+                "different from us humans?"
               ]
             },
             {
@@ -42866,7 +43860,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've helped lay another large number to rest. Both humans"
+                "I've helped lay another large number to rest. Both humans "
               ]
             },
             {
@@ -42897,14 +43891,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How long will these tragedies keep happening?"
+                "How long will these tragedies continue? Just what is the root "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Just what is the root of all of this?"
+                "of all this?"
               ]
             },
             {
@@ -42983,14 +43977,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are two statues here in the church. One is of God, and the"
+                "There are two statues here in the church. One is of God, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "other is of Saint Bohelos."
+                "while the other is of Saint Bohelos."
               ]
             },
             {
@@ -43014,7 +44008,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Many people are saying that Saint Bohelos is actually a demon, "
+                "Many people are saying Saint Bohelos is actually a demon, "
               ]
             },
             {
@@ -43045,14 +44039,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I get the feeling that for them, the statue of Saint Bohelos is"
+                "I get the feeling that for them, the statue of Saint Bohelos is the "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the only version they'll accept."
+                "only version they'll accept."
               ]
             },
             {
@@ -43140,14 +44134,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Demons are terrifying things. You should... Oh. You're a"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "demon, yourself."
+                "Demons are terrifying things. You should... Oh, you're one yourself."
               ]
             },
             {
@@ -43336,14 +44323,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Have you realised it yet? The demon's true... Oh. You're"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "a demon, yourself."
+                "Have you realized yet? The demons' true... Oh, you're one yourself."
               ]
             },
             {
@@ -43486,14 +44466,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They attacked a festival celebrating 100 years of peace! Demons"
+                "They attacked a festival celebrating a full century of peace! "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "are truly disgusting!"
+                "Demons are truly disgusting!"
               ]
             },
             {
@@ -43572,14 +44552,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My grandson ran with the others... Why did this have to happen"
+                "My grandson ran with the others... Why did this have to happen to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to someone so young?"
+                "someone so young?"
               ]
             },
             {
@@ -43658,14 +44638,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The weather's lovely today... I think I go pay a visit to my"
+                "The weather's lovely today... I think I go pay a visit to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "grandson's grave."
+                "my grandson's grave."
               ]
             },
             {
@@ -43751,7 +44731,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Liberation Army has been defeated, the Empire is our only hope."
+                "Liberation Army's been defeated, the Empire's our only hope!"
               ]
             },
             {
@@ -43830,14 +44810,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My father was a peasant. He was a violent man who had no problems"
+                "My father was a slave. He was a violent man who had no problem"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "getting violent."
+                "raising a hand against his children."
               ]
             },
             {
@@ -43861,14 +44841,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still... He was the most affectionate man I knew. He said that"
+                "Still, he was the most affectionate man I knew. He said he'd "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "he'd learned how to love from Saint Bohelos."
+                "learned how to love from Saint Bohelos."
               ]
             },
             {
@@ -43892,14 +44872,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If Saint Bohelos really does walk amongst the demons... She's"
+                "If Saint Bohelos really does walk among the demons, she's probably "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "probably suffering from the depths of her own love."
+                "suffering from the depths of her love."
               ]
             },
             {
@@ -43978,14 +44958,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I heard... That Saint Bohelos was taken by the Empire, in order to"
+                "I heard Saint Bohelos was taken by the Empire in order to save the "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "save the demons and the peasants."
+                "demons and the slaves."
               ]
             },
             {
@@ -44009,14 +44989,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They say Saint Bohelos walks amongst the demons... If it's a lie"
+                "They say Saint Bohelos walks among the demons. If that's a lie the "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the demons made up, then this is a just end. But..."
+                "demons thought up, then this is a just end."
               ]
             },
             {
@@ -44040,7 +45020,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If it's true... I can think of no sadder ending."
+                "But if it's true, I can think of no sadder ending."
               ]
             },
             {
@@ -44276,7 +45256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "already managed world domination!?"
+                "already achieved world domination?"
               ]
             },
             {
@@ -44362,7 +45342,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It was so scary. I thought I was going to die."
+                "It was terrifying. I thought I was going to die."
               ]
             },
             {
@@ -44441,14 +45421,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demons have been really quiet lately. Looking at them, I'd"
+                "The demons have been really quiet lately. Looking at them, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "never think they could ever go berserk like they did."
+                "I'd never think they could go berserk like they did."
               ]
             },
             {
@@ -44591,14 +45571,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demons told me to keep protecting Bohelos. I don't need them"
+                "The demons told me to keep protecting Bohelos! I don't need them"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to tell me! I'd do it anyway!"
+                "to tell me that! I'll do it anyway!"
               ]
             },
             {
@@ -44622,7 +45602,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't even get angry at the demons anymore..."
+                "This stupid brainwashing... I can't even get mad at the demons "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "anymore... Damn it."
               ]
             },
             {
@@ -44701,14 +45688,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We've not been facing any attacks lately. Those damn demons..."
+                "We haven't been facing any attacks lately. Those damn demons..."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Have their plans been working out?"
+                "Have their plans been successful?"
               ]
             },
             {
@@ -44787,14 +45774,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like the demons had to take out their own. Serves"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "them right."
+                "Looks like the demons had to take out their own. Serves them right."
               ]
             },
             {
@@ -44873,7 +45853,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What the... Saint Bohelos is a demon? Then why are we..."
+                "What the... Saint Bohelos is a demon? Then why are we...?"
               ]
             },
             {
@@ -44952,14 +45932,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I heard the demonic Saint Bohelos sold herself to the Empire to"
+                "I heard the demonic Saint Bohelos sold herself to the Empire to try "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "try and stop the conflict..."
+                "and stop the conflict..."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Bohelos Soldier:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "What's with that? It leaves a bad taste in my mouth..."
               ]
             },
             {
@@ -45188,14 +46192,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For some reason, it's really tranquil today. It feels kind"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of nostalgic. "
+                "For some reason, it's really tranquil today. It feels kind of nostalgic. "
               ]
             },
             {
@@ -45274,14 +46271,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demons are getting closer to their goal, but there's not that"
+                "The demons are getting closer to their goal, but there aren't many "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "many of them left. Looks like they're getting desperate."
+                "of them left. Looks like they're getting desperate."
               ]
             },
             {
@@ -45360,14 +46357,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Saint Bohelos walks with the demons... And the deceased Knight"
+                "Saint Bohelos walks with the demons, and the deceased Knight"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Commander is taking part in their fight."
+                "Commander's taking part in their fight."
               ]
             },
             {
@@ -45391,7 +46388,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's going on? Is it all just incitement on the demon's side?"
+                "What's going on? Are those just lies the demons made up?"
               ]
             },
             {
@@ -45470,14 +46467,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The demon's conflict with the Empire is over. Apparently they"
+                "The demons' conflict with the Empire is over. Apparently they "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "actually managed to talk it out."
+                "managed to talk it out."
               ]
             },
             {
@@ -45501,7 +46498,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "They actually went and talked to the supreme ruler of the"
+                "They actually went and spoke with the supreme ruler of the "
               ]
             },
             {

@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Shingana Old Fort Warehouse",
+  "displayName": "Shingana's Old Fort Warehouse",
   "encounterList": [
 
   ],
@@ -1803,7 +1803,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -3293,14 +3293,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Eeep! Wh-Who are you!?"
+                "E-Eek! Who are you!?"
               ]
             },
             {
@@ -3317,14 +3317,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please, don't tell anyone where I'm hiding! "
+                "Please, don't tell anyone where I'm hiding! There's no knowing "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "what Shingana will do to me! *Tremble* *Tremble*..."
               ]
             },
             {
@@ -3341,14 +3348,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Huh? You're going to fight the King of Shingana? Impossible! "
+                "...Huh!? You're going to fight the King of Shingana? Impossible! "
               ]
             },
             {
@@ -3372,7 +3379,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
@@ -3386,7 +3393,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I got it before my will to fight was completely broken."
+                "I got it before my will to fight was broken."
               ]
             },
             {
@@ -3502,21 +3509,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The screams, the blood... Every time I remember it, my body"
+                "Seeing how many slaves were tortured here... It broke my heart."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "won't stop trembling."
+                "Slave Knight:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The screams... The blood... Every time I remember it, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "my body won't stop trembling."
               ]
             },
             {
@@ -3588,14 +3619,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please! Please lea- Huh? You... You defeated the King of Shingana?"
+                "Please! Please lea-! ...Huh? You defeated the King of Shingana?"
               ]
             },
             {
@@ -3612,14 +3643,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Knight:"
+                "Slave Knight:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought the fortress seemed very busy... Eh? You mean it?"
+                "I thought the fortress seemed a little busy... Eh? You mean it?"
               ]
             },
             {

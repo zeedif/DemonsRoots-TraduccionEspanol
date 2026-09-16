@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Market",
+  "displayName": "Slave Market",
   "encounterList": [
 
   ],
@@ -4192,14 +4192,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hm? You're looking for an inn? This place is where the gladiators"
+                "Hmm? Why are you looking for an inn here? This is where they "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "all get jammed in together."
+                "cram all the gladiators."
               ]
             },
             {
@@ -4223,14 +4223,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This place is fine for peasants, but I personally recommend the inn "
+                "This place is fine for slaves, but I personally recommend the inn to "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "to the left of the crossroads."
+                "the left of the crossroads."
               ]
             },
             {
@@ -4340,14 +4340,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still, their expressions are a lot better than back when they were"
+                "Still, their expressions are a lot brighter than back when they were"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "peasants. Good for them, I guess?"
+                "slaves. Good for them, I guess?"
               ]
             },
             {
@@ -5280,14 +5280,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is where me and the other gladiators live. It's a warren of"
+                "This is where the other gladiators and I live. It's a warren of small, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "small, dirty, cramped rooms."
+                "dirty, cramped rooms."
               ]
             },
             {
@@ -5311,14 +5311,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Stay away. If you catch the eye of one of the angry ones, there's"
+                "Stay away from here. If you catch the eye of one of the angry ones, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "no saying what would happen."
+                "there's no telling what'll happen."
               ]
             },
             {
@@ -5397,14 +5397,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is where me and the other gladiators live. It's a warren of"
+                "This is where the other gladiators and I live. It's a warren of small, "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "small, dirty, cramped rooms."
+                "dirty, cramped rooms."
               ]
             },
             {
@@ -5428,14 +5428,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Plana may have changed, but this place is as filthy as ever. I'd"
+                "Plana may have changed, but this place is as filthy as ever. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "stay away if I were you."
+                "I'd stay away if I were you."
               ]
             },
             {
@@ -5728,14 +5728,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The labor shortage is getting crazy. I figured I'd come here and"
+                "The labor shortage is getting crazy. I figured I'd come here and find "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "find myself some paid workers."
+                "myself some workers."
               ]
             },
             {
@@ -5893,7 +5893,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Up ahead leads to the lower level of the colosseum. The gladiators"
+                "Up ahead you'll find the lower level of the coliseum. The gladiators"
               ]
             },
             {
@@ -5931,7 +5931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "and their nights doing manual labor. It's hard work, being a peasant."
+                "and their nights doing manual labor. It's hard work being a slave."
               ]
             },
             {
@@ -6010,7 +6010,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Up ahead leads to the lower level of the colosseum. The gladiators"
+                "Up ahead you'll find the lower level of the coliseum. The gladiators"
               ]
             },
             {
@@ -6096,7 +6096,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We're doing maintenance on the backstage right now. No entry."
+                "We're performing maintenance backstage right now. No entry."
               ]
             },
             {
@@ -6177,14 +6177,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Managing livestock must be hard."
+                "I can cook and clean, but I don't know how to manage livestock."
               ]
             },
             {
@@ -6256,7 +6256,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Slave:"
               ]
             },
             {
@@ -6344,14 +6344,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is horrible."
+                "This is my third time at market. People keep buying and "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "selling me back..."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Slave:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The rich buy slaves, run them into the ground, then get rid of"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them. It's horrible."
               ]
             },
             {
@@ -6423,14 +6461,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is horrible."
+                "I'm never going to be sold as a slave again. I can hardly believe it."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Slave:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Only within Plana, though. In other countries, slaves are treated"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "even worse. I dread to think about it."
               ]
             },
             {
@@ -6511,14 +6580,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wizard:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I arrived at the wrong city."
+                "*Sniff*... Wh-Where am I? Mommy?"
               ]
             },
             {
@@ -6590,14 +6659,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Wizard:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I arrived at the wrong city."
+                "I can cook and sew. As for my salary... I'd like to be paid well."
               ]
             },
             {
@@ -6678,14 +6747,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be a carpenter, but now I fight for profit."
+                "I used to be a carpenter, believe it or not. If you want a gladiator, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "look somewhere else. Shit..."
               ]
             },
             {
@@ -6757,14 +6833,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Slave:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I used to be a carpenter, but now I fight for profit."
+                "I was a carpenter before I became a slave. If you need more hands,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I can help."
               ]
             },
             {
@@ -6852,7 +6935,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you want to trade, speak to one of the merchants."
+                "If you want a slave, speak to one of the merchants. You'll need to "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "sort out a contract along with some other stuff."
               ]
             },
             {
@@ -6931,7 +7021,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you want to trade, speak to one of the merchants."
+                "Now that the slave trade's been outlawed, the slave market's been"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "made into a hub for managing temporary employee placements."
               ]
             },
             {
@@ -7019,7 +7116,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nothing to report!"
+                "Beautiful slaves are luxury items. If you want one for work, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "judge them by their build and attitude."
               ]
             },
             {
@@ -7098,7 +7202,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Nothing to report!"
+                "Beautiful slaves are luxury items. If you want one for work, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "judge them by their build and attitude."
               ]
             },
             {
@@ -7249,21 +7360,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trader:"
+                "Slave Trader:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're going to take part in the colosseum, right? Then I'll"
+                "You're going to take part in the Saint Coliseum, right? In that case,  "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bet on you to lose in the first round!"
+                "I'll bet on you losing in the first round!"
               ]
             },
             {
@@ -7335,21 +7446,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trader:"
+                "Former Slave Trader:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're going to take part in the colosseum, right? Then I'll"
+                "How about an excellent housekeeper? Ah, will that do? "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "bet on you to lose in the first round!"
+                "Don't be like that. At least talk to..."
               ]
             },
             {
@@ -7421,21 +7532,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Trader:"
+                "Former Slave Trader:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Laws may end up being completely abolished... Did I make the"
+                "Slavery may end up being completely abolished. Did I make the right "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "right choice in switching careers so quickly?"
+                "choice in switching careers so quickly?"
               ]
             },
             {
@@ -7523,14 +7634,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You need to check items over carefully before "
+                "You need to check slaves over carefully before buying them. You"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "you buy them."
+                "don't want to take a male home only to find he's missing a dick."
               ]
             },
             {
@@ -7728,14 +7839,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That agent is so full of himself. Still, he's the only one we"
+                "That slave trader's so full of himself. Still, he's the only one we can "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "can buy from so complaining won't get us anywhere."
+                "buy from, so complaining won't get us anywhere."
               ]
             },
             {
@@ -7814,14 +7925,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That agent's going broke! After all the problems he's given"
+                "That slave trader's going broke! After all the trouble he's given "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me, it serves him right! Haha!"
+                "me, it serves him right! Hah!"
               ]
             },
             {
@@ -7964,7 +8075,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Some peasants last much longer, but the downside is that they're not"
+                "Child slaves last much longer, but the downside's that they're not"
               ]
             },
             {
@@ -8050,14 +8161,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wanted to buy myself a new dining table, but... I think I'll "
+                "I wanted to buy myself a child slave, but I think I'll consider "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "consider a used one instead instead."
+                "adoption instead."
               ]
             },
             {
@@ -8200,14 +8311,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The person in charge of looking after my house got sent to the camp. "
+                "The slave in charge of looking after my house got sent to the Slave"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I need a cheap one to take over the work."
+                "Internment Camp. I need a cheap one to take over their work."
               ]
             },
             {
@@ -8286,7 +8397,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I need a servant who's good at housework. I can earn money just"
+                "I need a slave who's good at housework. I can earn money just "
               ]
             },
             {
@@ -8381,14 +8492,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm single, so I'm looking for a worker to handle all the"
+                "I'm single, so I'm looking for a slave to handle all the housekeeping. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "housekeeping."
+                "I think I'll get a male one."
               ]
             },
             {
@@ -8467,14 +8578,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Looks like you can't buy expensive items here anymore."
+                "Looks like you can't buy slaves anymore. I'm fine with hiring. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I don't really care, as long as I can find what I need."
+                "I don't really care as long as the work gets done."
               ]
             },
             {
@@ -8617,7 +8728,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you here to buy goods? They're more expensive than you'd"
+                "Are you here to buy a slave? They're more expensive than you'd"
               ]
             },
             {
@@ -8765,7 +8876,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "everything was just handled by peasants."
+                "everything was handled by slaves before."
               ]
             },
             {
@@ -8789,14 +8900,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thinking about how risky it is to have a random worker, though... It's"
+                "Thinking about how much it costs to keep a slave, though... "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "probably safer to just hire someone."
+                "It's probably cheaper to just hire someone."
               ]
             },
             {
@@ -8967,7 +9078,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {

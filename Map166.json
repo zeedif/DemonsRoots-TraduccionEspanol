@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Room",
+  "displayName": "Student's Room",
   "encounterList": [
 
   ],
@@ -1407,14 +1407,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The person this room belongs to died the other day."
+                "The girl this room belongs to died the other day. I wonder if they'll"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "let me have her stuff."
               ]
             },
             {

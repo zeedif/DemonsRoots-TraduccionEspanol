@@ -4386,14 +4386,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Head to the World Map?"
+                "Move to the world map?"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*The effect of the Glowify will end."
+                "*The effect of See-Throughify will end."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "*Speak to the man in the hut if you want to get naked again."
               ]
             },
             {
@@ -4614,14 +4621,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Head to the World Map?"
+                "Move to the world map?"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*The effect of the Glowify will end."
+                "*The effect of See-Throughify will end."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "*Speak to the man in the hut if you want to get naked again."
               ]
             },
             {
@@ -6207,7 +6221,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Party's HP and MP fully restored!"
+                "The party's HP and MP has been fully restored!"
               ]
             },
             {
@@ -6399,14 +6413,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I came for the hot springs! I heard the apes have calmed down"
+                "I came for the hot spring! I heard the apes have calmed down"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "quite a bit."
+                "quite a bit!"
               ]
             },
             {
@@ -6494,14 +6508,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder why they've stopped attacking humans? Well, either way"
+                "I wonder why they stopped attacking humans... Well, either way it "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "it means we can use the hot springs for free! Lucky!"
+                "means we can use the hot spring for free! Lucky!"
               ]
             },
             {
@@ -6610,14 +6624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My, the pink-haired girl is so cute! Eh? You're a guy?"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "No way??"
+                "My, that pink-haired girl's so cute! ...Huh? You're a guy? No way!"
               ]
             },
             {
@@ -6641,14 +6648,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I-I'll give you 5 Spirit Stones to come into the hot springs with"
+                "I-I'll give you five Spirit Stones to come into the hot spring with "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "me. Don't worry, I won't do anything to you! Well? Well??"
+                "me! Don't worry, I won't do anything to you! Well? Well!?"
               ]
             },
             {
@@ -6773,7 +6780,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aww, come on... I wasn't going to do anything to you! Whyyy...?"
+                "Aw, come on! I wasn't going to do anything to you! Why!?"
               ]
             },
             {

@@ -2,7 +2,7 @@
   "autoplayBgm": false,
   "autoplayBgs": false,
   "battleback1Name": "Ship",
-  "battleback2Name": "Castle2",
+  "battleback2Name": "SF_School1",
   "bgm": {
     "name": "",
     "pan": 0,
@@ -3177,7 +3177,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A strong enemy is enshrined here. Will you take on this"
+                "A strong enemy is enshrined here. Will you take on this "
               ]
             },
             {
@@ -3552,14 +3552,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please leave."
+                "This is the staff room. Only faculty members are allowed "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inside. Please leave."
               ]
             },
             {
@@ -3640,7 +3647,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The students are currently staving off intruders, so they "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "need orderly instruction. "
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Teacher:"
               ]
             },
             {
@@ -3654,7 +3692,38 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Prioritise Bleeding and Poison when applying healing magic."
+                "Prioritize Bleed and Poison when applying healing magic."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Teacher:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Your damage output will temporarily drop, but regular medical"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "treatment is more important than that."
               ]
             },
             {
@@ -3735,14 +3804,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please don't disturb me."
+                "I'm preparing for my classes. Please don't disturb me."
               ]
             },
             {
@@ -3823,14 +3892,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please don't disturb me."
+                "The tests that need grading keep piling up. I don't know who you are, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "but I don't have time to talk."
               ]
             },
             {
@@ -4491,14 +4567,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was send here to stop that monster from acting up, but it's not"
+                "Both the students and teachers keep an eye on it. Even if everyone "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "totally within my control. One slip-up, and I'm dead."
+                "got together, we wouldn't be able to beat it."
               ]
             },
             {
@@ -4522,14 +4598,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My father was the one in charge of it before me... One day, I'll"
+                "I was sent here to stop that monster from acting up, but it's not"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "get my revenge for what it did to him."
+                "totally within my control. One slip-up and I'm dead."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Monster Tamer:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "My father was the one in charge of it before me. One day I'll get my "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "revenge for what it did to him."
               ]
             },
             {
@@ -4626,14 +4733,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You defeated that monster? Incredible... How'd you learn what its"
+                "You defeated that monster? Incredible... How did you learn "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "weakness was?"
+                "its weakness?"
               ]
             },
             {
@@ -4657,14 +4764,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll get mad if you tell Maximus you took it down. They'll drop"
+                "I'll get mad if you tell Maximus you took it down. They'll drop my "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "my wages right through the floor."
+                "wages right through the floor."
               ]
             },
             {
@@ -4688,7 +4795,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Still... Thanks. Here, take this."
+                "Still, thanks. Here, take this."
               ]
             },
             {
@@ -4803,14 +4910,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This room's really small. If the large number of sealed"
+                "This staff room's really small. If we sealed it off and released a "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "monsters were to be released..."
+                "bunch of monsters inside…"
               ]
             },
             {
@@ -4834,14 +4941,45 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good thing everything got handled before it became a problem. You're"
+                "The teachers and I could probably deal with the magical organism. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "the saviour of this room."
+                "We've been considering it."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Monster Tamer:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good thing everything got handled before it became a problem. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You're the savior of the staff room."
               ]
             },
             {

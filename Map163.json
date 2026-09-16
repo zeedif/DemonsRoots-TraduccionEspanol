@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Dorms",
+  "displayName": "Student Dorms",
   "encounterList": [
     {
       "regionSet": [
@@ -23596,14 +23596,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The people who live here aren't back yet? "
+                "The students who live here aren't back yet? And I was going to give "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "them special attention too... Hehehe..."
               ]
             },
             {
@@ -23739,14 +23746,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Supervisor:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The holy units get to wear a special hats, but we have very high"
+                "The holy units get to wear special hats, but we have very high"
               ]
             },
             {
@@ -24031,21 +24038,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This is the dormitory. The people come back here when"
+                "This is the student dormitory. The students return here when "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "they're tired from training or missions."
+                "they grow tired from lessons or missions."
               ]
             },
             {
@@ -24181,14 +24188,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm going to die tomorrow. They've given me a high level mission."
+                "I'm going to die tomorrow. They've given me a high-level mission."
               ]
             },
             {
@@ -24205,21 +24212,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm going to be taking part in Maximus's war. The survival rate "
+                "I'm going to be taking part in Maximus's war. The survival rate of "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "of Magic Units is 0%. It's a great honor."
+                "Magic Units is 0%. It's a great honor."
               ]
             },
             {
@@ -24291,7 +24298,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
@@ -24322,21 +24329,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Sticking their noses in like that... I was supposed to die a"
+                "Sticking their noses in like that... I was supposed to die "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "glorious death!"
+                "a glorious death!"
               ]
             },
             {

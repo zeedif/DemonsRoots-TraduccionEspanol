@@ -23061,7 +23061,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "← Magic Barrier, Dorms"
+                "← Magic Barrier, Student Dorms"
               ]
             },
             {
@@ -29218,7 +29218,149 @@
       "x": 43,
       "y": 5
     },
-    null,
+    {
+      "id": 32,
+      "name": "EV032",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "b13",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm making an organism that'll be useful in battle. Excuse me. *Sob*..."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 102,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 32,
+      "y": 32
+    },
     {
       "id": 33,
       "name": "敵１",
@@ -33338,7 +33480,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Find Sarasa! She can't be too far away!"
+                "Find Sarasa! She can't have gotten far!"
               ]
             },
             {
@@ -33450,7 +33592,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Teacher:"
               ]
             },
             {
@@ -33464,7 +33606,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Push every drop of your magic into it!"
+                "Put every drop of magic you have into it!"
               ]
             },
             {
@@ -35584,21 +35726,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My creature just isn't going according to the assignment. It's"
+                "My creature just isn't going according to the assignment. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "supposed to find, bind, then burn the enemy to death."
+                "It's supposed to find, bind, and burn an enemy to death."
               ]
             },
             {
@@ -35670,21 +35812,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I make magic organisms on commission from foreign countries. It brings"
+                "I make magical organisms on commission from foreign countries! "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "in a lot of money!"
+                "It brings in a lot of money!"
               ]
             },
             {
@@ -35765,7 +35907,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
@@ -35851,14 +35993,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Be careful, okay?"
+                "I do think it's a good thing that everyone's been freed from their"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "chains to live their lives, but..."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Some of the students have been overcome by their impulses and "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "tend to act violently. Be careful, okay?"
               ]
             },
             {
@@ -36088,21 +36268,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm just... Hiding here to take a little break. Creating magical"
+                "I'm just hiding here to take a little break. Creating magical "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "organisms uses up a lot of magic power. *Pant*"
+                "organisms uses up a lot of magic power. *Pant*..."
               ]
             },
             {
@@ -36174,21 +36354,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm taking a break. I like it here."
+                "I'm taking a break. I like it here in this dark, dirty warehouse."
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's calming."
+                "It's strangely calming."
               ]
             },
             {
@@ -36499,21 +36679,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I fought with my friend. She was so angry, she even used her magic"
+                "I fought with my friend. She was so angry, she even used her "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "on me..."
+                "magic on me..."
               ]
             },
             {
@@ -36530,7 +36710,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
@@ -36545,6 +36725,30 @@
               "indent": 0,
               "parameters": [
                 "She was totally out of control."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "We made up after. I went too far when I sealed her magic like that."
               ]
             },
             {
@@ -37389,7 +37593,206 @@
       "x": 50,
       "y": 35
     },
-    null,
+    {
+      "id": 83,
+      "name": "教師",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1009,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "b13",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "pan",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 224,
+              "indent": 0,
+              "parameters": [
+                [
+                  255,
+                  255,
+                  255,
+                  170
+                ],
+                60,
+                true
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Teacher:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You weakened the magical organisms to make them more easily"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "controllable and keep the students safe!?"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Teacher:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "What's wrong with you!? What's your aim here!? Answer me!"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 102,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": [
+
+              ]
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": [
+
+                ]
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": true,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 33,
+      "y": 32
+    },
     {
       "id": 84,
       "name": "教師",
@@ -37434,21 +37837,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The people are in charge of conducting research into making the"
+                "The students are in charge of conducting research into making the"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "strongest ones possible."
+                "strongest creatures possible."
               ]
             },
             {
@@ -37584,21 +37987,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "*Wheeze Wheeze* Th-Thank you. *Pant Pant* I'm all out..."
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "Of magic..."
+                "*Pant* *Pant*... Th-Thank you... I'm all out of magic..."
               ]
             },
             {
@@ -37670,21 +38066,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I had a great idea for a creature and wore myself out"
+                "*Pant* *Pant*... I had a great idea for a creature and wore myself "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "creating as many as possible."
+                "out creating as many as possible."
               ]
             },
             {

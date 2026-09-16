@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "Lecture Room 263",
+  "displayName": "Classroom 263",
   "encounterList": [
     {
       "regionSet": [
@@ -5398,21 +5398,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Intruders! I'm going to call the others and we'll "
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "dispose of you!"
+                "Intruders! I'm going to call the other students! We'll dispose of you!"
               ]
             },
             {
@@ -7522,7 +7515,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "dolts! Look only to your own progress!!"
+                "dolts! Look only to your own progress!"
               ]
             },
             {
@@ -7713,14 +7706,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Teacher:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "So you're the intruders? Get lost!"
+                "So you're the intruders? I'm busy providing guidance to the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "students. Get lost."
               ]
             },
             {
@@ -9834,14 +9834,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm very sorry. "
+                "I-I'm very sorry. I'll focus only on my own studies. I won't..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "think about my friends anymore."
               ]
             },
             {
@@ -9913,14 +9920,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Woman:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I fell asleep while training, but I won't do it again."
+                "I fell asleep during class, so I'm being made to stand out here "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in the hall."
               ]
             },
             {
@@ -10166,14 +10180,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please don't talk to me. I'm trying to focus."
+                "Please don't talk to me. I'm trying to focus on my lessons."
               ]
             },
             {
@@ -10316,14 +10330,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "If you can't answer the teacher's question in ten seconds or less,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you get sent to stand in the hall."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Then you get sent to the staff room for punishment. *Sigh*... "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I need to take my studies more seriously."
               ]
             },
             {
@@ -10624,14 +10676,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "History lessons are fun! You can learn a lot by studying what"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "happened in the past!"
               ]
             },
             {
@@ -11399,14 +11458,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "I can tell that what I'm being taught will really help me! "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I need to make sure to remember all of it!"
               ]
             },
             {
@@ -11652,14 +11718,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Math's so nice... I love the feeling I get when a problem solves "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "just the way I thought it would."
               ]
             },
             {
@@ -11905,14 +11978,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Sometimes I don't get why we have the lessons we do. I want more"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "practical ones. Ones that'll help with daily life."
               ]
             },
             {
@@ -12158,14 +12238,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Mankind is its own worst enemy... "
+                "Mankind's its own worst enemy... I think that lessons on "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "inter-personal relationships would be really useful."
               ]
             },
             {
@@ -12308,14 +12395,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "If you can't answer the teacher's question in ten seconds or less,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you get sent to stand in the hall."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Then you get sent to the staff room for punishment. *Sigh*... "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I need to take my studies more seriously."
               ]
             },
             {
@@ -12616,14 +12741,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Will I be able to survive out in the real world?"
+                "I need to study hard so I can survive out in the real world!"
               ]
             },
             {
@@ -12869,14 +12994,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The outside world is a really harsh place."
+                "The outside world's a really harsh place."
               ]
             },
             {
@@ -13019,14 +13144,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "If you can't answer the teacher's question in ten seconds or less,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you get sent to stand in the hall."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Then you get sent to the staff room for punishment. *Sigh*... "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I need to take my studies more seriously."
               ]
             },
             {
@@ -13327,14 +13490,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "I'm kind of glad we have lessons that teach us the proper way to "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "use our words. "
               ]
             },
             {
@@ -13477,14 +13647,52 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "If you can't answer the teacher's question in ten seconds or less,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "you get sent to stand in the hall."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Student:"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Then you get sent to the staff room for punishment. *Sigh*... "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I need to take my studies more seriously."
               ]
             },
             {
@@ -13785,14 +13993,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "The teachers talk about themselves in class too. It's not just us "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "students who have things hard."
               ]
             },
             {
@@ -14038,14 +14253,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Learning about the history of the continent's kind of refreshing!"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'd only ever learned about the history of Rooklook before!"
               ]
             },
             {
@@ -14291,21 +14513,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I've memorised a lot of incantations, but this is the first time I've"
+                "I've memorized a lot of incantations, but this is the first time I've"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "had to create one from scratch."
+                "had a lesson on how to create one from scratch."
               ]
             },
             {
@@ -14551,14 +14773,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Cooking's so much fun! "
+                "Cooking's so much fun! It's making me more and more interested"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "in chemistry!"
               ]
             },
             {
@@ -14804,14 +15033,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Our most recent classes are about teaching us how to connect with"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "other people! It's the best!"
               ]
             },
             {
@@ -15057,14 +15293,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "I heard lessons on communicating are really rare. I wonder why. "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Isn't every society based on communication?"
               ]
             },
             {
@@ -15310,14 +15553,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Money's really important!"
+                "Money's really important! I've never been so interested in one of "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "my classes before!"
               ]
             },
             {
@@ -15563,21 +15813,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "For the first time in my life, I honestly feel this"
+                "For the first time in my life, I honestly feel like my lessons"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "is really important."
+                "are really important."
               ]
             },
             {
@@ -15823,14 +16073,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Teacher... How do I get you to pay more attention to me?"
               ]
             },
             {
@@ -16076,14 +16326,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "We have classes on communication now! If I study hard, "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I won't fight with my friends anymore!"
               ]
             },
             {
@@ -16329,14 +16586,14 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Our new classes are nothing like our old ones."
               ]
             },
             {
@@ -16582,14 +16839,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "I have a dream! I want to leave Rooklook and become a baker,"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "so I'm going to study my butt off!"
               ]
             },
             {
@@ -16835,14 +17099,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Man:"
+                "Student:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Life is so nice..."
+                "Those monsters are used in lessons. The teacher said we're not"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "supposed to fight them."
               ]
             },
             {
@@ -17045,7 +17316,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like the door locks when training is in session."
+                "It looks like the door locks when class is in session."
               ]
             },
             {
@@ -17358,7 +17629,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like the door locks when training is in session."
+                "It looks like the door locks when class is in session."
               ]
             },
             {
@@ -17882,7 +18153,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "but it's important that you learn these things."
+                "but it's important to learn these things."
               ]
             },
             {
@@ -24462,7 +24733,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "↑ 263rd Ward Lecture Room"
+                "↑ 263rd Ward Classroom"
               ]
             },
             {

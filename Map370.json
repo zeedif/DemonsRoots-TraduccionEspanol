@@ -3468,7 +3468,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Uu... Uuu..."
+                "Ugh... Urgh..."
               ]
             },
             {
@@ -3549,21 +3549,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guest:"
+                "Captive Guest:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Uuu... The mansion's been in my family for generations. I bet"
+                "Ugh... The mansion's been in my family for generations. "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "they've already sold it off. Khnn..."
+                "I bet they've already sold it off."
               ]
             },
             {
@@ -3624,7 +3624,7 @@
           "directionFix": false,
           "image": {
             "tileId": 0,
-            "characterName": "",
+            "characterName": "c05",
             "direction": 4,
             "pattern": 1,
             "characterIndex": 1
@@ -3654,7 +3654,7 @@
           },
           "moveSpeed": 3,
           "moveType": 0,
-          "priorityType": 0,
+          "priorityType": 1,
           "stepAnime": false,
           "through": false,
           "trigger": 0,
@@ -3708,14 +3708,21 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Guest:"
+                "Captive Guest:"
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I couldn't do anything as they took everything from me!"
+                "The woman I was with... Damn it! I couldn't do anything as they "
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "took everything from me!"
               ]
             },
             {

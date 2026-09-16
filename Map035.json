@@ -4845,7 +4845,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The door is locked."
+                "The door's locked."
               ]
             },
             {
@@ -4917,14 +4917,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Used the Key of Warning. It's so old and rusted that it"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "crumbles after use."
+                "Used the Key of Warning. It's so old and rusted that it crumbles after use."
               ]
             },
             {
@@ -5917,14 +5910,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The body of a prisoner. It's holding a piece"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "of paper."
+                "The body of a prisoner who's been tortured. It's holding a piece of paper."
               ]
             },
             {
@@ -5941,14 +5927,31 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like the password to a treasure chest. This must have"
+                "It looks like the password to a treasure chest. This must've been "
               ]
             },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "been the chest's owner."
+                "the chest's owner."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Deathpolca memorized the password."
               ]
             },
             {
@@ -6040,7 +6043,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The body of a prisoner."
+                "The body of a prisoner who's been tortured."
               ]
             },
             {
